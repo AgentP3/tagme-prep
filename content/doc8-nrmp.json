@@ -1,0 +1,114 @@
+{
+  "id": "doc8-nrmp",
+  "title": "NRMP Match Participation Agreement for Programs",
+  "shortTitle": "NRMP Match",
+  "documentRef": "Placeholder content for NRMP Match",
+  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "browseContent": [
+    {
+      "type": "heading",
+      "text": "About this section (placeholder)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This document covers NRMP Match Participation Agreement for Programs. Browse content will be populated when real content is generated."
+    },
+    {
+      "type": "subheading",
+      "text": "What will appear here"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Key terms and definitions from the source document",
+        "Major requirements and procedures explained in plain language",
+        "Cross-references to related sections of the study guide"
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "doc8-nrmp-fc-001",
+      "front": "Placeholder flashcard #1 for NRMP Match",
+      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "citation": {
+        "source": "NRMP Match, Section X.X (placeholder)",
+        "page": 0,
+        "quote": "Placeholder quote from source document."
+      }
+    },
+    {
+      "id": "doc8-nrmp-fc-002",
+      "front": "Placeholder flashcard #2 for NRMP Match",
+      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "citation": {
+        "source": "NRMP Match, Section X.Y (placeholder)",
+        "page": 0,
+        "quote": "Another placeholder quote."
+      }
+    },
+    {
+      "id": "doc8-nrmp-fc-003",
+      "front": "Placeholder flashcard #3 for NRMP Match",
+      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "citation": {
+        "source": "NRMP Match, Section X.Z (placeholder)",
+        "page": 0,
+        "quote": "A third placeholder quote."
+      }
+    }
+  ],
+  "mcQuestions": [
+    {
+      "id": "doc8-nrmp-mc-001",
+      "stem": "Placeholder question #1 for NRMP Match: which of the following is the correct answer in this test stub?",
+      "options": [
+        "Option A \u2014 this is the correct answer",
+        "Option B \u2014 a plausible distractor",
+        "Option C \u2014 another distractor",
+        "Option D \u2014 a final distractor"
+      ],
+      "correctIndex": 0,
+      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
+      "citation": {
+        "source": "NRMP Match, Section X.X (placeholder)",
+        "page": 0,
+        "quote": "Placeholder source quote for the MC question."
+      }
+    },
+    {
+      "id": "doc8-nrmp-mc-002",
+      "stem": "Placeholder question #2 for NRMP Match: which option is correct here?",
+      "options": [
+        "Option A \u2014 wrong",
+        "Option B \u2014 the correct answer",
+        "Option C \u2014 wrong",
+        "Option D \u2014 wrong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "citation": {
+        "source": "NRMP Match, Section Y.Y (placeholder)",
+        "page": 0,
+        "quote": "A second placeholder source quote."
+      }
+    },
+    {
+      "id": "doc8-nrmp-mc-003",
+      "stem": "Placeholder question #3 for NRMP Match: test the review queue by intentionally answering this wrong.",
+      "options": [
+        "Option A \u2014 wrong",
+        "Option B \u2014 wrong",
+        "Option C \u2014 wrong",
+        "Option D \u2014 the correct answer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "citation": {
+        "source": "NRMP Match, Section Z.Z (placeholder)",
+        "page": 0,
+        "quote": "A third placeholder source quote."
+      }
+    }
+  ]
+}

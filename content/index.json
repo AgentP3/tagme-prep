@@ -1,0 +1,77 @@
+{
+  "version": "0.1.0-placeholder",
+  "sections": [
+    {
+      "id": "doc1-residency-cpr",
+      "title": "ACGME Common Program Requirements (Residency)",
+      "shortTitle": "Residency CPR",
+      "documentRef": "Study Guide section: Residency CPR",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    },
+    {
+      "id": "doc2-fellowship-cpr",
+      "title": "ACGME Common Program Requirements (Fellowship)",
+      "shortTitle": "Fellowship CPR",
+      "documentRef": "Study Guide section: Fellowship CPR",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    },
+    {
+      "id": "doc3-institutional",
+      "title": "ACGME Institutional Requirements",
+      "shortTitle": "Institutional Reqs",
+      "documentRef": "Study Guide section: Institutional Reqs",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    },
+    {
+      "id": "doc4-ads-guides",
+      "title": "ACGME Accreditation Data System Guides",
+      "shortTitle": "ADS Guides",
+      "documentRef": "Study Guide section: ADS Guides",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    },
+    {
+      "id": "doc5-policies",
+      "title": "ACGME Policies and Procedures",
+      "shortTitle": "Policies & Procedures",
+      "documentRef": "Study Guide section: Policies & Procedures",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    },
+    {
+      "id": "doc6-nst-recognition",
+      "title": "ACGME NST Recognition for Sponsoring Institutions",
+      "shortTitle": "NST Recognition",
+      "documentRef": "Study Guide section: NST Recognition",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    },
+    {
+      "id": "doc7-ecfmg",
+      "title": "ECFMG Certification Information Booklet",
+      "shortTitle": "ECFMG Certification",
+      "documentRef": "Study Guide section: ECFMG Certification",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    },
+    {
+      "id": "doc8-nrmp",
+      "title": "NRMP Match Participation Agreement for Programs",
+      "shortTitle": "NRMP Match",
+      "documentRef": "Study Guide section: NRMP Match",
+      "mcCount": 3,
+      "fcCount": 3,
+      "status": "placeholder"
+    }
+  ]
+}
