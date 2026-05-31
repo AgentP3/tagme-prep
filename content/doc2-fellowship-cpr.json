@@ -2,112 +2,771 @@
   "id": "doc2-fellowship-cpr",
   "title": "ACGME Common Program Requirements (Fellowship)",
   "shortTitle": "Fellowship CPR",
-  "documentRef": "Placeholder content for Fellowship CPR",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "documentRef": "TAGME Study Guide pages 48\u201391",
+  "description": "The Common Program Requirements (Fellowship) define what every ACGME-accredited fellowship program must do. Fellowship is advanced GME beyond a core residency program; the CPR (Fellowship) parallels the Residency CPR with key distinctions reflecting that fellows have already completed residency.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers ACGME Common Program Requirements (Fellowship). Browse content will be populated when real content is generated."
+      "text": "The Fellowship CPR governs ACGME-accredited fellowship (subspecialty) programs. Structurally, it parallels the Residency CPR, but key distinctions reflect that fellows enter having already completed a core residency and are able to practice autonomously in their core specialty."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "Major differences from the Residency CPR"
     },
     {
       "type": "list",
       "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
+        "Program Director must possess subspecialty expertise; no explicit three-year experience requirement",
+        "Program Director must hold current certification in the subspecialty (not the core specialty)",
+        "Two options exist for fellow eligibility (Option 1 includes RCPSC/CFPC/ACGME-I Advanced; Option 2 limits to ACGME/AOA)",
+        "Fellow Eligibility Exception (Section 3.2.b) permits an exceptionally qualified international graduate under specific conditions",
+        "Subspecialty-specific Milestones (not specialty Milestones) used for evaluation",
+        "Section 4.12 requires pain management instruction where applicable to the subspecialty",
+        "Section 6.9.c: Fellows should serve in a supervisory role to junior fellows AND residents (Detail)",
+        "Programs must ensure fellow education does not compromise core residents' education",
+        "Faculty Survey: Section 2.10.a requires faculty members to complete the annual ACGME Faculty Survey",
+        "PGY-1 supervision requirement does not directly apply (fellows are post-residency)"
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "Sections parallel to Residency CPR"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section 1 (Oversight), Section 2 (Personnel \u2014 apart from PD qualifications and the Faculty Survey requirement), Section 5 (Evaluation framework, CCC, Annual Program Evaluation, board certification reporting using a 7-year cohort), and Section 6 (Learning and Working Environment, supervision levels, well-being, work hours: 80/week averaged over 4 weeks; 14 hours after 24-hour call; 1 day off in 7; up to 88 hours by exception; moonlighting counts toward 80) carry over essentially unchanged from the Residency CPR with \"fellow\" substituted for \"resident\"."
     }
   ],
   "flashcards": [
     {
-      "id": "doc2-fellowship-cpr-fc-001",
-      "front": "Placeholder flashcard #1 for Fellowship CPR",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc2-fc-001",
+      "front": "How is \"Fellowship\" defined in the introduction to the Fellowship CPR?",
+      "back": "Fellowship is advanced graduate medical education beyond a core residency program for physicians who desire to enter more specialized practice. Fellows have completed residency and are able to practice autonomously in their core specialty.",
       "citation": {
-        "source": "Fellowship CPR, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "CPR Fellowship, Introduction \u2014 Definition of Graduate Medical Education",
+        "page": 50,
+        "quote": "Fellowship is advanced graduate medical education beyond a core residency program for physicians who desire to enter more specialized practice\u2026 Fellows who have completed residency are able to practice autonomously in their core specialty. The prior medical experience and expertise of fellows distinguish them from physicians entering residency."
       }
     },
     {
-      "id": "doc2-fellowship-cpr-fc-002",
-      "front": "Placeholder flashcard #2 for Fellowship CPR",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc2-fc-002",
+      "front": "What are the qualifications required of a fellowship Program Director?",
+      "back": "The program director must possess subspecialty expertise and qualifications acceptable to the Review Committee. (Notably, unlike the Residency CPR, there is no explicit three-year educational/administrative experience requirement in the Fellowship CPR.)",
       "citation": {
-        "source": "Fellowship CPR, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "CPR Fellowship, Section 2.4",
+        "page": 55,
+        "quote": "2.4. Qualifications of the Program Director: The program director must possess subspecialty expertise and qualifications acceptable to the Review Committee. (Core)"
       }
     },
     {
-      "id": "doc2-fellowship-cpr-fc-003",
-      "front": "Placeholder flashcard #3 for Fellowship CPR",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc2-fc-003",
+      "front": "What board certification must a fellowship Program Director hold?",
+      "back": "Current certification in the subspecialty by the American Board of [subspecialty] or by the American Osteopathic Board of [subspecialty], or subspecialty qualifications acceptable to the Review Committee.",
       "citation": {
-        "source": "Fellowship CPR, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "CPR Fellowship, Section 2.4.a",
+        "page": 55,
+        "quote": "2.4.a. The program director must possess current certification in the subspecialty for which they are the program director by the American Board of _____ or by the American Osteopathic Board of _____, or subspecialty qualifications that are acceptable to the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-004",
+      "front": "What certification must subspecialty physician faculty members hold?",
+      "back": "Current certification in the subspecialty by the American Board of [subspecialty] or the American Osteopathic Board of [subspecialty], or qualifications acceptable to the Review Committee.",
+      "citation": {
+        "source": "CPR Fellowship, Section 2.9",
+        "page": 59,
+        "quote": "2.9. Subspecialty Physician Faculty Members. Subspecialty physician faculty members must have current certification in the subspecialty by the American Board of _____ or the American Osteopathic Board of _____, or possess qualifications judged acceptable to the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-005",
+      "front": "What is required of \"any other specialty physician faculty members\" who are not subspecialty-certified?",
+      "back": "They must have current certification in their specialty by the appropriate ABMS member board or AOA certifying board, or possess qualifications judged acceptable to the Review Committee.",
+      "citation": {
+        "source": "CPR Fellowship, Section 2.9.a",
+        "page": 60,
+        "quote": "2.9.a. Any other specialty physician faculty members must have current certification in their specialty by the appropriate American Board of Medical Specialties (ABMS) member board or American Osteopathic Association (AOA) certifying board, or possess qualifications judged acceptable to the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-006",
+      "front": "What is the annual survey requirement for fellowship faculty?",
+      "back": "Faculty members must complete the annual ACGME Faculty Survey.",
+      "citation": {
+        "source": "CPR Fellowship, Section 2.10.a",
+        "page": 60,
+        "quote": "2.10.a. Faculty members must complete the annual ACGME Faculty Survey."
+      }
+    },
+    {
+      "id": "doc2-fc-007",
+      "front": "How are core faculty members defined in the Fellowship CPR?",
+      "back": "Core faculty members must have a significant role in the education and supervision of fellows, must devote a significant portion of their entire effort to fellow education and/or administration, and must \u2014 as a component of their activities \u2014 teach, evaluate, and provide formative feedback to fellows.",
+      "citation": {
+        "source": "CPR Fellowship, Section 2.10",
+        "page": 60,
+        "quote": "Core faculty members must have a significant role in the education and supervision of fellows and must devote a significant portion of their entire effort to fellow education and/or administration, and must, as a component of their activities, teach, evaluate, and provide formative feedback to fellows. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-008",
+      "front": "What are the two options for fellow eligibility regarding required clinical education?",
+      "back": "Option 1: All required clinical education must be completed in an ACGME-accredited residency, AOA-approved residency, a program with ACGME-I Advanced Specialty Accreditation, or an RCPSC- or CFPC-accredited residency in Canada. Option 2 (more restrictive): only ACGME-accredited or AOA-approved residency programs. The Review Committee selects which option applies to its subspecialty.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2 \u2014 Eligibility Requirements",
+        "page": 63,
+        "quote": "3.2. Eligibility Requirements \u2013 Fellowship Programs [Review Committee to choose one of the following:] Option 1: All required clinical education for entry into ACGME-accredited fellowship programs must be completed in an ACGME-accredited residency program, an AOA-approved residency program, a program with ACGME International (ACGME-I) Advanced Specialty Accreditation, or a Royal College of Physicians and Surgeons of Canada (RCPSC)-accredited or College of Family Physicians of Canada (CFPC)-accredited residency program located in Canada. (Core) Option 2: All required clinical education for entry into ACGME-accredited fellowship programs must be completed in an ACGME-accredited residency program or an AOA-approved residency program. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-009",
+      "front": "What Milestones evaluations must fellowship programs receive for entering fellows?",
+      "back": "Programs must receive verification of each entering fellow's level of competence in the required field using Milestones evaluations from the core residency program \u2014 ACGME, ACGME-I, or CanMEDS Milestones if Option 1, or ACGME Milestones if Option 2. The ADS \"Residency Milestone Retrieval\" feature provides access to these reports.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2.a",
+        "page": 63,
+        "quote": "3.2.a. [If Review Committee selected Option 1 above:] Fellowship programs must receive verification of each entering fellow's level of competence in the required field using ACGME, ACGME-I, or CanMEDS Milestones evaluations from the core residency program. (Core) [If Review Committee selected Option 2 above:] Fellowship programs must receive verification of each entering fellow's level of competence in the required field using ACGME Milestones evaluations from the core residency program. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-010",
+      "front": "What is the Fellow Eligibility Exception?",
+      "back": "An ACGME-accredited fellowship program may accept an exceptionally qualified international graduate applicant who does not satisfy the standard eligibility requirements if ALL of these are met: (a) evaluation by the program director and fellowship selection committee of the applicant's suitability based on prior training and summative evaluations; (b) review and approval of the applicant's exceptional qualifications by the GMEC; (c) verification of ECFMG certification. Applicants accepted through this exception must be evaluated by the CCC within 12 weeks of matriculation.",
+      "citation": {
+        "source": "CPR Fellowship, Sections 3.2.b.1 and 3.2.b.2",
+        "page": 64,
+        "quote": "3.2.b.1. An ACGME-accredited fellowship program may accept an exceptionally qualified international graduate applicant who does not satisfy the eligibility requirements listed in 3.2, but who does meet all of the following additional qualifications and conditions: (Core) 3.2.b.1.a. evaluation by the program director and fellowship selection committee of the applicant's suitability to enter the program, based on prior training and review of the summative evaluations of training in the core specialty; and, (Core) 3.2.b.1.b. review and approval of the applicant's exceptional qualifications by the GMEC; and, (Core) 3.2.b.1.c. verification of Educational Commission for Foreign Medical Graduates (ECFMG) certification. (Core) 3.2.b.2. Applicants accepted through this exception must have an evaluation of their performance by the Clinical Competency Committee within 12 weeks of matriculation. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-011",
+      "front": "What does the Background and Intent state about applicants accepted under the Fellow Eligibility Exception regarding board certification?",
+      "back": "Applicants being considered for these positions must be informed that their training may not lead to certification by ABMS member boards or AOA certifying boards.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2.b \u2014 Background and Intent",
+        "page": 64,
+        "quote": "Applicants being considered for these positions must be informed of the fact that their training may not lead to certification by ABMS member boards or AOA certifying boards."
+      }
+    },
+    {
+      "id": "doc2-fc-012",
+      "front": "Within how many weeks must the Clinical Competency Committee evaluate a fellow accepted through the Fellow Eligibility Exception?",
+      "back": "Within 12 weeks of matriculation.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2.b.2",
+        "page": 64,
+        "quote": "3.2.b.2. Applicants accepted through this exception must have an evaluation of their performance by the Clinical Competency Committee within 12 weeks of matriculation. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-013",
+      "front": "What governs Fellow Complement?",
+      "back": "The program director must not appoint more fellows than approved by the Review Committee. Programs must request approval for all complement changes (temporary or permanent) through ADS; permanent increases require prior Review Committee approval.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.3",
+        "page": 65,
+        "quote": "3.3. Fellow Complement. The program director must not appoint more fellows than approved by the Review Committee. (Core) Background and Intent: Programs are required to request approval of all complement changes, whether temporary or permanent, by the Review Committee through ADS. Permanent increases require prior approval from the Review Committee and temporary increases may also require approval."
+      }
+    },
+    {
+      "id": "doc2-fc-014",
+      "front": "What is required for a Fellow Transfer?",
+      "back": "The program must obtain verification of previous educational experiences and a summative competency-based performance evaluation prior to acceptance of a transferring fellow, and Milestones evaluations upon matriculation.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.4",
+        "page": 65,
+        "quote": "3.4. Fellow Transfers. The program must obtain verification of previous educational experiences and a summative competency-based performance evaluation prior to acceptance of a transferring fellow, and Milestones evaluations upon matriculation. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-015",
+      "front": "What pain management requirement is specific to fellowship programs?",
+      "back": "The program must provide instruction and experience in pain management if applicable for the subspecialty, including recognition of the signs of substance use disorder.",
+      "citation": {
+        "source": "CPR Fellowship, Section 4.12",
+        "page": 68,
+        "quote": "4.12. Curriculum Organization and Fellow Experiences \u2013 Pain Management. The program must provide instruction and experience in pain management if applicable for the subspecialty, including recognition of the signs of substance use disorder. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-016",
+      "front": "What Milestones are used for a fellow's final evaluation?",
+      "back": "The subspecialty-specific Milestones (and when applicable the subspecialty-specific Case Logs) must be used to ensure fellows are able to engage in autonomous practice upon completion of the program.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.2.a",
+        "page": 73,
+        "quote": "5.2.a. The subspecialty-specific Milestones, and when applicable the subspecialty-specific Case Logs, must be used as tools to ensure fellows are able to engage in autonomous practice upon completion of the program. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-017",
+      "front": "What is the minimum composition of a Fellowship Clinical Competency Committee?",
+      "back": "At a minimum, three members, at least one of whom is a core faculty member. Members must be faculty members from the same program or other programs, or other health professionals who have extensive contact and experience with the program's fellows.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.3.a",
+        "page": 73,
+        "quote": "5.3.a. At a minimum the Clinical Competency Committee must include three members, at least one of whom is a core faculty member. Members must be faculty members from the same program or other programs, or other health professionals who have extensive contact and experience with the program's fellows. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-018",
+      "front": "How often must the fellowship Clinical Competency Committee review fellow evaluations?",
+      "back": "At least semi-annually (every 6 months).",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.3.b",
+        "page": 74,
+        "quote": "5.3.b. The Clinical Competency Committee must review all fellow evaluations at least semi-annually. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-019",
+      "front": "What Milestones does the fellowship CCC determine progress on?",
+      "back": "The subspecialty-specific Milestones.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.3.c",
+        "page": 74,
+        "quote": "5.3.c. The Clinical Competency Committee must determine each fellow's progress on achievement of the subspecialty-specific Milestones. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-020",
+      "front": "What is the supervisory role of senior fellows in the Fellowship CPR?",
+      "back": "Fellows should serve in a supervisory role to junior fellows AND residents in recognition of their progress toward independence, based on the needs of each patient and the skills of the individual resident or fellow. This is classified as a Detail requirement.",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.9.c",
+        "page": 80,
+        "quote": "6.9.c. Fellows should serve in a supervisory role to junior fellows and residents in recognition of their progress toward independence, based on the needs of each patient and the skills of the individual resident or fellow. (Detail)"
+      }
+    },
+    {
+      "id": "doc2-fc-021",
+      "front": "How is \"conditional independence\" defined in the Fellowship CPR?",
+      "back": "Graded, progressive responsibility for patient care with defined oversight. (Identical definition to the Residency CPR.)",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.10.a \u2014 Background and Intent",
+        "page": 81,
+        "quote": "Background and Intent: The ACGME Glossary of Terms defines conditional independence as: Graded, progressive responsibility for patient care with defined oversight."
+      }
+    },
+    {
+      "id": "doc2-fc-022",
+      "front": "What is the additional concern noted regarding \"other learners\" in the Fellowship CPR (compared to Residency)?",
+      "back": "In addition to ensuring that the presence of other learners doesn't negatively impact fellows' education, the Fellowship CPR also notes that fellows' education must not compromise core residents' education.",
+      "citation": {
+        "source": "CPR Fellowship, Section 1.11 \u2014 Background and Intent",
+        "page": 53,
+        "quote": "1.11. Other Learners and Health Care Personnel. The presence of other learners and other health care personnel, including but not limited to residents from other programs, subspecialty fellows, and advanced practice providers, must not negatively impact the appointed fellows' education. (Core) Background and Intent: \u2026Programs have a responsibility to monitor the learning environment to ensure that fellows' education is not compromised by the presence of other providers and learners, and that fellows' education does not compromise core residents' education."
+      }
+    },
+    {
+      "id": "doc2-fc-023",
+      "front": "What is the maximum weekly work hour limit for fellows?",
+      "back": "80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, clinical work done from home, and all moonlighting. (Same as residency.)",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.20",
+        "page": 87,
+        "quote": "Clinical and educational work hours must be limited to no more than 80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, clinical work done from home, and all moonlighting. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-024",
+      "front": "How many hours must fellows have free of clinical work after 24 hours of in-house call?",
+      "back": "At least 14 hours.",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.21.a",
+        "page": 88,
+        "quote": "6.21.a. Fellows must have at least 14 hours free of clinical work and education after 24 hours of in-house call. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-025",
+      "front": "Does the Fellowship CPR prohibit PGY-1-level moonlighting (as the Residency CPR does)?",
+      "back": "No. The Fellowship CPR Section 6.25.a requires that moonlighting time count toward the 80-hour weekly maximum, but does not include the PGY-1 prohibition (since fellows are post-residency). Moonlighting must not interfere with educational goals or patient safety.",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.25.a",
+        "page": 90,
+        "quote": "6.25. Moonlighting. Moonlighting must not interfere with the ability of the fellow to achieve the goals and objectives of the educational program, and must not interfere with the fellow's fitness for work nor compromise patient safety. (Core) 6.25.a. Time spent by fellows in internal and external moonlighting (as defined in the ACGME Glossary of Terms) must be counted toward the 80-hour maximum weekly limit. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-026",
+      "front": "Which cohort of fellowship graduates must programs report board certification status for, annually in ADS?",
+      "back": "The cohort of board-eligible fellows that graduated seven years earlier.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.6.e",
+        "page": 77,
+        "quote": "5.6.e. Programs must report, in ADS, board certification status annually for the cohort of board-eligible fellows that graduated seven years earlier. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-027",
+      "front": "How does the 80% pass rate \"safe harbor\" work for board certification compliance?",
+      "back": "For each of the exams referenced in Sections 5.6 \u2013 5.6.c, any program whose graduates over the specified time period have achieved an 80 percent pass rate will have met the requirement, regardless of the program's percentile rank in that subspecialty.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.6.d",
+        "page": 77,
+        "quote": "5.6.d. For each of the exams referenced in 5.6. \u2013 5.6.c., any program whose graduates over the time period specified in the requirement have achieved an 80 percent pass rate will have met this requirement, no matter the percentile rank of the program for pass rate in that subspecialty. (Outcome)"
+      }
+    },
+    {
+      "id": "doc2-fc-028",
+      "front": "What is the pass-rate threshold for board certification (annual written exam)?",
+      "back": "For subspecialties with an annual written exam, in the preceding three years, the program's aggregate pass rate for first-time test-takers must be higher than the bottom fifth percentile of programs in that subspecialty.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.6",
+        "page": 77,
+        "quote": "5.6. Board Certification. For subspecialties in which the ABMS member board and/or AOA certifying board offer(s) an annual written exam, in the preceding three years, the program's aggregate pass rate of those taking the examination for the first time must be higher than the bottom fifth percentile of programs in that subspecialty. (Outcome)"
+      }
+    },
+    {
+      "id": "doc2-fc-029",
+      "front": "What must the fellowship Program Evaluation Committee distribute, and to whom?",
+      "back": "The Annual Program Evaluation, including the action plan, must be distributed to and discussed with the fellows and the members of the teaching faculty, and be submitted to the DIO.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.5.g",
+        "page": 76,
+        "quote": "5.5.g. The Annual Program Evaluation, including the action plan, must be distributed to and discussed with the fellows and the members of the teaching faculty, and be submitted to the DIO. (Core)"
+      }
+    },
+    {
+      "id": "doc2-fc-030",
+      "front": "What Self-Study requirement applies to fellowship programs?",
+      "back": "The program must participate in a Self-Study and submit it to the DIO.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.5.h",
+        "page": 76,
+        "quote": "5.5.h. The program must participate in a Self-Study and submit it to the DIO. (Core)"
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc2-fellowship-cpr-mc-001",
-      "stem": "Placeholder question #1 for Fellowship CPR: which of the following is the correct answer in this test stub?",
+      "id": "doc2-mc-001",
+      "stem": "Which of the following best describes the experience requirement for a fellowship Program Director, per the Fellowship CPR?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
-      ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
-      "citation": {
-        "source": "Fellowship CPR, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
-      }
-    },
-    {
-      "id": "doc2-fellowship-cpr-mc-002",
-      "stem": "Placeholder question #2 for Fellowship CPR: which option is correct here?",
-      "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "At least 3 years of educational/administrative experience, mirroring the Residency CPR",
+        "Subspecialty expertise and qualifications acceptable to the Review Committee; no explicit minimum-years-of-experience requirement",
+        "5 years of subspecialty practice required",
+        "Completion of a fellowship in the subspecialty within the past 10 years"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "The Fellowship CPR (Section 2.4) requires only that the PD possess subspecialty expertise and qualifications acceptable to the Review Committee. The explicit three-year educational/administrative experience requirement found in the Residency CPR does NOT appear in the Fellowship CPR.",
       "citation": {
-        "source": "Fellowship CPR, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "CPR Fellowship, Section 2.4",
+        "page": 55,
+        "quote": "2.4. Qualifications of the Program Director: The program director must possess subspecialty expertise and qualifications acceptable to the Review Committee. (Core)"
       }
     },
     {
-      "id": "doc2-fellowship-cpr-mc-003",
-      "stem": "Placeholder question #3 for Fellowship CPR: test the review queue by intentionally answering this wrong.",
+      "id": "doc2-mc-002",
+      "stem": "A fellowship Program Director must hold current certification in:",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "The core specialty only",
+        "The subspecialty for which they are the program director, OR equivalent qualifications acceptable to the Review Committee",
+        "Either the core specialty or the subspecialty \u2014 programs may choose",
+        "Any specialty within internal medicine or surgery"
       ],
-      "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "correctIndex": 1,
+      "explanation": "Section 2.4.a requires current certification in the subspecialty for which they are the program director, by the appropriate American Board or American Osteopathic Board, or subspecialty qualifications acceptable to the Review Committee.",
       "citation": {
-        "source": "Fellowship CPR, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "CPR Fellowship, Section 2.4.a",
+        "page": 55,
+        "quote": "2.4.a. The program director must possess current certification in the subspecialty for which they are the program director by the American Board of _____ or by the American Osteopathic Board of _____, or subspecialty qualifications that are acceptable to the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-003",
+      "stem": "Per Section 2.10.a of the Fellowship CPR, what annual survey requirement applies to fellowship faculty?",
+      "options": [
+        "Faculty must complete an annual program evaluation survey distributed by the GMEC",
+        "Faculty members must complete the annual ACGME Faculty Survey",
+        "Faculty must complete an annual fellow satisfaction survey",
+        "There is no annual survey requirement for fellowship faculty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 2.10.a explicitly requires that faculty members complete the annual ACGME Faculty Survey. This requirement is unique to the Fellowship CPR; the Residency CPR does not contain an identical numbered requirement.",
+      "citation": {
+        "source": "CPR Fellowship, Section 2.10.a",
+        "page": 60,
+        "quote": "2.10.a. Faculty members must complete the annual ACGME Faculty Survey."
+      }
+    },
+    {
+      "id": "doc2-mc-004",
+      "stem": "A subspecialty's Review Committee has selected \"Option 1\" for fellow eligibility. Which of the following residency programs would qualify a candidate?",
+      "options": [
+        "Only ACGME-accredited and AOA-approved residency programs",
+        "ACGME-accredited, AOA-approved, ACGME-I Advanced Specialty Accreditation programs, OR RCPSC- or CFPC-accredited residencies in Canada",
+        "Any internationally recognized residency program",
+        "Only programs in the United States"
+      ],
+      "correctIndex": 1,
+      "explanation": "Option 1 (Section 3.2) includes: ACGME-accredited residency, AOA-approved residency, ACGME-I Advanced Specialty Accreditation program, OR an RCPSC- or CFPC-accredited residency in Canada. Option 2 is more restrictive and would limit to only ACGME-accredited or AOA-approved residencies.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2",
+        "page": 63,
+        "quote": "Option 1: All required clinical education for entry into ACGME-accredited fellowship programs must be completed in an ACGME-accredited residency program, an AOA-approved residency program, a program with ACGME International (ACGME-I) Advanced Specialty Accreditation, or a Royal College of Physicians and Surgeons of Canada (RCPSC)-accredited or College of Family Physicians of Canada (CFPC)-accredited residency program located in Canada. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-005",
+      "stem": "A fellowship program is considering accepting an exceptionally qualified international graduate under the Fellow Eligibility Exception (Section 3.2.b). Which of the following is REQUIRED?",
+      "options": [
+        "Approval by the Sponsoring Institution's CEO",
+        "Review and approval of the applicant's exceptional qualifications by the GMEC AND verification of ECFMG certification",
+        "Successful completion of USMLE Step 3",
+        "Recommendation by an ABMS board member"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 3.2.b.1 requires three specific conditions for acceptance under the exception, all of which must be met: (a) evaluation by the PD and selection committee of the applicant's suitability; (b) review and approval by the GMEC; (c) verification of ECFMG certification. Section 3.2.b.2 additionally requires CCC evaluation within 12 weeks of matriculation.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2.b.1",
+        "page": 64,
+        "quote": "3.2.b.1.b. review and approval of the applicant's exceptional qualifications by the GMEC; and, (Core) 3.2.b.1.c. verification of Educational Commission for Foreign Medical Graduates (ECFMG) certification. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-006",
+      "stem": "Within how many weeks of matriculation must the Clinical Competency Committee evaluate a fellow accepted through the Fellow Eligibility Exception?",
+      "options": [
+        "Within 4 weeks",
+        "Within 8 weeks",
+        "Within 12 weeks",
+        "Within 24 weeks"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 3.2.b.2 requires that applicants accepted through the Fellow Eligibility Exception have a CCC evaluation of their performance within 12 weeks of matriculation. This early evaluation ensures the program can quickly identify any concerns about the fellow's clinical competence.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2.b.2",
+        "page": 64,
+        "quote": "3.2.b.2. Applicants accepted through this exception must have an evaluation of their performance by the Clinical Competency Committee within 12 weeks of matriculation. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-007",
+      "stem": "A program director is considering an exceptionally qualified IMG candidate under the Fellow Eligibility Exception. What must this applicant be informed of?",
+      "options": [
+        "That they may not enter direct patient care for 6 months",
+        "That their training may not lead to certification by ABMS member boards or AOA certifying boards",
+        "That their salary will be reduced",
+        "That they will be assigned a mandatory mentor"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Background and Intent for Section 3.2.b explicitly states that applicants being considered for these positions must be informed that their training may not lead to certification by ABMS member boards or AOA certifying boards.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2.b \u2014 Background and Intent",
+        "page": 64,
+        "quote": "Applicants being considered for these positions must be informed of the fact that their training may not lead to certification by ABMS member boards or AOA certifying boards."
+      }
+    },
+    {
+      "id": "doc2-mc-008",
+      "stem": "Per Section 3.4 of the Fellowship CPR, what must a program obtain BEFORE accepting a transferring fellow?",
+      "options": [
+        "Letters of recommendation from three faculty",
+        "Verification of previous educational experiences and a summative competency-based performance evaluation",
+        "The fellow's complete academic transcript from medical school",
+        "Approval by the ACGME"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 3.4 requires verification of previous educational experiences AND a summative competency-based performance evaluation prior to acceptance of a transferring fellow. Milestones evaluations are then required upon matriculation.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.4",
+        "page": 65,
+        "quote": "3.4. Fellow Transfers. The program must obtain verification of previous educational experiences and a summative competency-based performance evaluation prior to acceptance of a transferring fellow, and Milestones evaluations upon matriculation. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-009",
+      "stem": "Per the Fellowship CPR (Section 4.12), what must a fellowship program provide regarding pain management?",
+      "options": [
+        "Nothing specific \u2014 this is covered in the Residency CPR only",
+        "Instruction and experience in pain management if applicable for the subspecialty, including recognition of the signs of substance use disorder",
+        "Annual pain management certification for all faculty",
+        "Mandatory rotation in a pain clinic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.12 requires programs to provide instruction and experience in pain management if applicable for the subspecialty, including recognition of the signs of substance use disorder. (Core)",
+      "citation": {
+        "source": "CPR Fellowship, Section 4.12",
+        "page": 68,
+        "quote": "4.12. Curriculum Organization and Fellow Experiences \u2013 Pain Management. The program must provide instruction and experience in pain management if applicable for the subspecialty, including recognition of the signs of substance use disorder. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-010",
+      "stem": "What Milestones must the fellowship Clinical Competency Committee track each fellow's progress on?",
+      "options": [
+        "Specialty-specific Milestones from the core residency",
+        "ACGME-I Foundational Milestones",
+        "Subspecialty-specific Milestones",
+        "USMLE Step 3 score progression"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 5.3.c requires the CCC to determine each fellow's progress on achievement of the subspecialty-specific Milestones (distinct from the specialty-specific Milestones used in residency).",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.3.c",
+        "page": 74,
+        "quote": "5.3.c. The Clinical Competency Committee must determine each fellow's progress on achievement of the subspecialty-specific Milestones. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-011",
+      "stem": "The Fellowship Clinical Competency Committee must include at minimum how many members, and what is required of one of them?",
+      "options": [
+        "Two members, with both being core faculty",
+        "Three members, at least one of whom is a core faculty member",
+        "Five members, all from the same subspecialty",
+        "Four members, with the program director as chair"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 5.3.a requires at minimum three members, at least one of whom is a core faculty member. Members must be faculty from the same or other programs, or other health professionals with extensive contact and experience with the program's fellows.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.3.a",
+        "page": 73,
+        "quote": "5.3.a. At a minimum the Clinical Competency Committee must include three members, at least one of whom is a core faculty member. Members must be faculty members from the same program or other programs, or other health professionals who have extensive contact and experience with the program's fellows. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-012",
+      "stem": "Per Section 6.9.c of the Fellowship CPR, what is the supervisory expectation for fellows regarding junior trainees?",
+      "options": [
+        "Fellows must not supervise any trainees",
+        "Fellows should serve in a supervisory role to junior fellows only",
+        "Fellows should serve in a supervisory role to junior fellows AND residents, based on progress toward independence and skills",
+        "Fellows must take on full attending responsibility within their first year"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 6.9.c (Detail requirement) states fellows should serve in a supervisory role to junior fellows AND residents in recognition of their progress toward independence, based on the needs of each patient and the skills of the individual resident or fellow.",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.9.c",
+        "page": 80,
+        "quote": "6.9.c. Fellows should serve in a supervisory role to junior fellows and residents in recognition of their progress toward independence, based on the needs of each patient and the skills of the individual resident or fellow. (Detail)"
+      }
+    },
+    {
+      "id": "doc2-mc-013",
+      "stem": "Per the Background and Intent for Section 1.11 in the Fellowship CPR, what additional concern does the Fellowship CPR raise (compared to the Residency CPR) regarding other learners?",
+      "options": [
+        "That advanced practice providers be excluded from teaching teams",
+        "That fellows' education must not compromise core residents' education",
+        "That medical students cannot rotate on fellow services",
+        "That subspecialty fellows must defer to senior fellows in all clinical decisions"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Fellowship CPR adds the specific concern that fellows' education must not compromise core residents' education \u2014 a unique two-way consideration that recognizes fellows can themselves be the \"other learners\" who affect residents.",
+      "citation": {
+        "source": "CPR Fellowship, Section 1.11 \u2014 Background and Intent",
+        "page": 53,
+        "quote": "Programs have a responsibility to monitor the learning environment to ensure that fellows' education is not compromised by the presence of other providers and learners, and that fellows' education does not compromise core residents' education."
+      }
+    },
+    {
+      "id": "doc2-mc-014",
+      "stem": "Does the Fellowship CPR contain a prohibition on PGY-1 moonlighting, like the Residency CPR does?",
+      "options": [
+        "Yes \u2014 first-year fellows may not moonlight",
+        "Yes \u2014 the language is identical",
+        "No \u2014 the PGY-1 moonlighting prohibition does not apply to fellowship; however, all fellow moonlighting must count toward the 80-hour weekly limit",
+        "Yes, but only for the first six months of the fellowship"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Fellowship CPR Section 6.25 retains the requirement that moonlighting count toward the 80-hour weekly limit and must not interfere with educational goals or patient safety, but does NOT include a PGY-1-level prohibition (since fellows are post-residency).",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.25.a",
+        "page": 90,
+        "quote": "6.25.a. Time spent by fellows in internal and external moonlighting (as defined in the ACGME Glossary of Terms) must be counted toward the 80-hour maximum weekly limit. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-015",
+      "stem": "For which cohort must fellowship programs annually report board certification status in ADS?",
+      "options": [
+        "The most recent graduating cohort",
+        "The cohort that graduated 3 years earlier",
+        "The cohort of board-eligible fellows that graduated 7 years earlier",
+        "All graduates from the past 10 years cumulatively"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 5.6.e parallels the Residency CPR: programs must report in ADS, annually, the board certification status of the cohort of board-eligible fellows that graduated seven years earlier (graduates are eligible for up to seven years from fellowship graduation for initial certification).",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.6.e",
+        "page": 77,
+        "quote": "5.6.e. Programs must report, in ADS, board certification status annually for the cohort of board-eligible fellows that graduated seven years earlier. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-016",
+      "stem": "A subspecialty's board offers an annual written exam. A program's first-time pass rate ranks in the bottom 3rd percentile for that subspecialty, but the program's overall first-time pass rate is 82% over the past three years. Per the Fellowship CPR, has this program met the board certification requirement?",
+      "options": [
+        "No \u2014 because the program ranks below the fifth percentile",
+        "Yes \u2014 because the program's 82% pass rate exceeds the 80% threshold safe harbor",
+        "Only if the Review Committee grants a special exception",
+        "Only after a Self-Study is completed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 5.6.d creates a safe harbor: any program achieving an 80% pass rate over the specified time period has met the requirement, REGARDLESS of percentile rank in that subspecialty. So an 82% rate satisfies the requirement even if the program ranks below the 5th percentile.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.6.d",
+        "page": 77,
+        "quote": "5.6.d. For each of the exams referenced in 5.6. \u2013 5.6.c., any program whose graduates over the time period specified in the requirement have achieved an 80 percent pass rate will have met this requirement, no matter the percentile rank of the program for pass rate in that subspecialty. (Outcome)"
+      }
+    },
+    {
+      "id": "doc2-mc-017",
+      "stem": "For a subspecialty with an annual written board examination, what is the pass-rate threshold (excluding the safe harbor)?",
+      "options": [
+        "Above the bottom 10th percentile, over the preceding five years",
+        "Above the bottom 5th percentile of programs in that subspecialty, in the preceding three years",
+        "100% pass rate for all first-time test-takers",
+        "Above the median of all programs nationally"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 5.6 requires that, in the preceding three years, the program's aggregate first-time pass rate must be higher than the bottom fifth percentile of programs in that subspecialty (with the 80% safe harbor under 5.6.d as an alternative).",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.6",
+        "page": 77,
+        "quote": "5.6. Board Certification. For subspecialties in which the ABMS member board and/or AOA certifying board offer(s) an annual written exam, in the preceding three years, the program's aggregate pass rate of those taking the examination for the first time must be higher than the bottom fifth percentile of programs in that subspecialty. (Outcome)"
+      }
+    },
+    {
+      "id": "doc2-mc-018",
+      "stem": "What Milestones evaluations must a fellowship program receive when an entering fellow comes from a core residency program (Option 1 selected by Review Committee)?",
+      "options": [
+        "Only ACGME Milestones",
+        "ACGME, ACGME-I, or CanMEDS Milestones evaluations from the core residency program",
+        "Only USMLE-based assessments",
+        "Internal board-administered Milestones"
+      ],
+      "correctIndex": 1,
+      "explanation": "Under Option 1, Section 3.2.a requires fellowship programs to receive verification of each entering fellow's level of competence using ACGME, ACGME-I, or CanMEDS Milestones evaluations from the core residency program. Under Option 2, only ACGME Milestones qualify.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.2.a",
+        "page": 63,
+        "quote": "3.2.a. [If Review Committee selected Option 1 above:] Fellowship programs must receive verification of each entering fellow's level of competence in the required field using ACGME, ACGME-I, or CanMEDS Milestones evaluations from the core residency program. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-019",
+      "stem": "How are the supervision levels defined for fellows in the Fellowship CPR?",
+      "options": [
+        "Two levels: direct and indirect",
+        "Three levels: Direct Supervision (physically present), Indirect Supervision (immediately available), and Oversight (retrospective review with feedback after care)",
+        "Four levels including \"remote\"",
+        "Fellows do not require formal supervision classifications"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.7 of the Fellowship CPR uses the same three classifications as the Residency CPR: Direct Supervision (physically present during key portions of patient interaction), Indirect Supervision (not physically/concurrently present but immediately available), and Oversight (retrospective review with feedback after care is delivered).",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.7",
+        "page": 80,
+        "quote": "6.7. Direct Supervision. The supervising physician is physically present with the fellow during the key portions of the patient interaction\u2026 Indirect Supervision. The supervising physician is not providing physical or concurrent visual or audio supervision but is immediately available to the fellow for guidance and is available to provide appropriate direct supervision. Oversight. The supervising physician is available to provide review of procedures/encounters with feedback provided after care is delivered."
+      }
+    },
+    {
+      "id": "doc2-mc-020",
+      "stem": "Where must the fellowship Annual Program Evaluation, including the action plan, be distributed and submitted?",
+      "options": [
+        "Only to the program director and the Review Committee",
+        "Distributed to and discussed with fellows and teaching faculty, and submitted to the DIO",
+        "Submitted only to the Sponsoring Institution's CEO",
+        "Posted publicly on the program's website"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 5.5.g requires that the Annual Program Evaluation (including the action plan) be distributed to and discussed with fellows and members of the teaching faculty, and submitted to the DIO.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.5.g",
+        "page": 76,
+        "quote": "5.5.g. The Annual Program Evaluation, including the action plan, must be distributed to and discussed with the fellows and the members of the teaching faculty, and be submitted to the DIO. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-021",
+      "stem": "Per Section 5.5.h of the Fellowship CPR, what must each fellowship program participate in periodically?",
+      "options": [
+        "A peer-program inspection",
+        "A Self-Study, which must be submitted to the DIO",
+        "Mandatory external accreditation by a third party",
+        "An ACGME-administered annual exam for all fellows"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 5.5.h requires the program to participate in a Self-Study and submit it to the DIO. This is part of the program's ongoing self-assessment cycle.",
+      "citation": {
+        "source": "CPR Fellowship, Section 5.5.h",
+        "page": 76,
+        "quote": "5.5.h. The program must participate in a Self-Study and submit it to the DIO. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-022",
+      "stem": "Which of the following is required regarding Fellow Complement?",
+      "options": [
+        "The program director may appoint any number of fellows so long as the Sponsoring Institution agrees",
+        "The program director must not appoint more fellows than approved by the Review Committee; complement changes (temporary or permanent) require approval through ADS",
+        "Permanent increases can be made without ACGME involvement",
+        "Complement changes are at the discretion of the GMEC alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 3.3 requires that the program director not appoint more fellows than approved by the Review Committee. The Background and Intent clarifies that all complement changes \u2014 temporary or permanent \u2014 must be requested through ADS, with permanent increases requiring prior Review Committee approval.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.3",
+        "page": 65,
+        "quote": "3.3. Fellow Complement. The program director must not appoint more fellows than approved by the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-023",
+      "stem": "For a transferring fellow, which combination of items must the program obtain?",
+      "options": [
+        "Letters of recommendation only",
+        "Verification of previous educational experiences AND a summative competency-based performance evaluation BEFORE acceptance, plus Milestones evaluations upon matriculation",
+        "Only the prior program's certificate of completion",
+        "Only ACGME accreditation status of the prior program"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 3.4 requires both verification of previous educational experiences AND a summative competency-based performance evaluation prior to acceptance of a transferring fellow, with Milestones evaluations required upon matriculation.",
+      "citation": {
+        "source": "CPR Fellowship, Section 3.4",
+        "page": 65,
+        "quote": "3.4. Fellow Transfers. The program must obtain verification of previous educational experiences and a summative competency-based performance evaluation prior to acceptance of a transferring fellow, and Milestones evaluations upon matriculation. (Core)"
+      }
+    },
+    {
+      "id": "doc2-mc-024",
+      "stem": "How does the Fellowship CPR's definition of conditional independence differ from the Residency CPR's?",
+      "options": [
+        "Fellows are granted automatic full independence",
+        "It is identical: Graded, progressive responsibility for patient care with defined oversight",
+        "It permits fellows to operate without any supervision after their first year",
+        "Conditional independence does not apply to fellows"
+      ],
+      "correctIndex": 1,
+      "explanation": "The definition is identical across both CPRs. The Fellowship CPR's Section 6.10.a Background and Intent references the ACGME Glossary of Terms: \"Graded, progressive responsibility for patient care with defined oversight.\"",
+      "citation": {
+        "source": "CPR Fellowship, Section 6.10.a \u2014 Background and Intent",
+        "page": 81,
+        "quote": "Background and Intent: The ACGME Glossary of Terms defines conditional independence as: Graded, progressive responsibility for patient care with defined oversight."
+      }
+    },
+    {
+      "id": "doc2-mc-025",
+      "stem": "A fellowship program needs to verify subspecialty certification of physician faculty members. According to Section 2.9 of the Fellowship CPR, who must hold subspecialty certification?",
+      "options": [
+        "Only the program director",
+        "Subspecialty physician faculty members, by the appropriate American Board or American Osteopathic Board, or possess qualifications judged acceptable to the Review Committee",
+        "All faculty members regardless of discipline",
+        "Only core faculty members"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 2.9 specifically addresses subspecialty physician faculty members, requiring current certification in the subspecialty (or qualifications acceptable to the Review Committee). Section 2.9.a separately addresses other-specialty physician faculty.",
+      "citation": {
+        "source": "CPR Fellowship, Section 2.9",
+        "page": 59,
+        "quote": "2.9. Subspecialty Physician Faculty Members. Subspecialty physician faculty members must have current certification in the subspecialty by the American Board of _____ or the American Osteopathic Board of _____, or possess qualifications judged acceptable to the Review Committee. (Core)"
       }
     }
   ]

@@ -1,77 +1,69 @@
 {
-  "version": "0.1.0-placeholder",
+  "version": "1.0.0",
   "sections": [
     {
       "id": "doc1-residency-cpr",
       "title": "ACGME Common Program Requirements (Residency)",
       "shortTitle": "Residency CPR",
-      "documentRef": "Study Guide section: Residency CPR",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "documentRef": "TAGME Study Guide pages 1\u201347",
+      "fcCount": 30,
+      "mcCount": 25
     },
     {
       "id": "doc2-fellowship-cpr",
       "title": "ACGME Common Program Requirements (Fellowship)",
       "shortTitle": "Fellowship CPR",
-      "documentRef": "Study Guide section: Fellowship CPR",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "documentRef": "TAGME Study Guide pages 48\u201391",
+      "fcCount": 30,
+      "mcCount": 25
     },
     {
       "id": "doc3-institutional",
       "title": "ACGME Institutional Requirements",
       "shortTitle": "Institutional Reqs",
-      "documentRef": "Study Guide section: Institutional Reqs",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "documentRef": "TAGME Study Guide pages 92\u2013109",
+      "fcCount": 30,
+      "mcCount": 25
     },
     {
       "id": "doc4-ads-guides",
       "title": "ACGME Accreditation Data System Guides",
       "shortTitle": "ADS Guides",
-      "documentRef": "Study Guide section: ADS Guides",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "documentRef": "TAGME Study Guide pages 110\u2013121",
+      "fcCount": 30,
+      "mcCount": 25
     },
     {
       "id": "doc5-policies",
       "title": "ACGME Policies and Procedures",
       "shortTitle": "Policies & Procedures",
-      "documentRef": "Study Guide section: Policies & Procedures",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "documentRef": "TAGME Study Guide pages 122\u2013284",
+      "fcCount": 45,
+      "mcCount": 40
     },
     {
       "id": "doc6-nst-recognition",
       "title": "ACGME NST Recognition for Sponsoring Institutions",
       "shortTitle": "NST Recognition",
-      "documentRef": "Study Guide section: NST Recognition",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "documentRef": "TAGME Study Guide pages 285\u2013289",
+      "fcCount": 18,
+      "mcCount": 15
     },
     {
       "id": "doc7-ecfmg",
       "title": "ECFMG Certification Information Booklet",
       "shortTitle": "ECFMG Certification",
-      "documentRef": "Study Guide section: ECFMG Certification",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "documentRef": "TAGME Study Guide pages 290\u2013351",
+      "fcCount": 30,
+      "mcCount": 25
     },
     {
       "id": "doc8-nrmp",
       "title": "NRMP Match Participation Agreement for Programs",
-      "shortTitle": "NRMP Match",
-      "documentRef": "Study Guide section: NRMP Match",
-      "mcCount": 3,
-      "fcCount": 3,
-      "status": "placeholder"
+      "shortTitle": "NRMP Match Agreement",
+      "documentRef": "TAGME Study Guide pages 352\u2013379",
+      "fcCount": 30,
+      "mcCount": 25
     }
   ]
 }

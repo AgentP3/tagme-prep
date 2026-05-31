@@ -2,112 +2,778 @@
   "id": "doc4-ads-guides",
   "title": "ACGME Accreditation Data System Guides",
   "shortTitle": "ADS Guides",
-  "documentRef": "Placeholder content for ADS Guides",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "documentRef": "TAGME Study Guide pages 110\u2013121",
+  "description": "Guides covering the ACGME Accreditation Data System (ADS): the Annual Update process (rollover, deadlines, DIO/PD responsibilities, roster management, faculty data) and the Checklist for Updating ADS Prior to an Accreditation or Recognition Site Visit.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers ACGME Accreditation Data System Guides. Browse content will be populated when real content is generated."
+      "text": "ADS is the central system through which ACGME-accredited Sponsoring Institutions and programs submit data, complete the Annual Update, and prepare for site visits. This document combines the 2024-2025 ADS Annual Update FAQs with the Checklist for Updating ADS Prior to an Accreditation or Recognition Site Visit."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "ADS Annual Update \u2014 key concepts"
     },
     {
       "type": "list",
       "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
+        "ADS academic year rollover: a defined date (June 29 for 2024) when ADS transitions to the new academic year; residents/fellows are auto-moved to the next PGY or graduated status and given 'unconfirmed' status pending program confirmation",
+        "DIO oversight: the DIO must oversee every program's Annual Update submission, even when the PD is also the DIO (no duplicate-approval waiver)",
+        "Annual Update window: opens after rollover; programs cannot complete the Annual Update before the window opens",
+        "ACGME-I-accredited programs: use a different ADS Annual Update process (contact acgme-i@acgme-i.org)"
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "Site Visit ADS Updates \u2014 key requirements"
+    },
+    {
+      "type": "list",
+      "items": [
+        "ADS must be updated and document uploads complete 14 days prior to an accreditation or recognition site visit",
+        "Failure to update ADS by the due date may result in postponement of the visit and a $3,200 fine",
+        "Required for all site visits: accurate rosters (faculty and resident/fellow), responses to citations, the Major Changes and Other Updates section, and the Site Visit Attestation Statement",
+        "Site visits do not occur between the ADS rollover (June 29) and July 14; resume July 15"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Sponsoring Institution site visit uploads"
+    },
+    {
+      "type": "paragraph",
+      "text": "Institutional Review Questionnaire items include: Organizational Chart 1 (DIO position), Organizational Chart 2 (GMEC position), Statement of Commitment, GMEC Membership, Annotated GMEC Minutes, Annual Institutional Review (AIR) Summaries, GMEC Special Review Protocol, Special Review Reports (if available). For the 10-Year Accreditation Site Visit only: Summary of Achievements."
     }
   ],
   "flashcards": [
     {
-      "id": "doc4-ads-guides-fc-001",
-      "front": "Placeholder flashcard #1 for ADS Guides",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc4-fc-001",
+      "front": "What is the ADS academic year rollover?",
+      "back": "The transition of ADS from one academic year to the next (e.g., 2023-2024 to 2024-2025). For the 2024 cycle, rollover occurred June 29. When rollover happens, data from the current academic year is archived, ADS screens reflect the new academic year, and all residents/fellows are given an \"unconfirmed\" status.",
       "citation": {
-        "source": "ADS Guides, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q1",
+        "page": 110,
+        "quote": "The ADS academic year rollover is a term used to describe the transition of ADS from one academic year to the following academic year (e.g., the transition from 2023-2024 to 2024-2025). An announcement is posted on the ADS login page that specifies the date of the rollover (June 29 for 2024). When the rollover occurs, data in ADS collected for the current academic year is archived, the screens in ADS will reflect the new academic year, and all residents/fellows are given an \"unconfirmed\" status."
       }
     },
     {
-      "id": "doc4-ads-guides-fc-002",
-      "front": "Placeholder flashcard #2 for ADS Guides",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc4-fc-002",
+      "front": "If a program director is also the DIO, can the duplicate approval step in ADS Annual Update be removed?",
+      "back": "No. The DIO must oversee programs' Annual Update submissions even when the same individual serves as a program director.",
       "citation": {
-        "source": "ADS Guides, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "ADS Annual Update FAQ \u2014 Sponsoring Institution-Specific Questions, Q2",
+        "page": 109,
+        "quote": "If a program director is also the DIO, can the duplicate approval be removed for the ADS Annual Update? Answer: No. The DIO must oversee programs' Annual Update submissions even when the same individual serves as a program director."
       }
     },
     {
-      "id": "doc4-ads-guides-fc-003",
-      "front": "Placeholder flashcard #3 for ADS Guides",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc4-fc-003",
+      "front": "How can a Sponsoring Institution request a unified ADS Annual Update window for all its programs?",
+      "back": "The DIO should email ADS@acgme.org to request that the same ADS Annual Update window be set for all the SI's programs (regardless of whether they use Case Logs).",
       "citation": {
-        "source": "ADS Guides, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "ADS Annual Update FAQ \u2014 Sponsoring Institution-Specific Questions, Q1",
+        "page": 109,
+        "quote": "How can a Sponsoring Institution set the Annual Update to be the same for all its accredited programs regardless of whether they use Case Logs? Answer: Sponsoring Institutions have the option to set the same ADS Annual Update for all their programs. To make that request, the DIO should email ADS@acgme.org."
+      }
+    },
+    {
+      "id": "doc4-fc-004",
+      "front": "What happens if the DIO does not approve a program's ADS Annual Update or requested edits are not made?",
+      "back": "The ACGME's ADS team will make several attempts to follow up. Information concerning ADS Annual Update approvals may be provided to the Institutional Review Committee and specialty Review Committees for use in accreditation processes. The DIO and/or GMEC should follow up with non-responsive programs as part of their oversight responsibilities.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Sponsoring Institution-Specific Questions, Q3",
+        "page": 110,
+        "quote": "The ACGME's ADS team will make several attempts to follow up with programs that do not submit their ADS Annual Update by the due date. Information concerning ADS Annual Update approvals may be provided to the Institutional Review Committee and specialty Review Committees for use in accreditation processes. As part of their oversight responsibilities, the DIO and/or Graduate Medical Education Committee (GMEC) should follow up with programs that do not respond to feedback regarding the ADS Annual Update."
+      }
+    },
+    {
+      "id": "doc4-fc-005",
+      "front": "Can the ADS Annual Update for ACGME-International (ACGME-I)-accredited programs be completed through the same domestic ADS process?",
+      "back": "No. The ADS Annual Update for ACGME-I-accredited programs is different. International programs should email acgme-i@acgme-i.org for more information.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q3",
+        "page": 110,
+        "quote": "Do the changes to the 2024-2025 ADS Annual Update apply to ACGME-I-accredited programs? Answer: The ADS Annual Update for ACGME International (ACGME-I)-accredited programs is different and international programs should email acgme-i@acgme-i.org for more information."
+      }
+    },
+    {
+      "id": "doc4-fc-006",
+      "front": "Can parts of the ADS Annual Update be completed before the window opens?",
+      "back": "No. All areas of ADS can be updated after the rollover date for the new academic year (June 29 for 2024), but the ADS Annual Update window provides the specific period during which programs must complete the update.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q4",
+        "page": 110,
+        "quote": "Are there parts of the ADS Annual Update that can be completed before the window opens? Answer: No. All areas of ADS can be updated after the rollover date for the new academic year (June 29 for 2024). The ADS Annual Update window dates provide a period during which programs must update ADS."
+      }
+    },
+    {
+      "id": "doc4-fc-007",
+      "front": "Do programs with Initial Accreditation but no residents/fellows still have to complete the ADS Annual Update?",
+      "back": "Yes. All programs with Initial Accreditation and Initial Accreditation with Warning must review and complete all items under \"Annual Update\" on the Overview tab. They do NOT need to update documents under \"Updated Application\" on the Overview tab.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q8",
+        "page": 111,
+        "quote": "Do programs with Initial Accreditation without residents/fellows have to complete the ADS Annual Update? Answer: Yes. All programs with Initial Accreditation and Initial Accreditation with Warning must review and complete all items under \"Annual Update\" on the Overview tab. They do NOT need to update documents under \"Updated Application\" on the Overview tab."
+      }
+    },
+    {
+      "id": "doc4-fc-008",
+      "front": "Are the ADS Annual Update questions different for programs with Continued Accreditation without Outcomes?",
+      "back": "No. The same ADS Annual Update questions apply to programs with Continued Accreditation, Continued Accreditation without Outcomes, Continued Accreditation with Warning, and Probation.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q9",
+        "page": 111,
+        "quote": "Are the ADS Annual Update questions different for programs with Continued Accreditation without Outcomes? Answer: The same ADS Annual Update questions apply to programs with Continued Accreditation, Continued Accreditation without Outcomes, Continued Accreditation with Warning, and Probation."
+      }
+    },
+    {
+      "id": "doc4-fc-009",
+      "front": "If a program is closing on June 30, will it be assigned the next ADS Annual Update?",
+      "back": "No, IF the program has submitted a Voluntary Withdrawal request that has been approved by the specialty Review Committee, OR if the program had its accreditation withdrawn by the Review Committee effective June 30, it will not be assigned to complete the next Annual Update.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q11",
+        "page": 111,
+        "quote": "If a program has submitted a Voluntary Withdrawal request in ADS and the request has been approved by the specialty Review Committee, or if the program had its accreditation withdrawn by a Review Committee effective June 30, 2024, it will not be assigned to complete the 2024-2025 ADS Annual Update."
+      }
+    },
+    {
+      "id": "doc4-fc-010",
+      "front": "What is Osteopathic Recognition, and where does it appear in ADS?",
+      "back": "Osteopathic Recognition is a designation conferred by the ACGME's Osteopathic Recognition Committee on ACGME-accredited programs demonstrating commitment to teaching and assessing Osteopathic Principles and Practice (OPP). If a program has it, the recognition status appears in ADS on the Program tab in the same box as the program's current accreditation status.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Osteopathic Recognition ADS Annual Update, Q1",
+        "page": 111,
+        "quote": "Osteopathic Recognition is a designation conferred by the ACGME's Osteopathic Recognition Committee on ACGME-accredited programs that demonstrate, through a formal application process, the commitment to teaching and assessing Osteopathic Principles and Practice (OPP) at the graduate medical education level. More information is available on the ACGME website in the Osteopathic Recognition web page. If a program has Osteopathic Recognition, a recognition status will appear in ADS on the Program tab in the same box as the program's current accreditation status."
+      }
+    },
+    {
+      "id": "doc4-fc-011",
+      "front": "Should programs address areas of concern in the Resident/Fellow and Faculty Surveys during the ADS Annual Update?",
+      "back": "Yes. Programs are strongly encouraged to address both Resident/Fellow and Faculty Survey areas of concern in the \"Major Changes and Other Updates\" section of ADS during the Annual Update.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Common Program Requirements Questions, Q4",
+        "page": 113,
+        "quote": "Should programs proactively address areas of concern in the Resident/Fellow or Faculty Survey in the ADS Annual Update? Answer: Programs are strongly encouraged to address both Resident/Fellow and Faculty Survey areas of concern in the \"Major Changes and Other Updates\" section of ADS during the ADS Annual Update."
+      }
+    },
+    {
+      "id": "doc4-fc-012",
+      "front": "Does the number of fellows in a Non-Standard Training (NST) program count toward the program director and program coordinator dedicated time?",
+      "back": "No. The full-time equivalent (FTE) percent entered should reflect only the time the PD and coordinator dedicate to administration of the specific ACGME-accredited program being updated.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Common Program Requirements Questions, Q6",
+        "page": 113,
+        "quote": "Does the number of fellows in a Non-Standard Training program count towards the program director and program coordinator dedicated time? Answer: No. The full-time equivalent (FTE) percent entered should reflect only the time the program director and program coordinator dedicate to administration of the specific ACGME-accredited program you are completing the ADS Annual Update for."
+      }
+    },
+    {
+      "id": "doc4-fc-013",
+      "front": "What does the ADS Annual Update question regarding core faculty dedicated time ask for?",
+      "back": "The aggregate FTE support for the minimum number of required faculty members in the program (not for individual faculty members separately).",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Common Program Requirements Questions, Q7",
+        "page": 113,
+        "quote": "Is the core faculty dedicated time question specific to individual faculty members or an aggregate dedicated time for core faculty members? Answer: The question in the ADS Annual Update regarding core faculty members' dedicated time asks for the aggregate FTE support for the minimum number of required faculty members in the program."
+      }
+    },
+    {
+      "id": "doc4-fc-014",
+      "front": "Should residents/fellows starting June 24 be entered into ADS prior to the ADS rollover (June 29)?",
+      "back": "No. Programs should only add new residents/fellows after the annual ADS rollover has occurred (June 29 for 2024).",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Resident/Fellow Roster Questions, Q1",
+        "page": 113,
+        "quote": "Should residents/fellows starting June 24 be entered into ADS prior to the ADS rollover? Answer: No. Programs should only add new residents/fellows after the annual ADS rollover has occurred on June 29, 2024."
+      }
+    },
+    {
+      "id": "doc4-fc-015",
+      "front": "After ADS rollover, how does graduation/promotion of residents/fellows work?",
+      "back": "As part of the rollover process, residents/fellows are automatically moved to the next PGY or to a graduated status. Programs confirm or edit that information after the rollover (June 29 for 2024) or during the ADS Annual Update.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Resident/Fellow Roster Questions, Q2",
+        "page": 114,
+        "quote": "Programs should update their Resident/Fellow Roster after the rollover. As part of the rollover process, residents/fellows will automatically be moved to the next PGY or to a graduated status, and programs can confirm or edit that information after the rollover (June 29 for 2024) or during the ADS Annual Update."
+      }
+    },
+    {
+      "id": "doc4-fc-016",
+      "front": "When should new faculty members be added to ADS?",
+      "back": "As they join the program, during the ADS Annual Update window, OR in preparation for an accreditation or recognition site visit.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q1",
+        "page": 114,
+        "quote": "Should new faculty members be added to ADS as they join the program or only during the ADS Annual Update? Answer: Programs should add faculty members to ADS as they join the program, during the ADS Annual Update window, or in preparation for an accreditation or recognition site visit."
+      }
+    },
+    {
+      "id": "doc4-fc-017",
+      "front": "If a graduating resident/fellow will join as a member of the program faculty, when can they be added to the Faculty Roster?",
+      "back": "Physicians should NOT be added to the Faculty Roster while still indicated as a resident/fellow in ADS. After the rollover, programs must review and confirm Resident/Fellow Roster (including residents'/fellows' PGY or graduated status). Once that step is complete, the graduated individual can be added as a faculty member.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q2",
+        "page": 114,
+        "quote": "Physicians should not be added to the Faculty Roster while they are still indicated as a resident or fellow in ADS. After the rollover, programs must review and confirm their Resident/Fellow Roster, and specifically the residents'/fellows' PGY or graduated status. Once this step is complete, programs can add an individual who has graduated as a faculty member on the Faculty Roster."
+      }
+    },
+    {
+      "id": "doc4-fc-018",
+      "front": "If an associate program director is leaving in September, when should the program update ADS?",
+      "back": "The associate program director should NOT be removed from ADS prior to the actual departure date if that individual still needs ADS access for program-level data or the Case Log System.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q4",
+        "page": 114,
+        "quote": "If an associate program director is leaving in September, when should the program update ADS? Answer: The associate program director should not be removed from ADS prior to the actual departure date if that individual still needs ADS access for program-level data or the Case Log System."
+      }
+    },
+    {
+      "id": "doc4-fc-019",
+      "front": "Will ABMS/AOA board certification data populate automatically for newly added faculty members?",
+      "back": "Yes \u2014 for new faculty members, ABMS and AOA data will be populated in faculty profiles within 24 hours if a match is identified. The National Provider Identifier (NPI) number is a key matching data point, so it must be entered and correct.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q8",
+        "page": 115,
+        "quote": "Yes, for new faculty members, the ABMS and AOA data will be populated in their faculty profiles within 24 hours if a match is identified. One of the key data points used to match a faculty member against the ABMS and AOA datasets is the NPI number, so programs must ensure the NPI number for new faculty members is provided and is correct."
+      }
+    },
+    {
+      "id": "doc4-fc-020",
+      "front": "How should programs enter non-physician faculty members' certifications in ADS?",
+      "back": "Use the manual entry option to enter any certifications for non-physician faculty members.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q9",
+        "page": 115,
+        "quote": "How should programs enter non-physician faculty members' certification? Answer: A manual entry option is available and should be used to enter any certifications for non-physician faculty members."
+      }
+    },
+    {
+      "id": "doc4-fc-021",
+      "front": "Can faculty scholarly activity be copied between programs in ADS?",
+      "back": "Yes. For faculty members who serve across multiple programs and institutions, scholarly activity can be copied from one program to another on the Faculty Scholarly Activity tab. The copy option is only enabled when a scholarly activity record is available from another program.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q11",
+        "page": 115,
+        "quote": "For faculty members who serve across multiple programs and institutions, scholarly activity can be copied from one program to another on the Faculty Scholarly Activity tab in ADS. The copy option will only be enabled if a scholarly activity record is available to copy from another program."
+      }
+    },
+    {
+      "id": "doc4-fc-022",
+      "front": "Will the ACGME schedule site visits during the ADS rollover transition?",
+      "back": "No. The ACGME will not schedule any accreditation or recognition site visits between June 29 (ADS rollover) and July 14. Site visits resume July 15.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Site Visit Questions, Q1",
+        "page": 116,
+        "quote": "Can a program have a site visit between the ADS annual rollover period and the beginning of the ADS Annual Update window? Answer: The ACGME will not schedule any accreditation or recognition site visits between June 29 (ADS rollover) and July 14, 2024. Site visits will resume July 15, 2024."
+      }
+    },
+    {
+      "id": "doc4-fc-023",
+      "front": "By when must programs update ADS and complete document uploads prior to a site visit?",
+      "back": "14 days prior to an accreditation or recognition site visit. Instructions on what to update are provided in the Site Visit Announcement Letter, in the \"Updating ADS\" section.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Site Visit Questions, Q2",
+        "page": 116,
+        "quote": "Programs are required to update ADS and complete their document uploads 14 days prior to an accreditation or recognition site visit. Instructions on what needs to be updated in ADS prior to the accreditation or recognition site visit are provided in the Site Visit Announcement Letter, in the \"Updating ADS\" section."
+      }
+    },
+    {
+      "id": "doc4-fc-024",
+      "front": "What is the penalty for failure to update ADS by the site visit due date?",
+      "back": "Postponement of the site visit and assessment of a $3,200 fine.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Warning notice",
+        "page": 117,
+        "quote": "Warning! Update ADS by the due date indicated in the Site Visit Announcement letter. Failure to update the ADS information may result in a postponement of the site visit and assessment of a $3,200 fine."
+      }
+    },
+    {
+      "id": "doc4-fc-025",
+      "front": "For ALL site visits, what four items must be ensured up to date and accurate in ADS?",
+      "back": "(1) Rosters (faculty member and resident/fellow, if applicable); (2) Responses to citations (if applicable); (3) The Major Changes and Other Updates section; (4) Site Visit Attestation Statement.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Instructions",
+        "page": 117,
+        "quote": "For all site visits, ensure all data listed in ADS is up to date and accurate, especially: \u2610 Rosters (faculty member and resident/fellow, if applicable) \u2610 Responses to citations (if applicable) \u2610 The Major Changes and Other Updates section \u2610 Site Visit Attestation Statement"
+      }
+    },
+    {
+      "id": "doc4-fc-026",
+      "front": "Where do reviewers find detailed descriptions of each required ADS upload, and what do reviewers actually see during a site visit?",
+      "back": "Detailed descriptions are found in ADS itself. Reviewers see only the templates and not the resident/fellow files or sample evaluations.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Instructions",
+        "page": 117,
+        "quote": "Detailed descriptions of each required upload can be found in ADS. Reviewers see only the templates and not the resident/fellow files or sample evaluations. Email any technical issues or questions about ADS to ADS@acgme.org and dfascheduling@acgme.org."
+      }
+    },
+    {
+      "id": "doc4-fc-027",
+      "front": "Which items must a program with Continued Accreditation (or Probationary Accreditation) upload for a site visit?",
+      "back": "Block Diagram (specialty-specific templates if applicable); Program Letters of Agreement; Resident/Fellow Files; Example of Competency-Based Goals and Objectives; Schedule of Didactics, Conferences, and Other Educational Activities; Sample of a Completed Annual Evaluation of a Faculty Member by Residents/Fellows; Program-Specific Policies and Guidelines; Sample of Work Hour Report Data; Documents Demonstrating Resident/Fellow Participation in Quality Improvement Activities.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Program \u2013 Continued Accreditation Statuses, Probationary Accreditation",
+        "page": 119,
+        "quote": "Program \u2013 Continued Accreditation Statuses, Probationary Accreditation Site Visit Uploads \u2610 Block Diagram (use specialty-specific templates if applicable) \u2610 Program Letters of Agreement \u2610 Resident/Fellow Files \u2610 Example of Competency-Based Goals and Objectives \u2610 Schedule of Didactics, Conferences, and Other Educational Activities \u2610 Sample of a Completed Annual Evaluation of a Faculty Member by Residents/Fellows \u2610 Program-Specific Policies and Guidelines \u2610 Sample of Work Hour Report Data \u2610 Documents Demonstrating Resident/Fellow Participation in Quality Improvement Activities"
+      }
+    },
+    {
+      "id": "doc4-fc-028",
+      "front": "What items make up the Institutional Review Questionnaire for a Sponsoring Institution site visit?",
+      "back": "Organizational Chart 1 (DIO position); Organizational Chart 2 (GMEC position); Statement of Commitment; GMEC Membership; Annotated GMEC Minutes; Annual Institutional Review (AIR) Summaries; GMEC Special Review Protocol; Special Review Reports (if available).",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Sponsoring Institution \u2013 All Statuses",
+        "page": 121,
+        "quote": "Institutional Review Questionnaire \u2610 Organizational Chart 1, Position of Designated Institutional Official (DIO) \u2610 Organizational Chart 2, Position of Graduate Medical Education Committee (GMEC) \u2610 Statement of Commitment \u2610 GMEC Membership \u2610 Annotated GMEC Minutes \u2610 Annual Institutional Review Summaries \u2610 GMEC Special Review Protocol \u2610 Special Review Reports (if available)"
+      }
+    },
+    {
+      "id": "doc4-fc-029",
+      "front": "What additional document is required ONLY for the 10-Year Accreditation Site Visit?",
+      "back": "Summary of Achievements.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Sponsoring Institution \u2013 All Statuses, Only for 10-Year Accreditation Site Visit",
+        "page": 121,
+        "quote": "Only for 10-Year Accreditation Site Visit \u2610 Summary of Achievements"
+      }
+    },
+    {
+      "id": "doc4-fc-030",
+      "front": "What four Site Visit Upload items must a Sponsoring Institution provide for any site visit (all statuses)?",
+      "back": "(1) Documentation of Patient Care for Participating Sites that Are Hospitals; (2) Written Policies; (3) Sample(s) of the Residents'/Fellows' Agreement(s) of Appointment/Contract; (4) Professional Liability Coverages for Residents/Fellows.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Sponsoring Institution \u2013 All Statuses",
+        "page": 121,
+        "quote": "Sponsoring Institution \u2013 All Statuses Site Visit Uploads \u2610 Documentation of Patient Care for Participating Sites that Are Hospitals \u2610 Written Policies \u2610 Sample(s) of the Residents'/Fellows' Agreement(s) of Appointment/Contract \u2610 Professional Liability Coverages for Residents/Fellows"
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc4-ads-guides-mc-001",
-      "stem": "Placeholder question #1 for ADS Guides: which of the following is the correct answer in this test stub?",
+      "id": "doc4-mc-001",
+      "stem": "On what date did the ADS academic year rollover occur for the 2024-2025 cycle?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
-      ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
-      "citation": {
-        "source": "ADS Guides, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
-      }
-    },
-    {
-      "id": "doc4-ads-guides-mc-002",
-      "stem": "Placeholder question #2 for ADS Guides: which option is correct here?",
-      "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "June 1",
+        "June 29",
+        "July 1",
+        "July 15"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "The ADS rollover for 2024-2025 occurred on June 29, 2024. At rollover, data from the prior academic year is archived, ADS screens reflect the new academic year, and all residents/fellows are given an \"unconfirmed\" status pending program confirmation.",
       "citation": {
-        "source": "ADS Guides, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q1",
+        "page": 110,
+        "quote": "An announcement is posted on the ADS login page that specifies the date of the rollover (June 29 for 2024). When the rollover occurs, data in ADS collected for the current academic year is archived, the screens in ADS will reflect the new academic year, and all residents/fellows are given an \"unconfirmed\" status."
       }
     },
     {
-      "id": "doc4-ads-guides-mc-003",
-      "stem": "Placeholder question #3 for ADS Guides: test the review queue by intentionally answering this wrong.",
+      "id": "doc4-mc-002",
+      "stem": "Dr. Smith serves as both program director AND DIO at her Sponsoring Institution. For ADS Annual Update purposes, can the duplicate approval requirement be removed?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "Yes \u2014 when one individual serves in both roles, only one approval is required",
+        "No \u2014 the DIO must oversee the program's Annual Update submission even when the same individual serves as the program director",
+        "Yes, but only with written approval from the GMEC",
+        "Yes, but only for Sponsoring Institutions with a single program"
       ],
-      "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "correctIndex": 1,
+      "explanation": "Per the FAQ, the DIO must oversee programs' Annual Update submissions even when the same individual serves as a program director. The two approval steps remain required.",
       "citation": {
-        "source": "ADS Guides, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "ADS Annual Update FAQ \u2014 Sponsoring Institution-Specific Questions, Q2",
+        "page": 109,
+        "quote": "If a program director is also the DIO, can the duplicate approval be removed for the ADS Annual Update? Answer: No. The DIO must oversee programs' Annual Update submissions even when the same individual serves as a program director."
+      }
+    },
+    {
+      "id": "doc4-mc-003",
+      "stem": "By when must programs update ADS and complete document uploads prior to an accreditation or recognition site visit?",
+      "options": [
+        "7 days prior",
+        "10 days prior",
+        "14 days prior",
+        "30 days prior"
+      ],
+      "correctIndex": 2,
+      "explanation": "Programs are required to update ADS and complete document uploads 14 days prior to an accreditation or recognition site visit. Specific instructions are provided in the Site Visit Announcement Letter.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Site Visit Questions, Q2",
+        "page": 116,
+        "quote": "Programs are required to update ADS and complete their document uploads 14 days prior to an accreditation or recognition site visit."
+      }
+    },
+    {
+      "id": "doc4-mc-004",
+      "stem": "What is the consequence if a program fails to update ADS by the due date indicated in the Site Visit Announcement letter?",
+      "options": [
+        "An automatic citation only",
+        "Postponement of the site visit and assessment of a $3,200 fine",
+        "Loss of accreditation",
+        "No consequence; the site visit proceeds as scheduled"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the warning notice on the ADS Site Visit Checklist, failure to update ADS by the due date may result in postponement of the site visit and assessment of a $3,200 fine.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Warning notice",
+        "page": 117,
+        "quote": "Warning! Update ADS by the due date indicated in the Site Visit Announcement letter. Failure to update the ADS information may result in a postponement of the site visit and assessment of a $3,200 fine."
+      }
+    },
+    {
+      "id": "doc4-mc-005",
+      "stem": "A Sponsoring Institution has 18 ACGME-accredited programs and wants all programs to complete the ADS Annual Update in the same window. What should the DIO do?",
+      "options": [
+        "Submit a formal request through ADS for each program separately",
+        "Email ADS@acgme.org to request that the same ADS Annual Update be set for all programs",
+        "Wait until the next academic year",
+        "No accommodation is possible; programs are stuck with the windows assigned by specialty"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the FAQ, SIs may set the same ADS Annual Update for all their programs. The DIO should email ADS@acgme.org to make that request.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Sponsoring Institution-Specific Questions, Q1",
+        "page": 109,
+        "quote": "Sponsoring Institutions have the option to set the same ADS Annual Update for all their programs. To make that request, the DIO should email ADS@acgme.org."
+      }
+    },
+    {
+      "id": "doc4-mc-006",
+      "stem": "When may new residents/fellows starting in late June be entered into ADS?",
+      "options": [
+        "Anytime in June before the rollover",
+        "Only after the annual ADS rollover has occurred (June 29 for 2024)",
+        "Only during the official ADS Annual Update window",
+        "Only after the resident/fellow's start date"
+      ],
+      "correctIndex": 1,
+      "explanation": "Programs should only add new residents/fellows AFTER the annual ADS rollover has occurred (June 29 for 2024). Adding them before would cause data conflicts with the academic year transition.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Resident/Fellow Roster Questions, Q1",
+        "page": 113,
+        "quote": "Should residents/fellows starting June 24 be entered into ADS prior to the ADS rollover? Answer: No. Programs should only add new residents/fellows after the annual ADS rollover has occurred on June 29, 2024."
+      }
+    },
+    {
+      "id": "doc4-mc-007",
+      "stem": "A graduating resident has just been hired as a faculty member at the same institution. When can the program add this individual to the Faculty Roster?",
+      "options": [
+        "Immediately, before the rollover",
+        "Only after the rollover, AND only after the program has reviewed and confirmed the Resident/Fellow Roster (including the resident's graduated status)",
+        "At any time during the academic year",
+        "Only after the individual's NPI is generated"
+      ],
+      "correctIndex": 1,
+      "explanation": "Physicians should NOT be added to the Faculty Roster while still indicated as a resident/fellow in ADS. After the rollover, programs must review and confirm the Resident/Fellow Roster, including PGY/graduated status. Only then can the graduated individual be added as a faculty member.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q2",
+        "page": 114,
+        "quote": "Physicians should not be added to the Faculty Roster while they are still indicated as a resident or fellow in ADS. After the rollover, programs must review and confirm their Resident/Fellow Roster, and specifically the residents'/fellows' PGY or graduated status. Once this step is complete, programs can add an individual who has graduated as a faculty member on the Faculty Roster."
+      }
+    },
+    {
+      "id": "doc4-mc-008",
+      "stem": "An associate program director announces they will leave the program in September. When should the program remove this person from ADS?",
+      "options": [
+        "Immediately upon announcement",
+        "At the next ADS Annual Update",
+        "Not before the actual departure date, if that individual still needs ADS access for program-level data or the Case Log System",
+        "At the end of the academic year (June 30)"
+      ],
+      "correctIndex": 2,
+      "explanation": "The associate program director should NOT be removed from ADS prior to the actual departure date if that individual still needs ADS access for program-level data or the Case Log System.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q4",
+        "page": 114,
+        "quote": "The associate program director should not be removed from ADS prior to the actual departure date if that individual still needs ADS access for program-level data or the Case Log System."
+      }
+    },
+    {
+      "id": "doc4-mc-009",
+      "stem": "For a newly added faculty member, how long does it typically take for ABMS and AOA board certification data to populate in their faculty profile, assuming a match is identified?",
+      "options": [
+        "Immediately",
+        "Within 24 hours",
+        "Within 72 hours",
+        "Within 14 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "For new faculty members, the ABMS and AOA data are populated in their faculty profiles within 24 hours IF a match is identified. The NPI number is a key data point for matching.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q8",
+        "page": 115,
+        "quote": "Yes, for new faculty members, the ABMS and AOA data will be populated in their faculty profiles within 24 hours if a match is identified. One of the key data points used to match a faculty member against the ABMS and AOA datasets is the NPI number, so programs must ensure the NPI number for new faculty members is provided and is correct."
+      }
+    },
+    {
+      "id": "doc4-mc-010",
+      "stem": "How should programs enter certifications for non-physician faculty members in ADS?",
+      "options": [
+        "Use the ABMS/AOA auto-populate function",
+        "Use the manual entry option",
+        "Contact ADS@acgme.org for each certification",
+        "Non-physician certifications cannot be entered"
+      ],
+      "correctIndex": 1,
+      "explanation": "A manual entry option is available and should be used to enter any certifications for non-physician faculty members.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q9",
+        "page": 115,
+        "quote": "A manual entry option is available and should be used to enter any certifications for non-physician faculty members."
+      }
+    },
+    {
+      "id": "doc4-mc-011",
+      "stem": "Where in ADS is a program strongly encouraged to address areas of concern from the Resident/Fellow and Faculty Surveys during the Annual Update?",
+      "options": [
+        "In the Citation Responses section",
+        "In a separate document upload",
+        "In the \"Major Changes and Other Updates\" section",
+        "In the Self-Study section"
+      ],
+      "correctIndex": 2,
+      "explanation": "Programs are strongly encouraged to address both Resident/Fellow and Faculty Survey areas of concern in the \"Major Changes and Other Updates\" section of ADS during the Annual Update.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Common Program Requirements Questions, Q4",
+        "page": 113,
+        "quote": "Programs are strongly encouraged to address both Resident/Fellow and Faculty Survey areas of concern in the \"Major Changes and Other Updates\" section of ADS during the ADS Annual Update."
+      }
+    },
+    {
+      "id": "doc4-mc-012",
+      "stem": "Do fellows in a Non-Standard Training (NST) program count toward the program director's and program coordinator's dedicated time entered in the ADS Annual Update for the ACGME-accredited program?",
+      "options": [
+        "Yes \u2014 all fellows count, regardless of program type",
+        "No \u2014 the FTE percent must reflect only the time dedicated to the specific ACGME-accredited program being updated",
+        "Only when the NST program has more than 5 fellows",
+        "Only at the request of the Review Committee"
+      ],
+      "correctIndex": 1,
+      "explanation": "NST fellows do NOT count toward PD/coordinator dedicated time on the ACGME-accredited program's Annual Update. The FTE percent should reflect only the time spent on the specific ACGME-accredited program being updated.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Common Program Requirements Questions, Q6",
+        "page": 113,
+        "quote": "Does the number of fellows in a Non-Standard Training program count towards the program director and program coordinator dedicated time? Answer: No. The full-time equivalent (FTE) percent entered should reflect only the time the program director and program coordinator dedicate to administration of the specific ACGME-accredited program you are completing the ADS Annual Update for."
+      }
+    },
+    {
+      "id": "doc4-mc-013",
+      "stem": "What does the ADS Annual Update question regarding core faculty members' dedicated time ask for?",
+      "options": [
+        "Individual FTE for each core faculty member",
+        "The aggregate FTE support for the minimum number of required faculty members in the program",
+        "Only the dedicated time of the lead core faculty member",
+        "An estimate of clinical hours only"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ADS Annual Update question asks for the AGGREGATE FTE support for the MINIMUM number of required faculty members in the program (not per individual).",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Common Program Requirements Questions, Q7",
+        "page": 113,
+        "quote": "The question in the ADS Annual Update regarding core faculty members' dedicated time asks for the aggregate FTE support for the minimum number of required faculty members in the program."
+      }
+    },
+    {
+      "id": "doc4-mc-014",
+      "stem": "What is the ACGME's policy regarding site visits between the ADS rollover (June 29) and the start of the ADS Annual Update window?",
+      "options": [
+        "Site visits proceed normally during this window",
+        "The ACGME will not schedule any accreditation or recognition site visits between June 29 and July 14; site visits resume July 15",
+        "Site visits may proceed with the Sponsoring Institution's CEO approval",
+        "Site visits are scheduled only during this window each year"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the FAQ, the ACGME will not schedule any accreditation or recognition site visits between June 29 (ADS rollover) and July 14. Site visits resume July 15.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Site Visit Questions, Q1",
+        "page": 116,
+        "quote": "The ACGME will not schedule any accreditation or recognition site visits between June 29 (ADS rollover) and July 14, 2024. Site visits will resume July 15, 2024."
+      }
+    },
+    {
+      "id": "doc4-mc-015",
+      "stem": "A program with Initial Accreditation has no residents/fellows yet. What ADS Annual Update obligation, if any, does it have?",
+      "options": [
+        "None \u2014 Annual Update is waived until residents are matched",
+        "All programs with Initial Accreditation (with or without residents/fellows) must review and complete all items under \"Annual Update\" on the Overview tab, but do not need to update documents under \"Updated Application\"",
+        "Only the program description must be reviewed",
+        "Only the GMEC must respond"
+      ],
+      "correctIndex": 1,
+      "explanation": "All programs with Initial Accreditation and Initial Accreditation with Warning must review and complete all items under \"Annual Update\" on the Overview tab \u2014 regardless of whether they have residents/fellows. They do NOT need to update documents under \"Updated Application.\"",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q8",
+        "page": 111,
+        "quote": "All programs with Initial Accreditation and Initial Accreditation with Warning must review and complete all items under \"Annual Update\" on the Overview tab. They do NOT need to update documents under \"Updated Application\" on the Overview tab."
+      }
+    },
+    {
+      "id": "doc4-mc-016",
+      "stem": "Are the ADS Annual Update questions different for programs with Continued Accreditation without Outcomes versus Continued Accreditation with Warning?",
+      "options": [
+        "Yes \u2014 they are substantially different",
+        "No \u2014 the same ADS Annual Update questions apply to Continued Accreditation, Continued Accreditation without Outcomes, Continued Accreditation with Warning, and Probation",
+        "Only the citation response section differs",
+        "Only programs on Probation have additional questions"
+      ],
+      "correctIndex": 1,
+      "explanation": "The same ADS Annual Update questions apply to all four statuses: Continued Accreditation, Continued Accreditation without Outcomes, Continued Accreditation with Warning, and Probation.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q9",
+        "page": 111,
+        "quote": "The same ADS Annual Update questions apply to programs with Continued Accreditation, Continued Accreditation without Outcomes, Continued Accreditation with Warning, and Probation."
+      }
+    },
+    {
+      "id": "doc4-mc-017",
+      "stem": "A program received Continued Accreditation but has not yet received its citations by the start of the ADS Annual Update window. What should it do?",
+      "options": [
+        "Skip the citation response section entirely",
+        "If the program has no citations, it does not need to respond to citations; if reviewed in the prior year's annual review, an accreditation decision and Letter of Notification (LoN) will be issued before June 30, and any citation responses will be required during the Annual Update",
+        "Wait until next year's Annual Update",
+        "File a hardship request with the Review Committee"
+      ],
+      "correctIndex": 1,
+      "explanation": "If a program has no citations, it does not need to respond to citations. If the program was part of the prior year's annual review, it will receive an accreditation decision and Letter of Notification (LoN) before June 30, and a response to any citations included in the LoN will be required during the Annual Update.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q10",
+        "page": 111,
+        "quote": "If a program has no citations, it will not need to respond to citations as part of the ADS Annual Update. If a program was reviewed as part of the 2023-2024 annual program review, it will be issued an accreditation decision and a Letter of Notification (LoN) before June 30, 2024. A response to any citations included in the LoN, if applicable, will be required during the ADS Annual Update."
+      }
+    },
+    {
+      "id": "doc4-mc-018",
+      "stem": "For ALL site visits, which of the following must be ensured to be up to date and accurate in ADS?",
+      "options": [
+        "Only the rosters",
+        "Rosters (faculty and resident/fellow); responses to citations; the Major Changes and Other Updates section; and the Site Visit Attestation Statement",
+        "Only the Major Changes section",
+        "Only the citation responses"
+      ],
+      "correctIndex": 1,
+      "explanation": "For ALL site visits, four items must be ensured accurate and up to date: (1) Rosters; (2) Responses to citations (if applicable); (3) The Major Changes and Other Updates section; (4) Site Visit Attestation Statement.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Instructions",
+        "page": 117,
+        "quote": "For all site visits, ensure all data listed in ADS is up to date and accurate, especially: \u2610 Rosters (faculty member and resident/fellow, if applicable) \u2610 Responses to citations (if appliable) \u2610 The Major Changes and Other Updates section \u2610 Site Visit Attestation Statement"
+      }
+    },
+    {
+      "id": "doc4-mc-019",
+      "stem": "During a site visit review, what do accreditation reviewers actually see?",
+      "options": [
+        "All resident/fellow files and sample evaluations in full",
+        "Only the templates \u2014 not the resident/fellow files or sample evaluations",
+        "Only the program director's notes",
+        "Only the Sponsoring Institution's letter of notification"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the ADS Site Visit Checklist instructions, reviewers see only the templates and NOT the resident/fellow files or sample evaluations.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Instructions",
+        "page": 117,
+        "quote": "Reviewers see only the templates and not the resident/fellow files or sample evaluations."
+      }
+    },
+    {
+      "id": "doc4-mc-020",
+      "stem": "Which of the following Site Visit Uploads is unique to programs with Continued Accreditation Statuses (or Probationary Accreditation)?",
+      "options": [
+        "Schedule of Didactics",
+        "Block Diagram only",
+        "Example of Competency-Based Goals and Objectives",
+        "Resident/Fellow Files"
+      ],
+      "correctIndex": 2,
+      "explanation": "While many uploads are common, \"Example of Competency-Based Goals and Objectives\" is specifically listed as a required upload for programs in Continued Accreditation Statuses or Probationary Accreditation (and not for Initial Accreditation programs, which upload Goals and Objectives more broadly under \"Updated Application\").",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Program \u2013 Continued Accreditation Statuses, Probationary Accreditation",
+        "page": 119,
+        "quote": "Program \u2013 Continued Accreditation Statuses, Probationary Accreditation Site Visit Uploads \u2610 Block Diagram (use specialty-specific templates if applicable) \u2610 Program Letters of Agreement \u2610 Resident/Fellow Files \u2610 Example of Competency-Based Goals and Objectives \u2610 Schedule of Didactics, Conferences, and Other Educational Activities"
+      }
+    },
+    {
+      "id": "doc4-mc-021",
+      "stem": "What four site visit uploads must a Sponsoring Institution provide (regardless of accreditation status)?",
+      "options": [
+        "Only the Statement of Commitment",
+        "Documentation of Patient Care for Participating Sites that Are Hospitals; Written Policies; Sample(s) of the Residents'/Fellows' Agreement of Appointment/Contract; and Professional Liability Coverages for Residents/Fellows",
+        "Only the GMEC minutes",
+        "Only the Annual Institutional Review summaries"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the ADS Site Visit Checklist for Sponsoring Institutions (all statuses), required uploads include: Documentation of Patient Care for Participating Sites that Are Hospitals; Written Policies; Sample(s) of the Residents'/Fellows' Agreement(s) of Appointment/Contract; and Professional Liability Coverages for Residents/Fellows.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Sponsoring Institution \u2013 All Statuses",
+        "page": 121,
+        "quote": "Sponsoring Institution \u2013 All Statuses Site Visit Uploads \u2610 Documentation of Patient Care for Participating Sites that Are Hospitals \u2610 Written Policies \u2610 Sample(s) of the Residents'/Fellows' Agreement(s) of Appointment/Contract \u2610 Professional Liability Coverages for Residents/Fellows"
+      }
+    },
+    {
+      "id": "doc4-mc-022",
+      "stem": "Which of the following is part of the Institutional Review Questionnaire required for a Sponsoring Institution site visit?",
+      "options": [
+        "Only the GMEC Membership list",
+        "Organizational Chart for the DIO; Organizational Chart for the GMEC; Statement of Commitment; GMEC Membership; Annotated GMEC Minutes; AIR Summaries; GMEC Special Review Protocol; and Special Review Reports if available",
+        "Only the AIR Summaries",
+        "Only the Special Review Reports"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Institutional Review Questionnaire requires multiple documents: Org Chart 1 (DIO), Org Chart 2 (GMEC), Statement of Commitment, GMEC Membership, Annotated GMEC Minutes, AIR Summaries, GMEC Special Review Protocol, and Special Review Reports (if available).",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Sponsoring Institution \u2013 All Statuses",
+        "page": 121,
+        "quote": "Institutional Review Questionnaire \u2610 Organizational Chart 1, Position of Designated Institutional Official (DIO) \u2610 Organizational Chart 2, Position of Graduate Medical Education Committee (GMEC) \u2610 Statement of Commitment \u2610 GMEC Membership \u2610 Annotated GMEC Minutes \u2610 Annual Institutional Review Summaries \u2610 GMEC Special Review Protocol \u2610 Special Review Reports (if available)"
+      }
+    },
+    {
+      "id": "doc4-mc-023",
+      "stem": "Which additional document is required ONLY for a Sponsoring Institution's 10-Year Accreditation Site Visit?",
+      "options": [
+        "The Statement of Commitment",
+        "The Summary of Achievements",
+        "The Special Review Protocol",
+        "Documentation of Patient Care for Hospital Sites"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Summary of Achievements is required ONLY for the 10-Year Accreditation Site Visit. Other items (Statement of Commitment, Special Review Protocol, Patient Care Documentation) are required for all SI site visits regardless of status.",
+      "citation": {
+        "source": "ADS Site Visit Checklist \u2014 Sponsoring Institution \u2013 All Statuses",
+        "page": 121,
+        "quote": "Only for 10-Year Accreditation Site Visit \u2610 Summary of Achievements"
+      }
+    },
+    {
+      "id": "doc4-mc-024",
+      "stem": "Can faculty scholarly activity be copied between programs in ADS for faculty members serving in multiple programs?",
+      "options": [
+        "No \u2014 each program must enter the scholarly activity separately",
+        "Yes \u2014 scholarly activity can be copied from one program to another on the Faculty Scholarly Activity tab in ADS, when a record is available to copy from another program",
+        "Only between Sponsoring Institutions",
+        "Only with manual ACGME approval"
+      ],
+      "correctIndex": 1,
+      "explanation": "For faculty members serving across multiple programs and institutions, scholarly activity can be copied on the Faculty Scholarly Activity tab in ADS. The copy option is only enabled when a scholarly activity record is available to copy from another program.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Faculty Roster Questions, Q11",
+        "page": 115,
+        "quote": "For faculty members who serve across multiple programs and institutions, scholarly activity can be copied from one program to another on the Faculty Scholarly Activity tab in ADS. The copy option will only be enabled if a scholarly activity record is available to copy from another program."
+      }
+    },
+    {
+      "id": "doc4-mc-025",
+      "stem": "A program is closing on June 30, 2024. Will it be assigned the 2024-2025 ADS Annual Update?",
+      "options": [
+        "Yes \u2014 all programs must complete the Annual Update regardless of status",
+        "No \u2014 if the program has submitted a Voluntary Withdrawal request approved by the specialty Review Committee, OR if its accreditation was withdrawn by the Review Committee effective June 30, it will not be assigned the next Annual Update",
+        "Only if the program is in Probationary Accreditation",
+        "Only if the program has fewer than 10 residents/fellows"
+      ],
+      "correctIndex": 1,
+      "explanation": "If a program has submitted a Voluntary Withdrawal request in ADS that has been approved by the specialty Review Committee, OR if the program had its accreditation withdrawn by a Review Committee effective June 30, 2024, it will NOT be assigned to complete the 2024-2025 ADS Annual Update.",
+      "citation": {
+        "source": "ADS Annual Update FAQ \u2014 Program-Specific Questions, Q11",
+        "page": 111,
+        "quote": "If a program has submitted a Voluntary Withdrawal request in ADS and the request has been approved by the specialty Review Committee, or if the program had its accreditation withdrawn by a Review Committee effective June 30, 2024, it will not be assigned to complete the 2024-2025 ADS Annual Update."
       }
     }
   ]

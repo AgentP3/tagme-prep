@@ -2,112 +2,776 @@
   "id": "doc3-institutional",
   "title": "ACGME Institutional Requirements",
   "shortTitle": "Institutional Reqs",
-  "documentRef": "Placeholder content for Institutional Reqs",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "documentRef": "TAGME Study Guide pages 92\u2013109",
+  "description": "The ACGME Institutional Requirements define the obligations of Sponsoring Institutions, covering educational oversight (DIO, GMEC), institutional resources, the learning and working environment, and required GME policies and procedures.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers ACGME Institutional Requirements. Browse content will be populated when real content is generated."
+      "text": "The Institutional Requirements set out what every ACGME-accredited Sponsoring Institution (SI) must do \u2014 independent of any individual program. An SI must achieve and maintain institutional accreditation before any of its programs can be accredited."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "Section 1 \u2014 Structure for Educational Oversight"
     },
     {
-      "type": "list",
-      "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
-      ]
+      "type": "paragraph",
+      "text": "Identifies the Sponsoring Institution, the DIO, and the GMEC. Requires a written GME mission statement signed every 5 years by the DIO, senior administration, and a governing body representative. Establishes GMEC composition (different for multi-program vs single-program SIs), quarterly meeting cadence, oversight and review-and-approval responsibilities (15+ items), Annual Institutional Review (AIR), and the Special Review process for underperforming programs."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 2 \u2014 Institutional Resources"
+    },
+    {
+      "type": "paragraph",
+      "text": "Requires DIO support, program administration resources for PDs/core faculty/coordinators, a Resident/Fellow Forum (for SIs with more than one program), resident salary and benefits, educational tools (communication and medical literature access), and support services (phlebotomy, transport, medical records) that minimize residents'/fellows' non-physician obligations."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 3 \u2014 The Learning and Working Environment"
+    },
+    {
+      "type": "paragraph",
+      "text": "SI must provide environments where concerns can be raised without intimidation, and must oversee resident/fellow engagement in: Patient Safety, Quality Improvement, Transitions of Care, Supervision and Accountability, Clinical Experience and Education (work hours), and Professionalism (including fatigue mitigation systems)."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 4 \u2014 Institutional GME Policies and Procedures"
+    },
+    {
+      "type": "paragraph",
+      "text": "Required institutional policies covering eligibility, agreement of appointment (12 required items including grievance/due process), promotion/renewal/dismissal, grievances, professional liability, health/disability insurance, vacation and leaves of absence (minimum 6 weeks at 100% salary for first medical/parental/caregiver leave, plus \u22651 week PTO reserved outside that), resident services (behavioral health, impairment, harassment, accommodations, discrimination), supervision, clinical and educational work hours, moonlighting (written PD permission required), vendors, non-competition prohibition, substantial disruptions, and closures."
     }
   ],
   "flashcards": [
     {
-      "id": "doc3-institutional-fc-001",
-      "front": "Placeholder flashcard #1 for Institutional Reqs",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc3-fc-001",
+      "front": "Who must each Sponsoring Institution identify, with collaboration with the GMEC for oversight of ACGME-accredited programs?",
+      "back": "A Designated Institutional Official (DIO).",
       "citation": {
-        "source": "Institutional Reqs, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "Institutional Requirements, Section 1.2",
+        "page": 93,
+        "quote": "1.2. The Sponsoring Institution must identify a designated institutional official (DIO). (Core) 1.2.a. This individual, in collaboration with a Graduate Medical Education Committee (GMEC), must have authority and responsibility for the oversight and administration of each of the Sponsoring Institution's ACGME-accredited programs, as well as for ensuring compliance with the ACGME Institutional, Common, specialty-/subspecialty-specific Program, and Recognition Requirements. (Core)"
       }
     },
     {
-      "id": "doc3-institutional-fc-002",
-      "front": "Placeholder flashcard #2 for Institutional Reqs",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc3-fc-002",
+      "front": "Who must approve Program Letters of Agreement (PLAs)?",
+      "back": "The DIO must approve PLAs that govern relationships between each program and each participating site providing a required assignment.",
       "citation": {
-        "source": "Institutional Reqs, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "Institutional Requirements, Section 1.2.b",
+        "page": 94,
+        "quote": "1.2.b. The DIO must approve program letters of agreement (PLAs) that govern relationships between each program and each participating site providing a required assignment for residents/fellows in the program. (Core)"
       }
     },
     {
-      "id": "doc3-institutional-fc-003",
-      "front": "Placeholder flashcard #3 for Institutional Reqs",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc3-fc-003",
+      "front": "Who oversees the ADS Annual Update submissions for the Sponsoring Institution and each program?",
+      "back": "The DIO.",
       "citation": {
-        "source": "Institutional Reqs, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "Institutional Requirements, Section 1.2.c",
+        "page": 94,
+        "quote": "1.2.c. The DIO must oversee submissions of the Annual Update for each program and the Sponsoring Institution to the ACGME. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-004",
+      "front": "How often must the Sponsoring Institution's written GME mission statement be reviewed, dated, and signed?",
+      "back": "At least once every 5 years, by the DIO, a representative of the Sponsoring Institution's senior administration, and a representative of the governing body. It must document the SI's GME mission and its commitment to GME (administrative, educational, financial, human, and clinical resources).",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.4",
+        "page": 94,
+        "quote": "1.4. A written statement, reviewed, dated, and signed at least once every five years by the DIO, a representative of the Sponsoring Institution's senior administration, and a representative of the governing body, must document the Sponsoring Institution's: 1.4.a. GME mission; and, (Core) 1.4.b. commitment to GME by ensuring the provision of the necessary administrative, educational, financial, human, and clinical resources. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-005",
+      "front": "When must a Sponsoring Institution complete a Self-Study?",
+      "back": "Prior to its 10-Year Accreditation Site Visit.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.5",
+        "page": 94,
+        "quote": "1.5. The Sponsoring Institution must complete a Self-Study prior to its 10-Year Accreditation Site Visit. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-006",
+      "front": "Within how many days must a Sponsoring Institution notify the Institutional Review Committee when an SI or major participating site that is a hospital loses its accreditation for patient care?",
+      "back": "Within 30 days of such loss, with a plan for response. The ACGME may invoke procedures related to alleged egregious and/or catastrophic events based on the circumstances.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.7",
+        "page": 94,
+        "quote": "1.7. When a Sponsoring Institution or major participating site that is a hospital loses its accreditation for patient care, the Sponsoring Institution must notify and provide a plan for its response to the Institutional Review Committee within 30 days of such loss. Based on the particular circumstances, the ACGME may invoke its procedures related to alleged egregious and/or catastrophic events. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-007",
+      "front": "What are the minimum voting members of a GMEC at a Sponsoring Institution with multiple ACGME-accredited programs?",
+      "back": "(1) The DIO; (2) a representative sample of program directors (minimum of two); (3) a minimum of two peer-selected residents/fellows; and (4) a quality improvement or patient safety officer or designee.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.9.a",
+        "page": 95,
+        "quote": "1.9.a. A Sponsoring Institution with multiple ACGME-accredited programs must have a GMEC that includes at least the following voting members: (Core) 1.9.a.1. the DIO; (Core) 1.9.a.2. a representative sample of program directors (minimum of two) from its ACGME-accredited programs; (Core) 1.9.a.3. a minimum of two peer-selected residents/fellows from among its ACGME-accredited programs; and, (Core) 1.9.a.4. a quality improvement or patient safety officer or designee. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-008",
+      "front": "How often must the GMEC meet?",
+      "back": "A minimum of once every quarter during each academic year. Each meeting must include attendance by at least one resident/fellow member, and the GMEC must maintain meeting minutes documenting execution of all required functions.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 1.11, 1.11.a, and 1.11.b",
+        "page": 96,
+        "quote": "1.11. Meetings and Attendance. The GMEC must meet a minimum of once every quarter during each academic year. (Core) 1.11.a. Each meeting of the GMEC must include attendance by at least one resident/fellow member. (Core) 1.11.b. The GMEC must maintain meeting minutes that document execution of all required GMEC functions and responsibilities. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-009",
+      "front": "Name 6 items the GMEC must review and approve.",
+      "back": "From Section 1.13: institutional GME policies and procedures; annual stipend/benefit recommendations; applications for new program accreditation; permanent complement changes; major program structure changes (including primary clinical site change); additions/deletions of participating sites; appointment of new program directors; progress reports requested by RCs; responses to CLER reports; requests for work hour exceptions; voluntary withdrawal of accreditation; appeal requests; appeal presentations to an ACGME Appeals Panel; and exceptionally qualified candidates for resident/fellow appointment.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 1.13.a\u20131.13.o",
+        "page": 96,
+        "quote": "1.13. GMEC responsibilities must include review and approval of: 1.13.a. institutional GME policies and procedures; (Core) 1.13.b. GMEC subcommittee actions that address required GMEC responsibilities; (Core) 1.13.c. annual recommendations to the Sponsoring Institution's administration regarding resident/fellow stipends and benefits; (Core) 1.13.d. applications for ACGME accreditation of new programs; (Core) 1.13.e. requests for permanent changes in resident/fellow complement; (Core) 1.13.f. major changes in each of its ACGME-accredited programs' structure or duration of education, including any change in the designation of a program's primary clinical site; (Core) 1.13.g. additions and deletions of each of its ACGME-accredited programs' participating sites; (Core) 1.13.h. appointment of new program directors; (Core) 1.13.i. progress reports requested by a Review Committee; (Core) 1.13.j. responses to Clinical Learning Environment Review (CLER) reports; (Core) 1.13.k. requests for exceptions to clinical and educational work hour requirements; (Core) 1.13.l. voluntary withdrawal of ACGME program accreditation or recognition; (Core) 1.13.m. requests for appeal of an adverse action by a Review Committee; (Core) 1.13.n. appeal presentations to an ACGME Appeals Panel; and, (Core) 1.13.o. exceptionally qualified candidates for resident/fellow appointments who do not satisfy the Sponsoring Institution's resident/fellow eligibility policy and/or resident/fellow eligibility requirements in the Common Program Requirements. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-010",
+      "front": "What must the GMEC demonstrate through an Annual Institutional Review (AIR), and what are the minimum required indicators?",
+      "back": "Effective oversight of the Sponsoring Institution's accreditation. Required AIR indicators include: (1) the most recent ACGME institutional letter of notification; (2) results of ACGME surveys of residents/fellows and core faculty members; and (3) each ACGME-accredited program's accreditation information, including statuses and citations.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 1.14 and 1.14.a",
+        "page": 97,
+        "quote": "1.14. The GMEC must demonstrate effective oversight of the Sponsoring Institution's accreditation through an Annual Institutional Review (AIR). (Outcome) 1.14.a. The GMEC must identify institutional performance indicators for the AIR, to include, at a minimum: (Core) 1.14.a.1. the most recent ACGME institutional letter of notification; (Core) 1.14.a.2. results of ACGME surveys of residents/fellows and core faculty members; and, (Core) 1.14.a.3. each of its ACGME-accredited programs' ACGME accreditation information, including accreditation and recognition statuses and citations. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-011",
+      "front": "To whom must the DIO annually submit a written executive summary of the AIR?",
+      "back": "The Sponsoring Institution's Governing Body. The summary must include a summary of institutional performance on AIR indicators, plus action plans and performance monitoring procedures resulting from the AIR.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.14.b",
+        "page": 97,
+        "quote": "1.14.b. The DIO must annually submit a written executive summary of the AIR to the Sponsoring Institution's Governing Body. (Core) 1.14.b.1. The written executive summary must include a summary of institutional performance on indicators for the AIR. (Core) 1.14.b.2. The written executive summary must include action plans and performance monitoring procedures resulting from the AIR. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-012",
+      "front": "What is the Special Review process and what must its protocol include?",
+      "back": "The GMEC must demonstrate effective oversight of underperforming program(s) through a Special Review process. The protocol must: (1) establish criteria for identifying underperformance \u2014 at minimum, program accreditation statuses of Initial Accreditation with Warning, Continued Accreditation with Warning, and adverse statuses; and (2) result in a timely report describing quality improvement goals, corrective actions, and the process for GMEC monitoring of outcomes (with timelines).",
+      "citation": {
+        "source": "Institutional Requirements, Sections 1.15 and 1.15.a",
+        "page": 98,
+        "quote": "1.15. The GMEC must demonstrate effective oversight of underperforming program(s) through a Special Review process. (Core) 1.15.a. The Special Review process must include a protocol that: (Core) 1.15.a.1. establishes a variety of criteria for identifying underperformance that includes, at a minimum, program accreditation statuses of Initial Accreditation with Warning, Continued Accreditation with Warning, and adverse accreditation statuses as described by ACGME policies; and, (Core) 1.15.a.2. results in a timely report that describes the quality improvement goals, the corrective actions, and the process for GMEC monitoring of outcomes, including timelines. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-013",
+      "front": "What is the requirement for a Resident/Fellow Forum at a Sponsoring Institution with more than one program?",
+      "back": "The SI must ensure availability of an organization, council, town hall, or other platform that allows all residents/fellows from within and across its programs to communicate. Any resident/fellow must have the opportunity to directly raise a concern. Residents/fellows must have the option, at least in part, to conduct the forum without the DIO, faculty, or other administrators present. They must also have the option to present concerns from the forum to the DIO and GMEC.",
+      "citation": {
+        "source": "Institutional Requirements, Section 2.3",
+        "page": 99,
+        "quote": "2.3. Resident/Fellow Forum. The Sponsoring Institution with more than one program must ensure availability of an organization, council, town hall, or other platform that allows all residents/fellows from within and across the Sponsoring Institution's ACGME-accredited programs to communicate and exchange information with other residents/fellows relevant to their ACGME-accredited programs and their learning and working environment. (Core) 2.3.a. Any resident/fellow from one of the Sponsoring Institution's ACGME-accredited programs must have the opportunity to directly raise a concern to the forum. (Core) 2.3.b. Residents/fellows must have the option, at least in part, to conduct their forum without the DIO, faculty members, or other administrators present. (Core) 2.3.c. Residents/fellows must have the option to present concerns that arise from discussions at the forum to the DIO and GMEC. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-014",
+      "front": "What support services must the Sponsoring Institution provide to minimize residents'/fellows' non-physician obligations?",
+      "back": "Peripheral intravenous access placement, phlebotomy, laboratory, pathology and radiology services, and patient transportation services \u2014 all provided to support educational objectives and high-quality, safe patient care. Additionally, medical records must be available at all participating sites.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 2.6.a and 2.6.b",
+        "page": 100,
+        "quote": "2.6.a. These support services and systems must include peripheral intravenous access placement, phlebotomy, laboratory, pathology and radiology services and patient transportation services provided in a manner appropriate to and consistent with educational objectives and to support high quality and safe patient care. (Core) 2.6.b. These support services and systems must include medical records available at all participating sites to support high quality and safe patient care, residents'/fellows' education, quality improvement and scholarly activities. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-015",
+      "front": "What six areas of resident/fellow engagement must the Sponsoring Institution oversee per Section 3.2?",
+      "back": "(a) Patient Safety; (b) Quality Improvement; (c) Transitions of Care; (d) Supervision and Accountability; (e) Clinical Experience and Education (work hours and fatigue mitigation); (f) Professionalism.",
+      "citation": {
+        "source": "Institutional Requirements, Section 3.2",
+        "page": 100,
+        "quote": "3.2. The Sponsoring Institution is responsible for oversight and documentation of resident/fellow engagement in the following: (Core) 3.2.a. Patient Safety\u2026 3.2.b. Quality Improvement\u2026 3.2.c. Transitions of Care\u2026 3.2.d. Supervision and Accountability\u2026 3.2.e. Clinical Experience and Education\u2026 3.2.f. Professionalism."
+      }
+    },
+    {
+      "id": "doc3-fc-016",
+      "front": "What systems regarding patient safety must the Sponsoring Institution ensure residents/fellows have access to?",
+      "back": "Systems for reporting errors, adverse events, unsafe conditions, and near misses in a protected manner that is free from reprisal. Residents/fellows must also have opportunities to contribute to root cause analysis or similar risk-reduction processes.",
+      "citation": {
+        "source": "Institutional Requirements, Section 3.2.a",
+        "page": 100,
+        "quote": "3.2.a. Patient Safety. The Sponsoring Institution must ensure that residents/fellows have access to systems for reporting errors, adverse events, unsafe conditions, and near misses in a protected manner that is free from reprisal. (Core) 3.2.a.1. The Sponsoring Institution must ensure that residents/fellows have opportunities to contribute to root cause analysis or other similar risk-reduction processes. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-017",
+      "front": "Name the 12 items that the resident/fellow agreement of appointment/contract must directly contain or reference (per Section 4.3.a).",
+      "back": "(1) resident/fellow responsibilities; (2) duration of appointment; (3) financial support; (4) conditions for reappointment and promotion to subsequent PGY level; (5) grievance and due process; (6) professional liability insurance summary; (7) health insurance for residents/fellows and eligible dependents; (8) disability insurance; (9) vacation and leaves of absence (medical, parental, caregiver); (10) timely notice of leave's effect on program completion; (11) information on specialty board exam eligibility; (12) institutional policies on clinical/educational work hours and moonlighting.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.3.a.1\u20134.3.a.12",
+        "page": 104,
+        "quote": "4.3.a. The contract/agreement of appointment must directly contain or provide a reference to the following items: (Core) 4.3.a.1. resident/fellow responsibilities; (Core) 4.3.a.2. duration of appointment; (Core) 4.3.a.3. financial support for residents/fellows; (Core) 4.3.a.4. conditions for reappointment and promotion to a subsequent PGY level; (Core) 4.3.a.5. grievance and due process; (Core) 4.3.a.6. professional liability insurance, including a summary of pertinent information regarding coverage; (Core) 4.3.a.7. health insurance benefits for residents/fellows and their eligible dependents; (Core) 4.3.a.8. disability insurance for residents/fellows; (Core) 4.3.a.9. vacation and leave(s) of absence for residents/fellows, including medical, parental, and caregiver leave(s) of absence, and compliant with applicable laws; (Core) 4.3.a.10. timely notice of the effect of leave(s) of absence on the ability of residents/fellows to satisfy requirements for program completion; (Core) 4.3.a.11. information related to eligibility for specialty board examinations; and, (Core) 4.3.a.12. institutional policies and procedures regarding resident/fellow clinical and educational work hours and moonlighting. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-018",
+      "front": "What due process rights must the Sponsoring Institution's policy provide for residents/fellows?",
+      "back": "Due process for the following actions, regardless of when taken during the appointment period: suspension, non-renewal, non-promotion, or dismissal. Programs must also provide written notice of intent when an agreement will not be renewed, when a trainee will not be promoted, or when a trainee will be dismissed.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.4.a and 4.4.b",
+        "page": 105,
+        "quote": "4.4.a. The Sponsoring Institution must ensure that each of its programs provides a resident/fellow with a written notice of intent when that resident's/fellow's agreement will not be renewed, when that resident/fellow will not be promoted to the next level of training, or when that resident/fellow will be dismissed. (Core) 4.4.b. The Sponsoring Institution must have a policy that provides residents/fellows with due process relating to the following actions regardless of when the action is taken during the appointment period: suspension, non-renewal, non-promotion; or dismissal. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-019",
+      "front": "What professional liability coverage must Sponsoring Institutions provide for residents/fellows?",
+      "back": "Professional liability coverage including legal defense and protection against awards from claims reported or filed during participation in the program \u2014 or after program completion if the alleged acts/omissions were within the program's scope. Residents/fellows must receive official documentation of the coverage before their start date, and written advance notice of any substantial changes.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.6, 4.6.a, and 4.6.b",
+        "page": 105,
+        "quote": "4.6. Professional Liability Insurance. The Sponsoring Institution must ensure that residents/fellows are provided with professional liability coverage, including legal defense and protection against awards from claims reported or filed during participation in each of its ACGME-accredited programs, or after completion of the program(s) if the alleged acts or omissions of a resident/fellow are within the scope of the program(s). (Core) 4.6.a. The Sponsoring Institution must ensure that residents/fellows are provided with official documentation of the details of their professional liability coverage before the start date of resident/fellow appointments. (Core) 4.6.b. The Sponsoring Institution must ensure that residents/fellows are provided with written advance notice of any substantial change to the details of their professional liability coverage. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-020",
+      "front": "What is the minimum medical, parental, and caregiver leave required by the SI's policy, and at what salary level?",
+      "back": "A minimum of 6 weeks of approved medical, parental, and caregiver leave(s) of absence at least once and at any time during an ACGME-accredited program, starting the day the resident/fellow is required to report. The SI's policy must provide at least the equivalent of 100% of salary for the first 6 weeks of the first such leave taken.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.8.a and 4.8.b",
+        "page": 106,
+        "quote": "4.8.a. This policy must provide residents/fellows with a minimum of six weeks of approved medical, parental, and caregiver leave(s) of absence for qualifying reasons that are consistent with applicable laws at least once and at any time during an ACGME-accredited program, starting the day the resident/fellow is required to report. (Core) 4.8.b. This policy must provide residents/fellows with at least the equivalent of 100 percent of their salary for the first six weeks of the first approved medical, parental, or caregiver leave(s) of absence taken. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-021",
+      "front": "Beyond the initial 6-week medical/parental/caregiver leave at full salary, what additional paid time off must the SI's policy provide?",
+      "back": "A minimum of 1 week of paid time off reserved for use OUTSIDE of the first six weeks of the first approved medical, parental, or caregiver leave.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.8.c",
+        "page": 106,
+        "quote": "4.8.c. This policy must provide residents/fellows with a minimum of one week of paid time off reserved for use outside of the first six weeks of the first approved medical, parental, or caregiver leave(s) of absence taken. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-022",
+      "front": "What five resident services policies must the Sponsoring Institution maintain per Section 4.9?",
+      "back": "(a) Behavioral Health \u2014 access to confidential counseling and behavioral health services; (b) Physician Impairment \u2014 a policy addressing it (not necessarily GME-specific); (c) Harassment \u2014 covering sexual and other forms of harassment, with safe non-punitive complaint processes; (d) Accommodation for Disabilities; (e) Discrimination \u2014 prohibiting discrimination in employment and learning/working environment.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.9.a\u20134.9.e",
+        "page": 106,
+        "quote": "4.9.a. Behavioral Health. The Sponsoring Institution must ensure that residents/fellows are provided with access to confidential counseling and behavioral health services. (Core) 4.9.b. Physician Impairment. The Sponsoring Institution must have a policy, not necessarily GME-specific, which addresses physician impairment. (Core) 4.9.c. Harassment. The Sponsoring Institution must have a policy, not necessarily GME-specific, covering sexual and other forms of harassment, that allows residents/fellows access to processes to raise and resolve complaints in a safe and non-punitive environment and in a timely manner, consistent with applicable laws and regulations. (Core) 4.9.d. Accommodation for Disabilities\u2026 (Core) 4.9.e. Discrimination\u2026 (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-023",
+      "front": "What is the institutional moonlighting policy requirement per Section 4.11.a?",
+      "back": "The SI must maintain a moonlighting policy that includes: (1) residents/fellows must NOT be required to engage in moonlighting; (2) residents/fellows must have WRITTEN permission from their program director to moonlight; (3) the program must monitor effects of moonlighting on performance and may withdraw permission for adverse effects; (4) the SI or individual programs may prohibit moonlighting.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.11.a",
+        "page": 107,
+        "quote": "4.11.a. Moonlighting. The Sponsoring Institution must maintain a policy on moonlighting that includes the following: 4.11.a.1. residents/fellows must not be required to engage in moonlighting; (Core) 4.11.a.2. residents/fellows must have written permission from their program director to moonlight; (Core) 4.11.a.3. an ACGME-accredited program will monitor the effect of moonlighting activities on a resident's/fellow's performance in the program, including that adverse effects may lead to withdrawal of permission to moonlight; and, (Core) 4.11.a.4. the Sponsoring Institution or individual ACGME-accredited programs may prohibit moonlighting by residents/fellows. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-024",
+      "front": "What must the Sponsoring Institution's non-competition policy state?",
+      "back": "That neither the Sponsoring Institution nor any of its ACGME-accredited programs will require a resident/fellow to sign a non-competition guarantee or restrictive covenant.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.13",
+        "page": 108,
+        "quote": "4.13. Non-competition. The Sponsoring Institution must maintain a policy which states that neither the Sponsoring Institution nor any of its ACGME-accredited programs will require a resident/fellow to sign a non-competition guarantee or restrictive covenant. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-025",
+      "front": "What must the Sponsoring Institution's Substantial Disruptions policy include?",
+      "back": "Support for each of its ACGME-accredited programs and residents/fellows in the event of a disaster or other substantial disruption in patient care or education. The policy must include information about assistance for continuation of salary, benefits, professional liability coverage, and resident/fellow assignments.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.14 and 4.14.a",
+        "page": 108,
+        "quote": "4.14. Substantial Disruptions in Patient Care or Education. The Sponsoring Institution must maintain a policy consistent with ACGME Policies and Procedures that addresses support for each of its ACGME-accredited programs and residents/fellows in the event of a disaster or other substantial disruption in patient care or education. (Core) 4.14.a. This policy must include information about assistance for continuation of salary, benefits, professional liability coverage, and resident/fellow assignments. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-026",
+      "front": "What must the SI's closures and reductions policy require?",
+      "back": "(a) The SI must inform the GMEC, DIO, and affected residents/fellows as soon as possible when it intends to reduce or close one or more ACGME-accredited programs, or close the SI; (b) the SI must allow residents/fellows already in an affected program to complete their education at the SI, or assist them in enrolling in (an)other ACGME-accredited program(s) where they can continue.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.15",
+        "page": 109,
+        "quote": "4.15. Closures and Reductions. The Sponsoring Institution must maintain a policy that addresses GMEC oversight of reductions in size or closure of each of its ACGME-accredited programs, or closure of the Sponsoring Institution that includes the following: (Core) 4.15.a. the Sponsoring Institution must inform the GMEC, DIO, and affected residents/fellows as soon as possible when it intends to reduce the size of or close one or more ACGME-accredited programs, or when the Sponsoring Institution intends to close; and, (Core) 4.15.b. the Sponsoring Institution must allow residents/fellows already in an affected ACGME-accredited program(s) to complete their education at the Sponsoring Institution, or assist them in enrolling in (an)other ACGME-accredited program(s) in which they can continue their education. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-027",
+      "front": "What educational tool resources must the SI provide to faculty members and residents/fellows?",
+      "back": "Ready access to adequate communication resources and technological support, plus ready access to electronic medical literature databases and specialty-/subspecialty-specific and other appropriate full-text reference material in print or electronic format.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 2.5 and 2.5.a",
+        "page": 99,
+        "quote": "2.5. Educational Tools. Communication resources and technology: Faculty members and residents/fellows must have ready access to adequate communication resources and technological support. (Core) 2.5.a. Access to medical literature: Faculty members and residents/fellows must have ready access to electronic medical literature databases and specialty-/subspecialty-specific and other appropriate full-text reference material in print or electronic format. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-028",
+      "front": "What is required regarding supervision policies at the institutional level (Section 4.10)?",
+      "back": "The Sponsoring Institution must maintain an institutional policy regarding supervision of residents/fellows, and must ensure that each of its ACGME-accredited programs establishes a written program-specific supervision policy consistent with the institutional policy and the respective ACGME Common and specialty-/subspecialty-specific Program Requirements.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.10 and 4.10.a",
+        "page": 107,
+        "quote": "4.10. Supervision. The Sponsoring Institution must maintain an institutional policy regarding supervision of residents/fellows. (Core) 4.10.a. The Sponsoring Institution must ensure that each of its ACGME-accredited programs establishes a written program-specific supervision policy consistent with the institutional policy and the respective ACGME Common and specialty-/subspecialty-specific Program Requirements. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-029",
+      "front": "What must the Sponsoring Institution maintain to govern interactions between vendors and residents/fellows?",
+      "back": "A policy that addresses interactions between vendor representatives/corporations and residents/fellows and each of its ACGME-accredited programs.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.12",
+        "page": 107,
+        "quote": "4.12. Vendors. The Sponsoring Institution must maintain a policy that addresses interactions between vendor representatives/corporations and residents/fellows and each of its ACGME-accredited programs. (Core)"
+      }
+    },
+    {
+      "id": "doc3-fc-030",
+      "front": "What requirement governs an applicant's interview information per Section 4.2.b?",
+      "back": "An applicant invited to interview for a resident/fellow position must be informed, in writing or by electronic means, of the terms, conditions, and benefits of appointment \u2014 either those in effect at the time of the interview or those that will be in effect at the time of the applicant's eventual appointment. Required information includes stipends, benefits, professional liability coverage, disability insurance, vacation and leave policies, and health insurance for residents/fellows and their eligible dependents.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.2.b",
+        "page": 104,
+        "quote": "4.2.b. An applicant invited to interview for a resident/fellow position must be informed, in writing or by electronic means, of the terms, conditions, and benefits of appointment to the ACGME-accredited program, either in effect at the time of the interview or that will be in effect at the time of the applicant's eventual appointments. (Core) 4.2.b.1. Information that is provided must include stipends, benefits, professional liability coverage, and disability insurance accessible to residents/fellows. (Core) 4.2.b.2. Information that is provided must include institutional policy(ies) for vacation and leaves of absence, including medical, parental, and caregiver leaves of absence. (Core) 4.2.b.3. Information that is provided must include health insurance accessible to residents/fellows and their eligible dependents. (Core)"
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc3-institutional-mc-001",
-      "stem": "Placeholder question #1 for Institutional Reqs: which of the following is the correct answer in this test stub?",
+      "id": "doc3-mc-001",
+      "stem": "Per the Institutional Requirements, who is responsible \u2014 in collaboration with the GMEC \u2014 for oversight and administration of each of the Sponsoring Institution's ACGME-accredited programs and for ensuring compliance with the ACGME requirements?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
-      ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
-      "citation": {
-        "source": "Institutional Reqs, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
-      }
-    },
-    {
-      "id": "doc3-institutional-mc-002",
-      "stem": "Placeholder question #2 for Institutional Reqs: which option is correct here?",
-      "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "The chief medical officer",
+        "The Designated Institutional Official (DIO)",
+        "The Sponsoring Institution's CEO",
+        "The chair of the department of medicine"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "Section 1.2.a identifies the DIO as the individual who, with the GMEC, has authority and responsibility for the oversight and administration of each ACGME-accredited program at the Sponsoring Institution.",
       "citation": {
-        "source": "Institutional Reqs, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "Institutional Requirements, Section 1.2.a",
+        "page": 93,
+        "quote": "1.2.a. This individual, in collaboration with a Graduate Medical Education Committee (GMEC), must have authority and responsibility for the oversight and administration of each of the Sponsoring Institution's ACGME-accredited programs, as well as for ensuring compliance with the ACGME Institutional, Common, specialty-/subspecialty-specific Program, and Recognition Requirements. (Core)"
       }
     },
     {
-      "id": "doc3-institutional-mc-003",
-      "stem": "Placeholder question #3 for Institutional Reqs: test the review queue by intentionally answering this wrong.",
+      "id": "doc3-mc-002",
+      "stem": "How often must the Sponsoring Institution's written GME mission statement be reviewed, dated, and signed?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "Annually",
+        "At least once every 3 years",
+        "At least once every 5 years",
+        "Only at the time of the 10-year site visit"
       ],
-      "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "correctIndex": 2,
+      "explanation": "Section 1.4 requires the written statement to be reviewed, dated, and signed at least once every five years by the DIO, a representative of senior administration, and a representative of the governing body.",
       "citation": {
-        "source": "Institutional Reqs, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "Institutional Requirements, Section 1.4",
+        "page": 94,
+        "quote": "1.4. A written statement, reviewed, dated, and signed at least once every five years by the DIO, a representative of the Sponsoring Institution's senior administration, and a representative of the governing body, must document the Sponsoring Institution's: 1.4.a. GME mission; and, (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-003",
+      "stem": "How often, at minimum, must the GMEC meet?",
+      "options": [
+        "Monthly",
+        "Once every quarter during each academic year",
+        "Twice annually",
+        "Whenever called by the DIO"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 1.11 requires the GMEC to meet a minimum of once every quarter during each academic year. Each meeting must include attendance by at least one resident/fellow member.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.11",
+        "page": 96,
+        "quote": "1.11. Meetings and Attendance. The GMEC must meet a minimum of once every quarter during each academic year. (Core) 1.11.a. Each meeting of the GMEC must include attendance by at least one resident/fellow member. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-004",
+      "stem": "A Sponsoring Institution with multiple ACGME-accredited programs is forming its GMEC. Which of the following is the correct minimum required voting composition?",
+      "options": [
+        "The DIO and at least one program director",
+        "The DIO, a minimum of two program directors, a minimum of two peer-selected residents/fellows, and a quality improvement or patient safety officer or designee",
+        "Only the DIO and the SI's CEO",
+        "The DIO, all program directors, and all chief residents"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 1.9.a requires four minimum voting member categories for a multi-program SI: (1) DIO, (2) a representative sample of program directors (minimum of two), (3) a minimum of two peer-selected residents/fellows, and (4) a QI or patient safety officer or designee.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.9.a",
+        "page": 95,
+        "quote": "1.9.a. A Sponsoring Institution with multiple ACGME-accredited programs must have a GMEC that includes at least the following voting members: (Core) 1.9.a.1. the DIO; (Core) 1.9.a.2. a representative sample of program directors (minimum of two) from its ACGME-accredited programs; (Core) 1.9.a.3. a minimum of two peer-selected residents/fellows from among its ACGME-accredited programs; and, (Core) 1.9.a.4. a quality improvement or patient safety officer or designee. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-005",
+      "stem": "Which of the following is NOT explicitly required to be reviewed and approved by the GMEC under Section 1.13?",
+      "options": [
+        "Applications for ACGME accreditation of new programs",
+        "Appointment of new program directors",
+        "Daily resident/fellow rotation assignments",
+        "Requests for exceptions to clinical and educational work hour requirements"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 1.13 enumerates 15 items the GMEC must review and approve, including new program applications, new PD appointments, complement changes, major structural changes, participating site additions/deletions, CLER responses, and work hour exception requests \u2014 but day-to-day rotation assignments are not on the list.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.13",
+        "page": 96,
+        "quote": "1.13. GMEC responsibilities must include review and approval of: 1.13.a. institutional GME policies and procedures; (Core) 1.13.b. GMEC subcommittee actions that address required GMEC responsibilities; (Core) 1.13.c. annual recommendations to the Sponsoring Institution's administration regarding resident/fellow stipends and benefits; (Core) 1.13.d. applications for ACGME accreditation of new programs; (Core) 1.13.h. appointment of new program directors; (Core) 1.13.k. requests for exceptions to clinical and educational work hour requirements; (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-006",
+      "stem": "The Annual Institutional Review (AIR) must include \u2014 at minimum \u2014 which of the following indicators?",
+      "options": [
+        "Faculty salary benchmarks and patient billing data",
+        "The most recent ACGME institutional letter of notification, ACGME survey results for residents/fellows and core faculty, and accreditation/recognition statuses with citations for each program",
+        "Only the most recent self-study report",
+        "The institution's annual financial statement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 1.14.a requires the AIR to include at minimum: (1) the most recent ACGME institutional letter of notification; (2) results of ACGME surveys of residents/fellows and core faculty members; and (3) each program's accreditation and recognition statuses with citations.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.14.a",
+        "page": 97,
+        "quote": "1.14.a. The GMEC must identify institutional performance indicators for the AIR, to include, at a minimum: (Core) 1.14.a.1. the most recent ACGME institutional letter of notification; (Core) 1.14.a.2. results of ACGME surveys of residents/fellows and core faculty members; and, (Core) 1.14.a.3. each of its ACGME-accredited programs' ACGME accreditation information, including accreditation and recognition statuses and citations. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-007",
+      "stem": "Per Section 1.14.b, who must the DIO annually submit a written executive summary of the AIR to?",
+      "options": [
+        "The Review Committee for each program",
+        "The Sponsoring Institution's Governing Body",
+        "The ACGME Institutional Review Committee",
+        "Each resident/fellow individually"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 1.14.b requires the DIO to annually submit a written executive summary of the AIR to the Sponsoring Institution's Governing Body, including a summary of performance and any action plans/monitoring procedures.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.14.b",
+        "page": 97,
+        "quote": "1.14.b. The DIO must annually submit a written executive summary of the AIR to the Sponsoring Institution's Governing Body. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-008",
+      "stem": "Per Section 1.15, the GMEC's Special Review process must establish criteria for identifying underperformance that, at minimum, includes which accreditation statuses?",
+      "options": [
+        "Continued Accreditation only",
+        "Initial Accreditation only",
+        "Initial Accreditation with Warning, Continued Accreditation with Warning, and adverse accreditation statuses",
+        "Only programs flagged by faculty"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 1.15.a.1 requires the Special Review protocol to establish criteria for identifying underperformance that includes, at a minimum, program accreditation statuses of Initial Accreditation with Warning, Continued Accreditation with Warning, and adverse accreditation statuses.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.15.a.1",
+        "page": 98,
+        "quote": "1.15.a.1. establishes a variety of criteria for identifying underperformance that includes, at a minimum, program accreditation statuses of Initial Accreditation with Warning, Continued Accreditation with Warning, and adverse accreditation statuses as described by ACGME policies; and, (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-009",
+      "stem": "A Sponsoring Institution has 12 ACGME-accredited programs. What requirement applies regarding a Resident/Fellow Forum?",
+      "options": [
+        "A forum is only required for institutions with fewer than 3 programs",
+        "The SI must ensure availability of an organization, council, town hall, or platform allowing all residents/fellows from within and across programs to communicate; residents/fellows must have the option, at least in part, to conduct the forum without the DIO, faculty, or other administrators present",
+        "The forum must be chaired by the DIO and meet weekly",
+        "Each program must hold separate forums; cross-program forums are prohibited"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 2.3 requires SIs with more than one program to ensure a forum where residents/fellows from within and across programs can communicate. Per 2.3.b, residents/fellows must have the option to conduct the forum without the DIO, faculty, or other administrators present, at least in part.",
+      "citation": {
+        "source": "Institutional Requirements, Section 2.3",
+        "page": 99,
+        "quote": "2.3. Resident/Fellow Forum. The Sponsoring Institution with more than one program must ensure availability of an organization, council, town hall, or other platform that allows all residents/fellows from within and across the Sponsoring Institution's ACGME-accredited programs to communicate and exchange information with other residents/fellows relevant to their ACGME-accredited programs and their learning and working environment. (Core) 2.3.b. Residents/fellows must have the option, at least in part, to conduct their forum without the DIO, faculty members, or other administrators present. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-010",
+      "stem": "Per Section 2.6, the Sponsoring Institution must provide support services to minimize residents'/fellows' non-physician work. Which of the following is explicitly required?",
+      "options": [
+        "Hospital cafeteria meal vouchers",
+        "Peripheral intravenous access placement, phlebotomy, laboratory, pathology and radiology services, and patient transportation services, plus medical records available at all participating sites",
+        "Free parking at all participating sites",
+        "Concierge services for personal errands"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 2.6.a requires support services including peripheral IV access, phlebotomy, laboratory, pathology, radiology, and patient transportation. Section 2.6.b requires medical records available at all participating sites.",
+      "citation": {
+        "source": "Institutional Requirements, Section 2.6.a",
+        "page": 100,
+        "quote": "2.6.a. These support services and systems must include peripheral intravenous access placement, phlebotomy, laboratory, pathology and radiology services and patient transportation services provided in a manner appropriate to and consistent with educational objectives and to support high quality and safe patient care. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-011",
+      "stem": "Within how many days must the Sponsoring Institution notify the Institutional Review Committee when a major participating site that is a hospital loses its accreditation for patient care?",
+      "options": [
+        "Within 7 days",
+        "Within 14 days",
+        "Within 30 days",
+        "Within 60 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 1.7 requires notification and a response plan within 30 days of such loss. The ACGME may invoke its procedures for alleged egregious/catastrophic events depending on circumstances.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.7",
+        "page": 94,
+        "quote": "1.7. When a Sponsoring Institution or major participating site that is a hospital loses its accreditation for patient care, the Sponsoring Institution must notify and provide a plan for its response to the Institutional Review Committee within 30 days of such loss. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-012",
+      "stem": "Per Section 4.3.a, which of the following must be directly contained in or referenced by the resident/fellow agreement of appointment/contract?",
+      "options": [
+        "Only the duration of appointment and the financial support",
+        "Resident/fellow responsibilities; duration of appointment; financial support; conditions for promotion; grievance and due process; professional liability summary; health and disability insurance; vacation/leave policies; impact of leave on completion; board exam eligibility; and clinical/educational work hour and moonlighting policies",
+        "Only a confidentiality agreement",
+        "Only the assigned rotation schedule"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.3.a enumerates 12 required items the agreement must directly contain or reference, including responsibilities, duration, financial support, promotion conditions, grievance/due process, liability, health/disability insurance, leave policies, leave effect on completion, board eligibility info, and work hours/moonlighting policies.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.3.a",
+        "page": 104,
+        "quote": "4.3.a. The contract/agreement of appointment must directly contain or provide a reference to the following items: (Core) 4.3.a.1. resident/fellow responsibilities; (Core) 4.3.a.2. duration of appointment; (Core) 4.3.a.3. financial support for residents/fellows; (Core) 4.3.a.4. conditions for reappointment and promotion to a subsequent PGY level; (Core) 4.3.a.5. grievance and due process; (Core) 4.3.a.6. professional liability insurance, including a summary of pertinent information regarding coverage; (Core) 4.3.a.7. health insurance benefits for residents/fellows and their eligible dependents; (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-013",
+      "stem": "For which of the following actions must the Sponsoring Institution have a policy providing residents/fellows with due process?",
+      "options": [
+        "Only dismissal",
+        "Only non-renewal",
+        "Suspension, non-renewal, non-promotion, or dismissal \u2014 regardless of when the action is taken during the appointment period",
+        "Only formal academic violations"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 4.4.b requires the SI's policy to provide due process for suspension, non-renewal, non-promotion, or dismissal \u2014 regardless of when in the appointment period the action is taken. Section 4.4.a also requires written notice of intent for non-renewal, non-promotion, or dismissal.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.4.b",
+        "page": 105,
+        "quote": "4.4.b. The Sponsoring Institution must have a policy that provides residents/fellows with due process relating to the following actions regardless of when the action is taken during the appointment period: suspension, non-renewal, non-promotion; or dismissal. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-014",
+      "stem": "When must residents/fellows receive official documentation of the details of their professional liability coverage?",
+      "options": [
+        "Within 30 days of starting the program",
+        "Before the start date of the appointment",
+        "Only upon request",
+        "Annually at the time of contract renewal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.6.a requires that residents/fellows be provided with official documentation of the details of their professional liability coverage BEFORE the start date of their appointments. Written advance notice is also required for any substantial changes.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.6.a",
+        "page": 105,
+        "quote": "4.6.a. The Sponsoring Institution must ensure that residents/fellows are provided with official documentation of the details of their professional liability coverage before the start date of resident/fellow appointments. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-015",
+      "stem": "Per Section 4.8 of the Institutional Requirements, what is the minimum medical, parental, and caregiver leave that the SI's policy must provide for residents/fellows, and at what salary level for the first such leave taken?",
+      "options": [
+        "4 weeks at 50% salary",
+        "6 weeks at 100% salary for the first such leave taken",
+        "8 weeks unpaid",
+        "12 weeks at 75% salary"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.8.a requires a minimum of 6 weeks of leave for qualifying reasons at least once during the program. Section 4.8.b requires at least the equivalent of 100% of salary for the first 6 weeks of the first such leave taken. Section 4.8.c additionally requires a minimum of 1 week PTO reserved outside that first leave.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.8.a and 4.8.b",
+        "page": 106,
+        "quote": "4.8.a. This policy must provide residents/fellows with a minimum of six weeks of approved medical, parental, and caregiver leave(s) of absence for qualifying reasons that are consistent with applicable laws at least once and at any time during an ACGME-accredited program, starting the day the resident/fellow is required to report. (Core) 4.8.b. This policy must provide residents/fellows with at least the equivalent of 100 percent of their salary for the first six weeks of the first approved medical, parental, or caregiver leave(s) of absence taken. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-016",
+      "stem": "Beyond the initial 6 weeks of first medical/parental/caregiver leave, what additional paid time off must the SI's policy reserve for residents/fellows?",
+      "options": [
+        "At least 2 days, used only for sick leave",
+        "A minimum of 1 week of paid time off reserved for use OUTSIDE the first six weeks of the first approved medical/parental/caregiver leave",
+        "No additional time is required",
+        "At least 3 weeks, used only at end of the academic year"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.8.c specifically reserves a minimum of 1 week of paid time off \u2014 distinct from and outside the first 6 weeks of the first approved medical/parental/caregiver leave taken.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.8.c",
+        "page": 106,
+        "quote": "4.8.c. This policy must provide residents/fellows with a minimum of one week of paid time off reserved for use outside of the first six weeks of the first approved medical, parental, or caregiver leave(s) of absence taken. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-017",
+      "stem": "Per Section 4.9.a, what must the Sponsoring Institution ensure regarding behavioral health?",
+      "options": [
+        "Behavioral health resources are optional and may be omitted at the SI's discretion",
+        "Residents/fellows must be provided with access to confidential counseling and behavioral health services",
+        "Residents/fellows must undergo annual mental health screenings",
+        "All behavioral health concerns must be reported to the program director"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.9.a requires the SI to ensure that residents/fellows are provided with access to confidential counseling and behavioral health services.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.9.a",
+        "page": 106,
+        "quote": "4.9.a. Behavioral Health. The Sponsoring Institution must ensure that residents/fellows are provided with access to confidential counseling and behavioral health services. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-018",
+      "stem": "Per the institutional moonlighting policy (Section 4.11.a), what must residents/fellows have in order to moonlight?",
+      "options": [
+        "Verbal approval from the chief resident",
+        "Written permission from their program director",
+        "Approval from the GMEC",
+        "Approval from the Sponsoring Institution's CEO"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.11.a.2 requires written permission from the program director to moonlight. Additional rules: residents/fellows must NOT be required to moonlight (4.11.a.1); programs must monitor effects and may withdraw permission (4.11.a.3); SIs or individual programs may prohibit moonlighting entirely (4.11.a.4).",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.11.a.2",
+        "page": 107,
+        "quote": "4.11.a.2. residents/fellows must have written permission from their program director to moonlight; (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-019",
+      "stem": "Per Section 4.13 (Non-competition), the SI must maintain a policy stating that:",
+      "options": [
+        "Residents/fellows may be required to sign a 6-month restrictive covenant",
+        "Neither the SI nor any of its ACGME-accredited programs will require a resident/fellow to sign a non-competition guarantee or restrictive covenant",
+        "Non-competition agreements are at each program's discretion",
+        "Restrictive covenants are required only for fellowships"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.13 requires that the SI's policy state that NEITHER the SI nor any of its ACGME-accredited programs will require a resident/fellow to sign a non-competition guarantee or restrictive covenant. This parallels Section 3.1 of the CPR Residency.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.13",
+        "page": 108,
+        "quote": "4.13. Non-competition. The Sponsoring Institution must maintain a policy which states that neither the Sponsoring Institution nor any of its ACGME-accredited programs will require a resident/fellow to sign a non-competition guarantee or restrictive covenant. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-020",
+      "stem": "Per Section 4.14, the SI's substantial disruptions policy must include information about assistance for which of the following?",
+      "options": [
+        "Continuation of salary, benefits, professional liability coverage, and resident/fellow assignments",
+        "Only salary continuation",
+        "Disaster recovery procedures unrelated to GME",
+        "Only liability coverage"
+      ],
+      "correctIndex": 0,
+      "explanation": "Section 4.14.a explicitly requires the policy to include information about assistance for continuation of salary, benefits, professional liability coverage, and resident/fellow assignments in the event of a disaster or other substantial disruption in patient care or education.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.14.a",
+        "page": 108,
+        "quote": "4.14.a. This policy must include information about assistance for continuation of salary, benefits, professional liability coverage, and resident/fellow assignments. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-021",
+      "stem": "If a Sponsoring Institution intends to close or reduce the size of one of its ACGME-accredited programs, what must its closures and reductions policy include?",
+      "options": [
+        "Only notification of the ACGME at the time of closure",
+        "Inform the GMEC, DIO, and affected residents/fellows as soon as possible; AND allow affected residents/fellows to complete their education at the SI OR assist them in enrolling in other ACGME-accredited programs",
+        "Provide a 30-day severance to all affected residents/fellows",
+        "Sell the program to another Sponsoring Institution"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.15 requires both early notification (to the GMEC, DIO, and affected trainees) and the support obligation (allowing completion at the SI, or assisting placement in another ACGME-accredited program).",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.15.a and 4.15.b",
+        "page": 109,
+        "quote": "4.15.a. the Sponsoring Institution must inform the GMEC, DIO, and affected residents/fellows as soon as possible when it intends to reduce the size of or close one or more ACGME-accredited programs, or when the Sponsoring Institution intends to close; and, (Core) 4.15.b. the Sponsoring Institution must allow residents/fellows already in an affected ACGME-accredited program(s) to complete their education at the Sponsoring Institution, or assist them in enrolling in (an)other ACGME-accredited program(s) in which they can continue their education. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-022",
+      "stem": "Per Section 1.5, when must a Sponsoring Institution complete a Self-Study?",
+      "options": [
+        "Annually",
+        "Prior to its 10-Year Accreditation Site Visit",
+        "Every 3 years",
+        "Only when notified by the ACGME of a citation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 1.5 requires the SI to complete a Self-Study prior to its 10-Year Accreditation Site Visit.",
+      "citation": {
+        "source": "Institutional Requirements, Section 1.5",
+        "page": 94,
+        "quote": "1.5. The Sponsoring Institution must complete a Self-Study prior to its 10-Year Accreditation Site Visit. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-023",
+      "stem": "Per Section 3.2.a, regarding patient safety, what must the Sponsoring Institution ensure residents/fellows have access to?",
+      "options": [
+        "Only educational content on patient safety, with no reporting role",
+        "Systems for reporting errors, adverse events, unsafe conditions, and near misses in a protected manner free from reprisal \u2014 and opportunities to contribute to root cause analysis or other risk-reduction processes",
+        "A weekly patient safety report from the hospital quality officer",
+        "Access to a national patient safety registry only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 3.2.a requires SIs to ensure that residents/fellows have access to systems for reporting errors, adverse events, unsafe conditions, and near misses in a protected manner free from reprisal \u2014 and to have opportunities to contribute to root cause analyses or similar risk-reduction processes.",
+      "citation": {
+        "source": "Institutional Requirements, Section 3.2.a",
+        "page": 100,
+        "quote": "3.2.a. Patient Safety. The Sponsoring Institution must ensure that residents/fellows have access to systems for reporting errors, adverse events, unsafe conditions, and near misses in a protected manner that is free from reprisal. (Core) 3.2.a.1. The Sponsoring Institution must ensure that residents/fellows have opportunities to contribute to root cause analysis or other similar risk-reduction processes. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-024",
+      "stem": "Per Section 4.10, what must the Sponsoring Institution maintain regarding supervision?",
+      "options": [
+        "No institutional supervision policy is required if individual programs have their own",
+        "An institutional policy regarding supervision of residents/fellows, AND must ensure each program establishes a written program-specific supervision policy consistent with the institutional policy and applicable Program Requirements",
+        "Only verbal guidance from the DIO to program directors",
+        "A national supervision policy adopted from CMS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.10 requires the SI to maintain an institutional supervision policy AND (4.10.a) ensure each ACGME-accredited program establishes a written program-specific supervision policy consistent with the institutional policy and the relevant Common and specialty-/subspecialty-specific Program Requirements.",
+      "citation": {
+        "source": "Institutional Requirements, Sections 4.10 and 4.10.a",
+        "page": 107,
+        "quote": "4.10. Supervision. The Sponsoring Institution must maintain an institutional policy regarding supervision of residents/fellows. (Core) 4.10.a. The Sponsoring Institution must ensure that each of its ACGME-accredited programs establishes a written program-specific supervision policy consistent with the institutional policy and the respective ACGME Common and specialty-/subspecialty-specific Program Requirements. (Core)"
+      }
+    },
+    {
+      "id": "doc3-mc-025",
+      "stem": "An applicant invited to interview for a resident/fellow position must be informed in writing or by electronic means of which of the following?",
+      "options": [
+        "Only the resident's salary range",
+        "The terms, conditions, and benefits of appointment \u2014 including stipends, benefits, professional liability coverage, disability insurance, vacation/leave policies (medical, parental, caregiver), and health insurance accessible to residents/fellows and their eligible dependents",
+        "Only the rotation schedule",
+        "Only the program's mission statement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 4.2.b requires that applicants invited to interview be informed in writing or electronically of the terms, conditions, and benefits of appointment \u2014 either those in effect at interview time or those in effect at the time of eventual appointment. Specific items (4.2.b.1\u20134.2.b.3) include stipends/benefits/liability/disability info, vacation and leave policies, and health insurance.",
+      "citation": {
+        "source": "Institutional Requirements, Section 4.2.b",
+        "page": 104,
+        "quote": "4.2.b. An applicant invited to interview for a resident/fellow position must be informed, in writing or by electronic means, of the terms, conditions, and benefits of appointment to the ACGME-accredited program, either in effect at the time of the interview or that will be in effect at the time of the applicant's eventual appointments. (Core)"
       }
     }
   ]

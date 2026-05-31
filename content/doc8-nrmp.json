@@ -1,113 +1,786 @@
 {
   "id": "doc8-nrmp",
   "title": "NRMP Match Participation Agreement for Programs",
-  "shortTitle": "NRMP Match",
-  "documentRef": "Placeholder content for NRMP Match",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "shortTitle": "NRMP Match Agreement",
+  "documentRef": "TAGME Study Guide pages 352\u2013379",
+  "description": "The 2025 Main Residency Match and SOAP Match Participation Agreement for Programs. Governs program eligibility, position categories, the R3 system, rank order lists, the binding commitment, waivers/deferrals, vacant positions, violations, and dispute resolution.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers NRMP Match Participation Agreement for Programs. Browse content will be populated when real content is generated."
+      "text": "The Main Residency Match is sponsored by the National Resident Matching Program (NRMP), an independent non-profit founded in 1952. The Match uses NRMP's proprietary Registration, Ranking, and Results (R3) system, which runs a mathematical algorithm to match applicants' and programs' certified rank order lists. SOAP \u2014 the Supplemental Offer and Acceptance Program \u2014 handles unfilled positions during Match Week."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "Five categories of program positions"
     },
     {
       "type": "list",
       "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
+        "Categorical (\"C\"): PGY-1 position in programs providing the FULL training for board certification",
+        "Categorical Primary Care (\"M\"): PGY-1 positions in medicine and pediatrics with primary care emphasis",
+        "Preliminary (\"P\"): One-year positions in transitional or specialty programs",
+        "Advanced (\"A\"): Positions in specialty programs that begin THE YEAR AFTER the Match, requiring prior preliminary training",
+        "Reserved (\"R\"): PGY-2 positions in specialty programs that begin IN THE YEAR OF the Match, reserved for physicians with prior GME (also known as \"Physician Positions\")"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Binding commitment and timelines"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Binding commitment is established upon Match (or SOAP offer accepted) \u2014 neither side may release the other without an NRMP waiver or deferral",
+        "Binding commitment exists THROUGH the first 45 calendar days after the start date of the appointment contract",
+        "Resigning/terminating within 45 days without an NRMP-approved waiver/deferral is a violation",
+        "Waiver = release from binding commitment; Deferral = one-year delayed start (mutually agreed)",
+        "NRMP has SOLE discretion to grant or deny a waiver/deferral; decisions are FINAL (not subject to arbitration, judicial review, or third-party review)"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Vacant position rules"
+    },
+    {
+      "type": "list",
+      "items": [
+        "PGY-1 (Categorical/Preliminary) vacant due to dismissal/resignation/transfer/waiver: may be filled outside Match if training begins before February 1; otherwise must be placed in the Match",
+        "PGY-1 vacant after SOAP concludes: may be filled outside the Match until the day registration opens for the next Match",
+        "PGY-2 (Advanced) vacant before Quota Change Deadline: may be filled outside the Match if training begins before February 1; otherwise placed in the Match as a Reserved Position",
+        "After Rank Order List Certification Deadline: vacant Advanced positions can be filled outside the Match after SOAP until next Match registration opens"
       ]
     }
   ],
   "flashcards": [
     {
-      "id": "doc8-nrmp-fc-001",
-      "front": "Placeholder flashcard #1 for NRMP Match",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc8-fc-001",
+      "front": "What is the NRMP and when was it founded?",
+      "back": "The National Resident Matching Program (NRMP) is an independent, non-profit organization founded in 1952 to provide an orderly and fair mechanism for matching the training preferences of applicants to U.S. residency positions with the preferences of residency training program directors.",
       "citation": {
-        "source": "NRMP Match, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "NRMP MPA, Section 1.0 Introduction",
+        "page": 354,
+        "quote": "The Main Residency Match (\"the Match\") is sponsored by the National Resident Matching Program\u00ae (NRMP\u00ae), an independent, non-profit organization founded in 1952 for the purpose of providing an orderly and fair mechanism for matching the training preferences of applicants to U.S. residency positions with the preferences of residency training program directors."
       }
     },
     {
-      "id": "doc8-nrmp-fc-002",
-      "front": "Placeholder flashcard #2 for NRMP Match",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc8-fc-002",
+      "front": "What does the Main Residency Match do?",
+      "back": "It (1) provides a system for confidential selection of applicants to GME programs using an electronic, proprietary mathematical algorithm; (2) establishes an equitable and uniform time for applicants/programs to submit rank order lists; (3) enables programs to make informed decisions about applicants in an orderly manner free of persuasion; and (4) establishes a binding commitment between the applicant and the program(s). Neither side can release the other without an NRMP waiver or deferral.",
       "citation": {
-        "source": "NRMP Match, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "NRMP MPA, Section 1.0 Introduction",
+        "page": 354,
+        "quote": "The Match: Provides a system for the confidential selection of applicants to graduate medical education programs using an electronic, proprietary mathematic algorithm; Establishes an equitable and uniform time for applicants and programs to submit rank order lists that express their respective preferences; Enables programs to make informed decisions about applicants in an orderly manner and free of persuasion; and Establishes a binding commitment between the applicant and the program(s). Neither the applicant nor the program may release the other from the binding commitment without a waiver or deferral granted by the NRMP (Section 10.0)."
       }
     },
     {
-      "id": "doc8-nrmp-fc-003",
-      "front": "Placeholder flashcard #3 for NRMP Match",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc8-fc-003",
+      "front": "What is the R3 system?",
+      "back": "NRMP's proprietary Registration, Ranking, and Results\u00ae (R3\u00ae) system, which processes an applicant's and a program's certified rank order list using a mathematical algorithm to match the preferences of the applicant to the preferences of the program(s).",
       "citation": {
-        "source": "NRMP Match, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "NRMP MPA, Section 1.0 Introduction",
+        "page": 354,
+        "quote": "The Match is managed through the NRMP's proprietary Registration, Ranking, and Results\u00ae (R3\u00ae) system which processes an applicant's and a program's certified rank order list using a mathematical algorithm to match the preferences of the applicant to the preferences of the program(s)."
+      }
+    },
+    {
+      "id": "doc8-fc-004",
+      "front": "What is SOAP and what is its purpose?",
+      "back": "The Supplemental Offer and Acceptance Program (SOAP) occurs during Match Week. Positions left unfilled after the matching algorithm has been processed are offered to SOAP-eligible applicants. During Match Week and until SOAP concludes, all positions offered by unfilled programs and accepted by SOAP-eligible applicants must be through the R3 system. SOAP is not another Match. Not all unfilled programs are required to participate in SOAP.",
+      "citation": {
+        "source": "NRMP MPA, Section 1.0 Introduction and Section 8.0",
+        "page": 354,
+        "quote": "Programs who are unfilled after the algorithm has been processed may seek to fill unfilled position(s) during the NRMP Match Week Supplemental Offer and Acceptance Program\u00ae (SOAP\u00ae). SOAP is a process occurring during Match Week wherein positions left unfilled in the Match (i.e., after the matching algorithm has been processed) are offered to SOAP-eligible applicants. During Match Week and until SOAP concludes, all positions offered by unfilled programs and accepted by SOAP-eligible applicants, shall be through the R3 system. Not all unfilled programs are required to participate in SOAP."
+      }
+    },
+    {
+      "id": "doc8-fc-005",
+      "front": "What four eligibility requirements must a program meet to participate in the Match as of the Rank Order List Certification Deadline?",
+      "back": "(1) Be accredited by the ACGME, OR be a combined program approved or recognized by the ABMS or by the respective specialty board applicable to the training program; (2) Have secured funding sufficient to train each matched resident for the duration of the training program; (3) Be activated for participation in the Match by the institutional official through the R3 system by the published deadline. Programs in the Match must agree to register and attempt to fill all positions through the Match or another national matching plan.",
+      "citation": {
+        "source": "NRMP MPA, Section 2.0 Eligibility",
+        "page": 354,
+        "quote": "To participate in the Match and be eligible to offer training positions through the Match, as of the Rank Order List Certification Deadline, a program must: 1. Be accredited by the Accreditation Council for Graduate Medical Education (\"ACGME\"); or 2. Be a combined program approved or recognized by the American Board of Medical Specialties (\"ABMS\") or by the respective specialty board applicable to the training program; 3. Have secured funding sufficient to train each matched resident for the duration of the training program; and 4. Be activated for participation in the Match by the institutional official through the R3 system by the published deadline. Programs participating in the Match agree to register and attempt to fill all positions through the Match or another national matching plan."
+      }
+    },
+    {
+      "id": "doc8-fc-006",
+      "front": "What are the five categories of program positions in the Match?",
+      "back": "(1) Categorical (\"C\") \u2014 PGY-1 in programs providing the full training for board certification; (2) Categorical Primary Care (\"M\") \u2014 PGY-1 in medicine/pediatrics with primary care emphasis; (3) Preliminary (\"P\") \u2014 one-year positions in transitional or specialty programs; (4) Advanced (\"A\") \u2014 specialty positions that begin THE YEAR AFTER the Match, after one or more years of required preliminary training; (5) Reserved (\"R\") \u2014 PGY-2 specialty positions that begin in the year of the Match, reserved for physicians with prior GME (also known as \"Physician Positions\").",
+      "citation": {
+        "source": "NRMP MPA, Section 3.1",
+        "page": 355,
+        "quote": "Categorical Position (\"C\"): Post graduate year one (PGY-1) position in programs that provide the full training required for board certification in a specialty. Categorical Primary Care (\"M\"): PGY-1 positions in medicine and pediatrics that provide a training emphasis on primary care. Preliminary Positions (\"P\"): One-year positions in transitional or specialty programs. Advanced Position (\"A\"): Positions in specialty programs that begin the year after the Match and after one or more years of required preliminary training. Reserved Positions (\"R\"): PGY-2 positions in specialty programs that begin in the year of the Match and are reserved for physicians with prior graduate medical education. These positions are also known as \"Physician Positions\"."
+      }
+    },
+    {
+      "id": "doc8-fc-007",
+      "front": "What is the role of the Institutional Official in the Match?",
+      "back": "Each institution with programs participating in the Match designates an institutional official responsible for overseeing the Match processes. All changes made by a program concerning its positions must be approved by the institutional official by the Quota Change Deadline. The institutional official has authority to modify and certify program rank order lists (with collaboration and approval of the program director). Institutional officials may appoint an institutional administrator to assist.",
+      "citation": {
+        "source": "NRMP MPA, Section 3.2.1",
+        "page": 355,
+        "quote": "Each institution with programs participating in the Match shall designate an institutional official to be responsible for overseeing the Match processes. All changes made by a program concerning its positions must be approved by the institutional official responsible for that program by the Quota Change Deadline. The institutional official has the authority to modify and certify program rank order lists; however, such modifications and certifications must be done in collaboration and with the approval of the program director. Institutional officials may appoint an institutional administrator, if desired, to assist in the matching process for the institution."
+      }
+    },
+    {
+      "id": "doc8-fc-008",
+      "front": "What are the program director's responsibilities in the Match?",
+      "back": "Ensure adherence to all Match policies; NOT share username/password with anyone else; provide accurate program information in R3; ensure all changes are approved by the institutional official; execute the MPA prior to the Quota Change Deadline; register and attempt to fill all positions through the Match or another national matching plan; select U.S. MD and DO senior students (\"sponsored applicants\") only through the Match or another national matching plan; not encourage matched applicants to seek concurrent-year positions absent an NRMP waiver/deferral.",
+      "citation": {
+        "source": "NRMP MPA, Section 3.2.2 and Section 4.0",
+        "page": 355,
+        "quote": "Each program participating in the Match shall designate a qualified program director. The program director shall: 1. Ensure adherence to all policies governing the Match as outlined in this Agreement; 2. Not share username and password information with any other individual; 3. Provide accurate program information in the R3 system including but not limited to contact information and the number and type of positions offered; 4. Ensure that all changes in Match participation and positions are approved by the institutional official; 5. Execute the Match Participation Agreement prior to the Quota Change Deadline; 6. Register and attempt to fill all of their positions in the Match or another national matching plan; 7. Agree to select U.S. MD and DO senior students (\"sponsored applicants\") only through the Match or another national matching plan;"
+      }
+    },
+    {
+      "id": "doc8-fc-009",
+      "front": "What three types of Match fees does each sponsoring institution pay, and when are they due?",
+      "back": "(1) Institution registration fee; (2) Program registration fee for each registered program; (3) Matched applicant fee for each applicant with whom a program matches successfully. NRMP invoices the institution for fees and incurred expenses, which must be paid WITHIN 30 DAYS of the invoice date. All Match fees are NON-REFUNDABLE \u2014 fees will not be waived for institutions/programs activated and subsequently withdrawn (by the sponsoring institution, by the program, or by the NRMP).",
+      "citation": {
+        "source": "NRMP MPA, Section 5.2",
+        "page": 358,
+        "quote": "Each sponsoring institution with programs in the Match pays an institution registration fee, a program registration fee for each of its registered programs, and a matched applicant fee for each applicant with whom a program matches successfully. The NRMP will invoice the institution for those fees and all incurred expenses, which must be paid within thirty (30) days of the invoice date. All Match fees are non-refundable\u2026 Fees will not be waived for institutions and programs that are activated for Match participation and subsequently withdrawn either by the sponsoring institution, by the program, or by the NRMP."
+      }
+    },
+    {
+      "id": "doc8-fc-010",
+      "front": "Through what date does each program's duty to act in an ethical and professional manner extend under the Match Participation Agreement?",
+      "back": "The duty extends throughout the application, interview, matching processes, and SOAP \u2014 AND through the 45th day following the start date of training as listed in the appointment contract \u2014 OR upon conclusion of any NRMP-related waiver review, violation investigation, or appeal process.",
+      "citation": {
+        "source": "NRMP MPA, Section 6.1",
+        "page": 358,
+        "quote": "All Match participants are required to conduct their affairs in an ethical and professionally responsible manner. The duty under this Agreement: 1. Extends throughout the application, interview, matching processes, and SOAP; and 2. Through the 45th day following the start date of training as listed in the appointment contract; or 3. Upon conclusion of any NRMP-related waiver review, violation investigation, or appeal process."
+      }
+    },
+    {
+      "id": "doc8-fc-011",
+      "front": "What restrictions on persuasion apply to programs during the interview period? Name at least three.",
+      "back": "Programs may NOT: (1) request that applicants reveal information pertaining to interviews they were offered/accepted/declined/attended; (2) request that applicants reveal ranking preferences; (3) suggest or inform applicants that placement on a rank order list or SOAP preference list is contingent upon submission of a verbal/electronic/written preference statement; (4) make any verbal/electronic/written offer or contract for appointment to a concurrent-year residency or fellowship position before the release of the List of Unfilled Programs; (5) have any contact with a matched applicant not matched into their program for the purpose of offering an interview, offering placement, or requesting application.",
+      "citation": {
+        "source": "NRMP MPA, Section 6.5",
+        "page": 361,
+        "quote": "Request that applicants reveal any information pertaining to the interviews they were offered, accepted, declined, or attended; 4. Request that applicants reveal ranking preferences; 5. Suggest or inform applicants that placement on a rank order list or a SOAP preference list is contingent upon submission of a verbal, electronic, or written statement indicating the applicant's preference; 6. Make any written, electronic, or verbal offer or contract for appointment to a concurrent year residency or fellowship position before the release of the List of Unfilled Programs; and 7. Have any written, electronic, or verbal contact with a matched applicant not matched into their program for the purpose of offering an interview, offering placement in the program, or requesting the applicant apply to a program."
+      }
+    },
+    {
+      "id": "doc8-fc-012",
+      "front": "What restrictions apply to programs affiliated with medical schools providing a 3-year medical education curriculum?",
+      "back": "Such programs must NOT enter into agreements with students regarding training positions outside of the Match. They specifically must NOT: (1) promise/guarantee residency positions; (2) offer \"conditional acceptance,\" \"pre-matched,\" or \"matched\" positions outside the Match; (3) compel/request/require that students commit prior to Match results release; (4) indicate or imply a position is secured before Match results; (5) prevent applicants from exploring/applying/interviewing/ranking programs of their choice.",
+      "citation": {
+        "source": "NRMP MPA, Section 6.6",
+        "page": 361,
+        "quote": "Programs affiliated with medical schools providing a 3-year medical education curriculum must not enter into agreements with students regarding training positions outside of the Match. Programs must not: 1. Promise or guarantee (verbally or in writing) residency training positions; 2. Offer \"conditional acceptance\", \"pre-matched,\" or \"matched\" positions outside of the Match; 3. Compel, request, or require that students commit to the training program prior to the release of the Match results; 4. Indicate or imply that a training position is secured or guaranteed before Match results are released; or 5. Prevent applicants from exploring, applying to, interviewing with, or ranking programs of their choice."
+      }
+    },
+    {
+      "id": "doc8-fc-013",
+      "front": "How may a program change its quota AFTER the Quota Change Deadline?",
+      "back": "The request must be in writing to support@nrmp.org and approved by the institutional official; must demonstrate substantial hardship (such as loss of funding or accreditation, or an increase in approved program positions after the deadline); and is subject to NRMP's review and approval. Before the deadline, programs may change quotas freely in R3 with institutional official approval, but cannot have a quota of zero.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.1.1",
+        "page": 362,
+        "quote": "Quota change requests made after the Quota Change Deadline: a. Must be in writing to support@nrmp.org and must be approved by the institutional official; b. Must demonstrate substantial hardship, such as loss of funding or accreditation, or an increase in the number of program positions approved after the Quota Change Deadline; and c. Are subject to the NRMP's review and approval."
+      }
+    },
+    {
+      "id": "doc8-fc-014",
+      "front": "What are program reversions in the Match?",
+      "back": "Reversions are the option to revert/donate unfilled positions in one program/track (\"donor\") to another program (\"receiver\") if the donor doesn't fill during the matching algorithm. Receiver programs must accept the designated number of unfilled positions but cannot exceed their total approved positions. Reversions may be added/changed/deleted in R3 anytime before the Rank Order List Certification Deadline, must be approved by the institutional official, and CANNOT include \"circular reversions\" (two programs donating and receiving from each other). Donor programs may revert to multiple receivers (same or different institution). Track participating in a reversion must certify a rank order list.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.1.3",
+        "page": 364,
+        "quote": "Program reversions are the option to revert, or donate, unfilled positions in one program and/or track (\"donor program\") to another (\"receiver program\") in the event the program and/or track does not fill during the processing of the matching algorithm\u2026 2. Receiver programs must accept a designated number of unfilled positions from the donor program, but must not exceed the total approved positions for the program; 3. Reversions may be added, changed, or deleted in the R3 system at any time before the Rank Order List Certification Deadline; 4. All reversions must be approved by the institutional official by the Rank Order List Certification Deadline; 5. Donor programs may revert positions to multiple receiver programs either at the same institution or at a different institution; however, there may be no \"circular reversions\" in which two programs both donate and receive positions from each other."
+      }
+    },
+    {
+      "id": "doc8-fc-015",
+      "front": "Under what circumstances may a program withdraw from the Match AFTER the Quota Change Deadline?",
+      "back": "Programs demonstrating substantial hardship \u2014 such as loss of funding or loss of accreditation \u2014 may request to be withdrawn after the Quota Change Deadline. In such cases, a written request must be CO-SIGNED by the institutional official and program director, and submitted to the NRMP for determination of approval.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.2.2",
+        "page": 365,
+        "quote": "Programs demonstrating substantial hardship such as loss of funding or loss of accreditation may request to be withdrawn from the Match after the Quota Change Deadline. In such cases, a written request must be co-signed by the institutional official and program director and submitted to the NRMP for determination of approval."
+      }
+    },
+    {
+      "id": "doc8-fc-016",
+      "front": "What three things should programs verify before certifying their rank order list?",
+      "back": "(1) Determine each applicant's eligibility by verifying the applicant's match status in the Applicant Match History (available through R3 or by contacting NRMP support); (2) Confirm the institution's willingness/ability to sponsor the visa type requested or intended by any non-U.S. citizen applicant ranked; (3) Ensure each ranked applicant meets requirements for licensure as published by the program's state Licensure Board. The NRMP will NOT create or modify any program's rank order list.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.3.1",
+        "page": 366,
+        "quote": "Before certifying the rank order list, programs should: 1. Determine each applicant's eligibility by verifying the applicant's match status in the Applicant Match History available through the R3 system or by contacting NRMP support; 2. Confirm the institution's willingness and/or ability to sponsor the visa type requested or intended by any non-U.S. citizen applicant ranked; and 3. Ensure each ranked applicant meets requirements for licensure, as published by the programs state Licensure Board. The NRMP will not create or modify any program's rank order list."
+      }
+    },
+    {
+      "id": "doc8-fc-017",
+      "front": "What happens if a program's rank order list is not certified by the Rank Order List Certification Deadline? Is there a courtesy option?",
+      "back": "Yes \u2014 within 24 hours of receiving notification of an uncertified list, the program may submit an electronic or written request with consent from the PD or institutional official to support@nrmp.org for NRMP to certify the list. Requests received MORE than 24 hours after notification will not be processed. Only the lists displayed in R3 at the time of the deadline will be certified. Once courtesy certification is complete, NRMP will NOT uncertify the rank order list.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.3.2",
+        "page": 366,
+        "quote": "Program's whose rank order lists are not certified before the published deadline may, within 24 hours of receiving notification of an uncertified list, submit an electronic or written request and consent from the program director or institutional official to support@nrmp.org for NRMP to certify their list. a. Requests received more than 24 hours after the notification of an uncertified list will not be processed by the NRMP. b. Only the rank order lists displayed in the R3 system at the time of the Rank Order List Certification Deadline will be certified. c. Once courtesy certification is complete, the NRMP will not uncertify the rank order list."
+      }
+    },
+    {
+      "id": "doc8-fc-018",
+      "front": "Between notification of Match status and conclusion of Match Week, what communication is permitted between fully matched applicants and programs?",
+      "back": "There may be NO communication between fully matched applicants and programs for any reason until the general announcement of the Match results. Between the Rank Order List Certification Deadline and the notification of Match status, programs must also refrain from discussing, interviewing for, or offering any position that would run concurrent with positions offered in the Match.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.6.1 and 7.6.2",
+        "page": 366,
+        "quote": "7.6.1 Between the Rank Order List Certification Deadline and the notification of Match status: Programs shall refrain from discussing, interviewing for, or offering any position that would run concurrent with positions offered in the Match. 7.6.2 Between the notification of Match status and the conclusion of Match Week: There may be no communication between fully matched applicants and programs for any reason until the general announcement of the Match results."
+      }
+    },
+    {
+      "id": "doc8-fc-019",
+      "front": "What three actions must programs electing to participate in SOAP agree to?",
+      "back": "(1) Must have unfilled positions remaining after the matching algorithm has been processed; (2) Agree to only consider SOAP-eligible applicants for unfilled positions until the conclusion of SOAP; (3) Agree to offer unfilled positions only through the R3 system until the conclusion of SOAP. Programs must designate their SOAP status in R3 before the Quota Change Deadline; failure to designate sets the status to \"No.\"",
+      "citation": {
+        "source": "NRMP MPA, Section 8.1.1",
+        "page": 367,
+        "quote": "Programs with the SOAP status designated as \"Yes\": 1. Must have unfilled positions remaining after the matching algorithm has been processed; 2. Agree to only consider SOAP-eligible applicants for unfilled positions until the conclusion of SOAP; and 3. Agree to offer unfilled positions only through the R3 system until the conclusion of SOAP."
+      }
+    },
+    {
+      "id": "doc8-fc-020",
+      "front": "When may programs initiate communication with SOAP-eligible applicants?",
+      "back": "Programs may not initiate or accept any verbal, written, or electronic communication from SOAP-eligible applicants or their representatives UNTIL they have received that individual's APPLICATION. Until and unless the program contacts the applicant or the applicant's representative, applicants may not initiate communication. SOAP-participating programs that receive unauthorized communication from an applicant must report it to policy@nrmp.org.",
+      "citation": {
+        "source": "NRMP MPA, Section 8.2",
+        "page": 368,
+        "quote": "Programs may not initiate or accept any verbal, written, or electronic communication from SOAP-eligible applicants nor their representatives until they have received that individual's application. Until and unless the program contacts the applicant or the applicant's representative, applicants may not initiate communication to the program. SOAP-participating programs receiving communication from an applicant to whom they have not communicated must report the communication to policy@nrmp.org."
+      }
+    },
+    {
+      "id": "doc8-fc-021",
+      "front": "Until when is the List of Unfilled Programs available to unmatched/partially matched applicants?",
+      "back": "Through 11:59 p.m. ET on May 1.",
+      "citation": {
+        "source": "NRMP MPA, Section 8.6",
+        "page": 369,
+        "quote": "The List of Unfilled Programs will remain available to unmatched and partially matched applicants through 11:59 p.m. ET on May 1."
+      }
+    },
+    {
+      "id": "doc8-fc-022",
+      "front": "What is the binding commitment, and through what date does it exist?",
+      "back": "Upon Match conclusion (or SOAP offer accepted), a binding commitment exists for the program to offer an appointment AS MATCHED and for the applicant to accept. Programs must begin training applicants on the start date with the intent to complete training. The binding commitment exists THROUGH THE FIRST 45 CALENDAR DAYS after the start date of the relevant appointment contract. Terminating a resident within 45 days without an approved waiver/deferral is a violation; an applicant who resigns/vacates within 45 days without an approved waiver/deferral is also in violation.",
+      "citation": {
+        "source": "NRMP MPA, Section 9.0",
+        "page": 370,
+        "quote": "Upon conclusion of the Match and SOAP, programs: 1. Are in a binding commitment with the applicant and must offer an appointment as matched or offered\u2026 2. Must begin training applicants on the start date specified in the appointment contract with the intent to complete the applicant's training: a. The binding commitment will be deemed to have been honored by the applicant so long as the applicant enters and remains in the training program through the first 45 calendar days after the start date of the relevant appointment contract. b. The binding commitment exists through the first 45 calendar days of the start date of the relevant appointment contract. c. Programs terminating a resident within 45 days of the start date specified in the appointment agreement, without having an approved waiver or deferral from the NRMP, will be in violation of this Agreement."
+      }
+    },
+    {
+      "id": "doc8-fc-023",
+      "front": "What is the difference between a Waiver and a Deferral of Match results?",
+      "back": "WAIVER: The release of Match participants from the binding commitment following the Match. DEFERRAL: A one-year delayed start of training, mutually agreed to by the applicant and the program. Both can only be requested from the NRMP, which has sole discretion to grant or deny. Decisions are FINAL \u2014 not subject to arbitration, judicial review, or third-party review. May be considered for circumstances demonstrating unanticipated serious and extreme hardship, or if NRMP determines the applicant is ineligible to begin training.",
+      "citation": {
+        "source": "NRMP MPA, Section 10.0",
+        "page": 371,
+        "quote": "Waiver: The release of Match participants from the binding commitment following the Match. Deferral: A one-year delayed start of training, mutually agreed to by the applicant and the program. Neither applicants nor programs may release each other from the binding Match commitment, or an offer accepted during SOAP. A waiver or deferral of the binding commitment may be requested only from the NRMP. The NRMP has sole discretion to grant or deny a requested waiver or deferral\u2026 A waiver or deferral may be considered by the NRMP: 1. For circumstances demonstrating an unanticipated serious and extreme hardship; or 2. If NRMP determines the applicant is ineligible to begin training\u2026 The NRMP's decision is final and is not subject to challenge in arbitration, by judicial review, or by review of a third party."
+      }
+    },
+    {
+      "id": "doc8-fc-024",
+      "front": "What rules apply to filling a PGY-1 (Categorical/Preliminary) position that becomes vacant?",
+      "back": "Vacancies due to applicant dismissal, resignation, transfer, or approved waiver/deferral may be filled OUTSIDE the Match \u2014 PROVIDED training commences before February 1 of the year following the Match. If training will not begin before February 1, the position must be placed in the Match. PGY-1 positions that become vacant any time after SOAP concludes can be filled outside the Match until the day registration opens for the next Match.",
+      "citation": {
+        "source": "NRMP MPA, Section 11.1",
+        "page": 371,
+        "quote": "PGY-1 positions that become vacant due to an applicant dismissal, resignation, transfer, or approved waiver or deferral, may be filled outside of the Match provided training commences before February 1 of the year following the Match. If training will not begin before February 1, the position shall be placed in the Match. PGY-1 positions that become vacant any time after the conclusion of SOAP can be filled outside the Match prior to the day registration opens for the next Match."
+      }
+    },
+    {
+      "id": "doc8-fc-025",
+      "front": "What rules apply to filling an Advanced (PGY-2) position that becomes vacant?",
+      "back": "PGY-2 positions (specialty programs requiring prerequisite PGY-1) vacant BEFORE the Quota Change Deadline due to dismissal/resignation/transfer/approved waiver: may be filled outside the Match if training begins before February 1; otherwise placed in the Match as a Reserved Position (\"R\") for a July start date. If vacancies arise between the Quota Change Deadline and the Rank Order List Certification Deadline: must be placed in the Match as Reserved Position. After the Rank Order List Certification Deadline: may be filled outside the Match anytime after SOAP concludes until registration opens for the next Match. After registration opens for the next Match, must be placed in the Match.",
+      "citation": {
+        "source": "NRMP MPA, Section 11.2",
+        "page": 371,
+        "quote": "PGY-2 positions in a specialty requiring a prerequisite PGY-1 year that become vacant before the Quota Change Deadline due to an applicant dismissal, resignation, transfer, or as the result of an approved waiver from the NRMP, may be filled outside the Match provided training begins before February 1. If training will not begin before February 1, or if the position becomes vacant between the Quota Change Deadline and the Rank Order List Certification Deadline, the position shall be placed in the Match as a Reserved Position (\"R\") for a July start date. If the position becomes vacant after the Rank Order List Certification Deadline, the position may be filled outside the Match at any time after the conclusion of SOAP and prior to the day registration opens for the next Match. After registration opens for the next Match, the vacant position must be placed in the Match."
+      }
+    },
+    {
+      "id": "doc8-fc-026",
+      "front": "What types of violations may the NRMP investigate (per Section 12.1)?",
+      "back": "Includes but not limited to: (1) Failure to provide complete, timely, and accurate information during the application/interview/matching/SOAP processes; (2) Misrepresentation of graduation credentials; (3) Attempts to subvert or circumvent eligibility requirements, the matching process, or SOAP; (4) Failure to offer or accept an appointment as required by Match outcome; (5) Failure to engage in ethical and/or professionally responsible behavior; (6) Any other irregular behavior or activity in connection with registration, rank order/SOAP preference list submission/modification, or the commitment to honor the Match outcome. NRMP's decision whether to investigate is FINAL and not subject to appeal.",
+      "citation": {
+        "source": "NRMP MPA, Section 12.1",
+        "page": 372,
+        "quote": "At its discretion, the NRMP will determine whether to investigate a reported and alleged breach of this Agreement. The types of violations the NRMP may investigate include but are not limited to: 1. Failure to provide complete, timely, and accurate information during the application, interview, matching, and SOAP processes; 2. Misrepresentation of graduation credentials; 3. Attempts to subvert or circumvent eligibility requirements, the matching process, or SOAP; 4. Failure to offer or accept an appointment as required by the results of a Match outcome; 5. Failure to engage in ethical and/or professionally responsible behavior; or 6. Any other irregular behavior or activity that occurs in connection with registration, the submission or modification of a rank order or SOAP preference list, and/or the participant's commitment to honor the Match outcome. The NRMP's decision whether to investigate an alleged violation is final and not subject to appeal."
+      }
+    },
+    {
+      "id": "doc8-fc-027",
+      "front": "Within what timeframe should programs report suspected violations to the NRMP?",
+      "back": "Within ONE YEAR of learning about the suspected violation(s). If the known/suspected violation pertains to a matched applicant, the violation must have occurred NO LATER than the 45th day after the start date of the relevant appointment contract.",
+      "citation": {
+        "source": "NRMP MPA, Section 12.2",
+        "page": 372,
+        "quote": "Programs should report to NRMP any known or suspected violation(s) of this Agreement within one year of learning about the suspected violation(s). If the known or suspected violation(s) pertains to a matched applicant, the violation must have occurred no later than the 45th day after the start date of the relevant appointment contract."
+      }
+    },
+    {
+      "id": "doc8-fc-028",
+      "front": "What does \"Pending Action\" mean when a participant is withdrawn from the Match by NRMP due to a suspected violation?",
+      "back": "Upon withdrawal from the Match and/or SOAP due to an alleged violation, the participant's status in the R3 system will note \"Pending Action,\" which remains in effect until the applicant has waived or exhausted all avenues of appeal under the Violations Policy. The matched program(s) may NOT fill the applicant's position during the NRMP investigation, until the NRMP has issued a Final Report or granted a waiver, whichever is earlier. If the investigation has not concluded by the start of training, the program shall begin training the matched applicant unless NRMP has granted a waiver or issued a deferral to the next training year.",
+      "citation": {
+        "source": "NRMP MPA, Section 12.4.2",
+        "page": 373,
+        "quote": "Upon withdrawal from the Match and/or SOAP due to an alleged violation, the participant's status in the R3 system will note \"Pending Action,\" which will remain in effect until the applicant has waived or exhausted all avenues of appeal as outlined in the NRMP Violations Policy. The matched program(s) may not fill the applicant's position during the NRMP's investigation until the NRMP has issued a Final Report or granted a waiver, whichever is earlier. If the violation investigation has not concluded by the start date of training, the program shall begin training the matched applicant unless NRMP has granted a waiver or issued a deferral to the next training year."
+      }
+    },
+    {
+      "id": "doc8-fc-029",
+      "front": "How are disputes between the NRMP and a participant resolved under the MPA?",
+      "back": "Except for waiver determinations (which are final and not subject to arbitration/judicial review/third-party review), all other disputes between or among the NRMP and any applicant or program shall be settled by ARBITRATION in accordance with the Commercial Arbitration Rules of the American Arbitration Association (with modifications and excluding Procedures for Large, Complex Disputes). The arbitration hearing shall commence within 6 months of filing the demand for arbitration or at another time agreeable to the NRMP. Arbitrators cannot impose class or consolidated arbitration without all parties' express consent, and cannot modify NRMP sanctions unless there's no factual basis or the sanctions are arbitrary/capricious or outside scope.",
+      "citation": {
+        "source": "NRMP MPA, Section 19.0",
+        "page": 375,
+        "quote": "Except for waiver determinations that are final when made by the NRMP and not subject to arbitration, judicial review, or review by any third party, as provided in this Agreement, all other disputes arising out of, or related to, the Match, this Agreement, or the breach thereof, between or among the NRMP and any applicant or program participating, or seeking participation, in the Match shall be settled by arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association then in effect (as modified below and excluding Procedures for Large, Complex Disputes), unless the parties to the dispute mutually agree otherwise or if one of the parties to the dispute is a state entity and that State's laws mandate that such entity not be compelled to participate in an arbitration proceeding. The arbitration hearing shall commence within six months of filing the demand for arbitration or at another time agreeable to the NRMP."
+      }
+    },
+    {
+      "id": "doc8-fc-030",
+      "front": "What represents and warrants the program in relation to information provided to the NRMP and R3 access?",
+      "back": "Each program represents and warrants to NRMP that all information provided (or to be provided) is complete, timely, and accurate to the best of the program's knowledge at the time it was/will be provided. Each program also represents that its unique R3 login information will NOT be shared with or used by any other individual to access the system. Each program represents that it has read, understood, and agrees to the NRMP's Privacy Statement.",
+      "citation": {
+        "source": "NRMP MPA, Section 15.0",
+        "page": 375,
+        "quote": "Each program represents and warrants to the NRMP that all of the information provided, or that will be provided, by such program to the NRMP is at all times complete, timely, and accurate to the best of such program's knowledge at the time such information was or will be provided. Each program further represents that its unique log in information to access the R3 system will not be shared with or used by any other individual to access the system. Moreover, each program represents that they have read, understood, and agrees to the NRMP's Privacy Statement."
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc8-nrmp-mc-001",
-      "stem": "Placeholder question #1 for NRMP Match: which of the following is the correct answer in this test stub?",
+      "id": "doc8-mc-001",
+      "stem": "When was the NRMP founded, and what is its organizational nature?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
-      ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
-      "citation": {
-        "source": "NRMP Match, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
-      }
-    },
-    {
-      "id": "doc8-nrmp-mc-002",
-      "stem": "Placeholder question #2 for NRMP Match: which option is correct here?",
-      "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "1992; a federal regulatory agency",
+        "1952; an independent, non-profit organization providing an orderly and fair mechanism for matching applicants to U.S. residency positions",
+        "1965; a division of the AMA",
+        "1972; a division of the ACGME"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "Per Section 1.0, the NRMP is an independent, non-profit organization founded in 1952 for the purpose of providing an orderly and fair mechanism for matching the training preferences of applicants to U.S. residency positions with program directors' preferences.",
       "citation": {
-        "source": "NRMP Match, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "NRMP MPA, Section 1.0",
+        "page": 354,
+        "quote": "The Main Residency Match (\"the Match\") is sponsored by the National Resident Matching Program\u00ae (NRMP\u00ae), an independent, non-profit organization founded in 1952 for the purpose of providing an orderly and fair mechanism for matching the training preferences of applicants to U.S. residency positions with the preferences of residency training program directors."
       }
     },
     {
-      "id": "doc8-nrmp-mc-003",
-      "stem": "Placeholder question #3 for NRMP Match: test the review queue by intentionally answering this wrong.",
+      "id": "doc8-mc-002",
+      "stem": "What does \"R3\" stand for in the context of the Match?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "Residency Recruitment and Research",
+        "Registration, Ranking, and Results \u2014 NRMP's proprietary system that processes certified rank order lists via a mathematical algorithm",
+        "Resident Review Records",
+        "Resource Roster Repository"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 1.0, R3 is NRMP's proprietary Registration, Ranking, and Results\u00ae (R3\u00ae) system, which processes an applicant's and a program's certified rank order list using a mathematical algorithm.",
+      "citation": {
+        "source": "NRMP MPA, Section 1.0",
+        "page": 354,
+        "quote": "The Match is managed through the NRMP's proprietary Registration, Ranking, and Results\u00ae (R3\u00ae) system which processes an applicant's and a program's certified rank order list using a mathematical algorithm to match the preferences of the applicant to the preferences of the program(s)."
+      }
+    },
+    {
+      "id": "doc8-mc-003",
+      "stem": "Per Section 2.0, which of the following is NOT one of the four eligibility requirements for a program to participate in the Match as of the Rank Order List Certification Deadline?",
+      "options": [
+        "Be ACGME-accredited (or be a combined program approved/recognized by ABMS or the respective specialty board)",
+        "Have secured funding sufficient to train each matched resident for the duration of the training program",
+        "Be activated for participation in the Match by the institutional official through R3 by the published deadline",
+        "Have the lowest historical fill-rate of any program in the specialty"
       ],
       "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "explanation": "Section 2.0 lists four eligibility requirements: ACGME accreditation (or ABMS/specialty board recognized combined program); secured funding for the duration of training; activation by the institutional official through R3 by the deadline; and agreement to register and attempt to fill all positions through the Match or another national matching plan. Fill-rate history is not a criterion.",
       "citation": {
-        "source": "NRMP Match, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "NRMP MPA, Section 2.0",
+        "page": 354,
+        "quote": "To participate in the Match and be eligible to offer training positions through the Match, as of the Rank Order List Certification Deadline, a program must: 1. Be accredited by the Accreditation Council for Graduate Medical Education (\"ACGME\"); or 2. Be a combined program approved or recognized by the American Board of Medical Specialties (\"ABMS\") or by the respective specialty board applicable to the training program; 3. Have secured funding sufficient to train each matched resident for the duration of the training program; and 4. Be activated for participation in the Match by the institutional official through the R3 system by the published deadline."
+      }
+    },
+    {
+      "id": "doc8-mc-004",
+      "stem": "Which position category is described as \"Positions in specialty programs that begin the year after the Match and after one or more years of required preliminary training\"?",
+      "options": [
+        "Categorical (\"C\")",
+        "Preliminary (\"P\")",
+        "Advanced (\"A\")",
+        "Reserved (\"R\")"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 3.1, Advanced (\"A\") positions are specialty positions that begin THE YEAR AFTER the Match and require one or more years of preliminary training first. Reserved (\"R\") positions also begin in the year of the Match for physicians with prior GME.",
+      "citation": {
+        "source": "NRMP MPA, Section 3.1",
+        "page": 355,
+        "quote": "Advanced Position (\"A\"): Positions in specialty programs that begin the year after the Match and after one or more years of required preliminary training."
+      }
+    },
+    {
+      "id": "doc8-mc-005",
+      "stem": "What are Reserved Positions (\"R\") in the Match?",
+      "options": [
+        "Positions held in case of program closure",
+        "PGY-2 positions in specialty programs that begin in the year of the Match, reserved for physicians with prior graduate medical education \u2014 also known as \"Physician Positions\"",
+        "Backup positions for the SOAP",
+        "Positions held by IMGs only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 3.1, Reserved Positions (\"R\") are PGY-2 positions in specialty programs that begin in the year of the Match and are reserved for physicians with prior graduate medical education. These are also known as \"Physician Positions.\"",
+      "citation": {
+        "source": "NRMP MPA, Section 3.1",
+        "page": 355,
+        "quote": "Reserved Positions (\"R\"): PGY-2 positions in specialty programs that begin in the year of the Match and are reserved for physicians with prior graduate medical education. These positions are also known as \"Physician Positions\"."
+      }
+    },
+    {
+      "id": "doc8-mc-006",
+      "stem": "Who has authority to modify and certify program rank order lists?",
+      "options": [
+        "The program director alone",
+        "The institutional official has the authority to modify and certify program rank order lists; however, such modifications and certifications must be done in collaboration and with the approval of the program director",
+        "Only the GMEC chair",
+        "Only NRMP staff"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 3.2.1, the institutional official has the authority to modify and certify program rank order lists. However, such modifications and certifications must be done in collaboration with \u2014 and with the approval of \u2014 the program director.",
+      "citation": {
+        "source": "NRMP MPA, Section 3.2.1",
+        "page": 355,
+        "quote": "The institutional official has the authority to modify and certify program rank order lists; however, such modifications and certifications must be done in collaboration and with the approval of the program director."
+      }
+    },
+    {
+      "id": "doc8-mc-007",
+      "stem": "What three fees does each sponsoring institution pay to NRMP for Match participation, and when are they due?",
+      "options": [
+        "Only an institution registration fee, due 60 days after invoicing",
+        "Institution registration fee, program registration fee per registered program, and matched applicant fee per applicant who matches successfully \u2014 payable within 30 days of invoice date; all fees are NON-REFUNDABLE",
+        "Only matched applicant fees, due at start of training",
+        "An interview-based fee structure, due annually"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 5.2, each sponsoring institution pays an institution registration fee, a program registration fee for each registered program, and a matched applicant fee for each successful match. NRMP invoices the institution and payment is due within 30 days. All Match fees are non-refundable, including for activated/then-withdrawn programs.",
+      "citation": {
+        "source": "NRMP MPA, Section 5.2",
+        "page": 358,
+        "quote": "Each sponsoring institution with programs in the Match pays an institution registration fee, a program registration fee for each of its registered programs, and a matched applicant fee for each applicant with whom a program matches successfully. The NRMP will invoice the institution for those fees and all incurred expenses, which must be paid within thirty (30) days of the invoice date. All Match fees are non-refundable."
+      }
+    },
+    {
+      "id": "doc8-mc-008",
+      "stem": "Through what date does each program's duty under the Match Participation Agreement to act ethically and professionally extend?",
+      "options": [
+        "Only through the rank order list certification deadline",
+        "Through the application/interview/matching processes and SOAP, AND through the 45th day following the start date of training listed in the appointment contract \u2014 OR until conclusion of any NRMP-related waiver/violation/appeal process",
+        "Until the conclusion of Match Week only",
+        "Only through completion of residency"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 6.1, the duty extends throughout the application/interview/matching/SOAP processes, through the 45th day following the start date of training, OR until the conclusion of any NRMP-related waiver review, violation investigation, or appeal process.",
+      "citation": {
+        "source": "NRMP MPA, Section 6.1",
+        "page": 358,
+        "quote": "The duty under this Agreement: 1. Extends throughout the application, interview, matching processes, and SOAP; and 2. Through the 45th day following the start date of training as listed in the appointment contract; or 3. Upon conclusion of any NRMP-related waiver review, violation investigation, or appeal process."
+      }
+    },
+    {
+      "id": "doc8-mc-009",
+      "stem": "Per Section 6.5 (Restrictions on Persuasion), which of the following may a program NOT do?",
+      "options": [
+        "Ask an applicant general questions about why they chose the specialty",
+        "Request that applicants reveal information about interviews they attended, request that applicants reveal ranking preferences, or suggest that placement on a rank order list is contingent upon a preference statement from the applicant",
+        "Provide a tour of the program",
+        "Communicate publicly about the program's mission"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 6.5, programs may not request that applicants reveal interview information, may not request ranking preferences, and may not suggest that rank-list placement is contingent on a preference statement. Programs also may not make contracts for concurrent-year positions before the List of Unfilled Programs is released.",
+      "citation": {
+        "source": "NRMP MPA, Section 6.5",
+        "page": 361,
+        "quote": "Request that applicants reveal any information pertaining to the interviews they were offered, accepted, declined, or attended; 4. Request that applicants reveal ranking preferences; 5. Suggest or inform applicants that placement on a rank order list or a SOAP preference list is contingent upon submission of a verbal, electronic, or written statement indicating the applicant's preference;"
+      }
+    },
+    {
+      "id": "doc8-mc-010",
+      "stem": "Per Section 6.6 regarding programs affiliated with 3-year medical education curricula, what are these programs prohibited from doing?",
+      "options": [
+        "Recruiting any students from 3-year curriculum schools",
+        "Entering into agreements with students regarding training positions outside of the Match \u2014 including promising/guaranteeing positions, offering \"conditional acceptance\"/\"pre-matched\"/\"matched\" positions outside the Match, compelling students to commit prior to Match results, or preventing applicants from exploring/applying/interviewing/ranking other programs",
+        "Conducting interviews at all",
+        "Participating in SOAP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 6.6, programs affiliated with 3-year medical education curricula must not enter into agreements outside the Match. Specifically prohibited: promising/guaranteeing positions; offering \"conditional acceptance,\" \"pre-matched,\" or \"matched\" positions outside the Match; compelling students to commit before Match results; implying a position is secured before Match results; preventing applicants from exploring other programs.",
+      "citation": {
+        "source": "NRMP MPA, Section 6.6",
+        "page": 361,
+        "quote": "Programs affiliated with medical schools providing a 3-year medical education curriculum must not enter into agreements with students regarding training positions outside of the Match. Programs must not: 1. Promise or guarantee (verbally or in writing) residency training positions; 2. Offer \"conditional acceptance\", \"pre-matched,\" or \"matched\" positions outside of the Match; 3. Compel, request, or require that students commit to the training program prior to the release of the Match results;"
+      }
+    },
+    {
+      "id": "doc8-mc-011",
+      "stem": "What must a program demonstrate to request a quota change AFTER the Quota Change Deadline?",
+      "options": [
+        "Nothing \u2014 any change is permitted",
+        "Substantial hardship, such as loss of funding or accreditation, or an increase in the number of program positions approved after the Quota Change Deadline; written request to support@nrmp.org with institutional official approval; subject to NRMP review and approval",
+        "Verbal approval from the Match Week committee",
+        "Submission of an updated CV from the program director"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 7.1.1, quota change requests after the Quota Change Deadline must be in writing to support@nrmp.org, must be approved by the institutional official, must demonstrate substantial hardship (e.g., loss of funding/accreditation or increase in approved positions after the deadline), and are subject to NRMP's review and approval.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.1.1",
+        "page": 363,
+        "quote": "Quota change requests made after the Quota Change Deadline: a. Must be in writing to support@nrmp.org and must be approved by the institutional official; b. Must demonstrate substantial hardship, such as loss of funding or accreditation, or an increase in the number of program positions approved after the Quota Change Deadline; and c. Are subject to the NRMP's review and approval."
+      }
+    },
+    {
+      "id": "doc8-mc-012",
+      "stem": "What is a \"circular reversion,\" and is it permitted in the Match?",
+      "options": [
+        "When two programs both donate and receive positions from each other \u2014 and this IS permitted",
+        "When two programs both donate and receive positions from each other \u2014 this is NOT permitted",
+        "When a program reverts all positions to itself \u2014 this IS permitted",
+        "Reversions to multiple receivers \u2014 this is NOT permitted"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 7.1.3, a \"circular reversion\" is when two programs both donate and receive positions from each other \u2014 these are explicitly NOT permitted. Donor programs may revert positions to multiple receiver programs (at the same or different institutions), as long as there is no mutual donation/receipt between the same two programs.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.1.3",
+        "page": 364,
+        "quote": "Donor programs may revert positions to multiple receiver programs either at the same institution or at a different institution; however, there may be no \"circular reversions\" in which two programs both donate and receive positions from each other."
+      }
+    },
+    {
+      "id": "doc8-mc-013",
+      "stem": "Under what circumstances may a program withdraw from the Match AFTER the Quota Change Deadline?",
+      "options": [
+        "Only the institutional official's request is needed",
+        "Programs demonstrating substantial hardship (such as loss of funding or loss of accreditation) may request to be withdrawn; the written request must be CO-SIGNED by the institutional official AND program director, and submitted to NRMP for determination",
+        "Programs may withdraw at any time without restriction",
+        "Only NRMP can initiate withdrawal after this deadline"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 7.2.2, programs demonstrating substantial hardship (such as loss of funding or accreditation) may request withdrawal after the Quota Change Deadline. The written request must be co-signed by BOTH the institutional official AND the program director and submitted to NRMP for determination.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.2.2",
+        "page": 365,
+        "quote": "Programs demonstrating substantial hardship such as loss of funding or loss of accreditation may request to be withdrawn from the Match after the Quota Change Deadline. In such cases, a written request must be co-signed by the institutional official and program director and submitted to the NRMP for determination of approval."
+      }
+    },
+    {
+      "id": "doc8-mc-014",
+      "stem": "What happens if a program fails to certify its rank order list by the Rank Order List Certification Deadline?",
+      "options": [
+        "The list is automatically certified by NRMP",
+        "The program loses participation entirely with no remedy",
+        "Within 24 hours of receiving notification of an uncertified list, the program may submit a written/electronic request with consent from the PD or institutional official to support@nrmp.org for NRMP to certify their list; requests received more than 24 hours later will NOT be processed",
+        "The program automatically withdraws"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 7.3.2, if a list isn't certified by the deadline, the program may submit an electronic or written request within 24 hours of notification, with consent from the PD or institutional official to support@nrmp.org, requesting NRMP courtesy certification. Requests received more than 24 hours after notification will NOT be processed. Only lists displayed in R3 at the deadline time will be certified. Once courtesy certification is complete, NRMP will not uncertify.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.3.2",
+        "page": 366,
+        "quote": "Program's whose rank order lists are not certified before the published deadline may, within 24 hours of receiving notification of an uncertified list, submit an electronic or written request and consent from the program director or institutional official to support@nrmp.org for NRMP to certify their list. a. Requests received more than 24 hours after the notification of an uncertified list will not be processed by the NRMP."
+      }
+    },
+    {
+      "id": "doc8-mc-015",
+      "stem": "Between notification of Match status and the conclusion of Match Week, what communication is permitted between fully matched applicants and programs?",
+      "options": [
+        "Programs and applicants may freely communicate immediately",
+        "There may be NO communication between fully matched applicants and programs for any reason until the general announcement of Match results",
+        "Only matched applicants may initiate contact",
+        "Communication is restricted to email only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 7.6.2, there may be NO communication between fully matched applicants and programs for any reason until the general announcement of Match results. Programs and matched applicants may freely communicate, and programs may initiate onboarding processes, after Match Results are made available on Match Day.",
+      "citation": {
+        "source": "NRMP MPA, Section 7.6.2",
+        "page": 366,
+        "quote": "Between the notification of Match status and the conclusion of Match Week: There may be no communication between fully matched applicants and programs for any reason until the general announcement of the Match results."
+      }
+    },
+    {
+      "id": "doc8-mc-016",
+      "stem": "When may a SOAP-participating program initiate communication with a SOAP-eligible applicant?",
+      "options": [
+        "Anytime during Match Week",
+        "Only after the program has received that individual's application \u2014 until and unless the program contacts the applicant or the applicant's representative, applicants may not initiate communication; programs that receive unauthorized communication must report it to policy@nrmp.org",
+        "Only after SOAP concludes",
+        "Only via R3 messaging at any time"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 8.2, programs may not initiate or accept any communication from SOAP-eligible applicants (or their representatives) until they have received that individual's application. Until and unless the program contacts the applicant, applicants may not initiate communication. Unauthorized communications must be reported to policy@nrmp.org.",
+      "citation": {
+        "source": "NRMP MPA, Section 8.2",
+        "page": 368,
+        "quote": "Programs may not initiate or accept any verbal, written, or electronic communication from SOAP-eligible applicants nor their representatives until they have received that individual's application. Until and unless the program contacts the applicant or the applicant's representative, applicants may not initiate communication to the program."
+      }
+    },
+    {
+      "id": "doc8-mc-017",
+      "stem": "Until when is the List of Unfilled Programs available to unmatched and partially matched applicants in the R3 system?",
+      "options": [
+        "Until the end of Match Week",
+        "Through 11:59 p.m. ET on May 1",
+        "Until June 30 of the year of the Match",
+        "Indefinitely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 8.6, the List of Unfilled Programs remains available to unmatched and partially matched applicants through 11:59 p.m. ET on May 1.",
+      "citation": {
+        "source": "NRMP MPA, Section 8.6",
+        "page": 369,
+        "quote": "The List of Unfilled Programs will remain available to unmatched and partially matched applicants through 11:59 p.m. ET on May 1."
+      }
+    },
+    {
+      "id": "doc8-mc-018",
+      "stem": "Through what date does the binding commitment between a program and matched applicant exist?",
+      "options": [
+        "From Match Day through the start of training only",
+        "Through the first 45 calendar days after the start date of the relevant appointment contract; terminating a resident or having an applicant resign/vacate within 45 days without an approved waiver/deferral is a violation",
+        "Indefinitely",
+        "Only through the first 30 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 9.0, the binding commitment exists through the first 45 calendar days after the start date of the relevant appointment contract. Programs terminating a resident within 45 days, or applicants resigning/vacating within 45 days, without an approved waiver/deferral from NRMP, will be in violation.",
+      "citation": {
+        "source": "NRMP MPA, Section 9.0",
+        "page": 370,
+        "quote": "The binding commitment will be deemed to have been honored by the applicant so long as the applicant enters and remains in the training program through the first 45 calendar days after the start date of the relevant appointment contract. b. The binding commitment exists through the first 45 calendar days of the start date of the relevant appointment contract. c. Programs terminating a resident within 45 days of the start date specified in the appointment agreement, without having an approved waiver or deferral from the NRMP, will be in violation of this Agreement."
+      }
+    },
+    {
+      "id": "doc8-mc-019",
+      "stem": "What is the difference between a Waiver and a Deferral of Match results?",
+      "options": [
+        "Both terms refer to the same thing",
+        "Waiver = release from binding commitment following the Match; Deferral = one-year delayed start of training mutually agreed to by applicant and program \u2014 only NRMP can grant either, in its sole discretion, and decisions are FINAL (not subject to arbitration, judicial review, or third-party review)",
+        "Waiver = mutual agreement; Deferral = release",
+        "A waiver applies to applicants only; a deferral applies to programs only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 10.0, a WAIVER is the release of Match participants from the binding commitment, while a DEFERRAL is a one-year delayed start of training mutually agreed to by applicant and program. Both can only be requested from the NRMP, which has sole discretion. Decisions are FINAL.",
+      "citation": {
+        "source": "NRMP MPA, Section 10.0",
+        "page": 371,
+        "quote": "Waiver: The release of Match participants from the binding commitment following the Match. Deferral: A one-year delayed start of training, mutually agreed to by the applicant and the program. Neither applicants nor programs may release each other from the binding Match commitment, or an offer accepted during SOAP. A waiver or deferral of the binding commitment may be requested only from the NRMP. The NRMP has sole discretion to grant or deny a requested waiver or deferral\u2026 The NRMP's decision is final and is not subject to challenge in arbitration, by judicial review, or by review of a third party."
+      }
+    },
+    {
+      "id": "doc8-mc-020",
+      "stem": "A PGY-1 categorical position becomes vacant in October due to applicant resignation. May this position be filled outside the Match?",
+      "options": [
+        "No \u2014 all PGY-1 vacancies must always go back through the Match",
+        "Yes \u2014 PGY-1 positions vacant due to dismissal/resignation/transfer/approved waiver/deferral may be filled outside the Match provided training commences before February 1 of the year following the Match; if training won't begin before February 1, the position must be placed in the Match",
+        "Only if the program has already filled all other positions",
+        "Only with ACGME approval"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 11.1, PGY-1 (Categorical/Preliminary) positions that become vacant due to dismissal/resignation/transfer/approved waiver may be filled outside the Match \u2014 provided training commences before February 1 of the year following the Match. If training won't begin before February 1, the position must be placed in the Match.",
+      "citation": {
+        "source": "NRMP MPA, Section 11.1",
+        "page": 371,
+        "quote": "PGY-1 positions that become vacant due to an applicant dismissal, resignation, transfer, or approved waiver or deferral, may be filled outside of the Match provided training commences before February 1 of the year following the Match. If training will not begin before February 1, the position shall be placed in the Match. PGY-1 positions that become vacant any time after the conclusion of SOAP can be filled outside the Match prior to the day registration opens for the next Match."
+      }
+    },
+    {
+      "id": "doc8-mc-021",
+      "stem": "An Advanced (PGY-2) position becomes vacant between the Quota Change Deadline and the Rank Order List Certification Deadline. How must it be handled?",
+      "options": [
+        "It may be filled outside the Match",
+        "The position shall be placed in the Match as a Reserved Position (\"R\") for a July start date",
+        "The position is forfeit and lost",
+        "The position must be filled by the SOAP process"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 11.2, if an Advanced (PGY-2) position becomes vacant between the Quota Change Deadline and the Rank Order List Certification Deadline (or if training won't begin before February 1), the position must be placed in the Match as a Reserved Position (\"R\") for a July start date.",
+      "citation": {
+        "source": "NRMP MPA, Section 11.2",
+        "page": 371,
+        "quote": "If training will not begin before February 1, or if the position becomes vacant between the Quota Change Deadline and the Rank Order List Certification Deadline, the position shall be placed in the Match as a Reserved Position (\"R\") for a July start date."
+      }
+    },
+    {
+      "id": "doc8-mc-022",
+      "stem": "Within what timeframe should programs report known or suspected violations to the NRMP?",
+      "options": [
+        "Within 30 days",
+        "Within 6 months",
+        "Within ONE YEAR of learning about the suspected violation; if the violation pertains to a matched applicant, it must have occurred no later than the 45th day after the start date of the appointment contract",
+        "Within 5 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 12.2, programs should report known or suspected violations to NRMP within ONE YEAR of learning about them. If the violation pertains to a matched applicant, the violation must have occurred no later than the 45th day after the start date of the appointment contract.",
+      "citation": {
+        "source": "NRMP MPA, Section 12.2",
+        "page": 372,
+        "quote": "Programs should report to NRMP any known or suspected violation(s) of this Agreement within one year of learning about the suspected violation(s). If the known or suspected violation(s) pertains to a matched applicant, the violation must have occurred no later than the 45th day after the start date of the relevant appointment contract."
+      }
+    },
+    {
+      "id": "doc8-mc-023",
+      "stem": "What happens when a participant is withdrawn from the Match by NRMP due to a suspected violation, and a \"Pending Action\" designation is placed on the participant?",
+      "options": [
+        "The matched program(s) may immediately fill the applicant's position",
+        "The matched program(s) may NOT fill the applicant's position during the NRMP investigation until NRMP has issued a Final Report or granted a waiver, whichever is earlier; if the investigation hasn't concluded by the start date of training, the program shall begin training the matched applicant unless NRMP has granted a waiver or issued a deferral",
+        "The applicant's position is automatically forfeit",
+        "The program may withdraw all its other matched applicants too"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 12.4.2, while a Pending Action is in effect, the matched program(s) may NOT fill the applicant's position during the NRMP investigation until NRMP has issued a Final Report or granted a waiver, whichever is earlier. If the investigation hasn't concluded by the start date of training, the program shall begin training the matched applicant unless NRMP has granted a waiver or issued a deferral.",
+      "citation": {
+        "source": "NRMP MPA, Section 12.4.2",
+        "page": 373,
+        "quote": "The matched program(s) may not fill the applicant's position during the NRMP's investigation until the NRMP has issued a Final Report or granted a waiver, whichever is earlier. If the violation investigation has not concluded by the start date of training, the program shall begin training the matched applicant unless NRMP has granted a waiver or issued a deferral to the next training year."
+      }
+    },
+    {
+      "id": "doc8-mc-024",
+      "stem": "How are disputes between the NRMP and program participants resolved under the MPA (other than NRMP waiver determinations)?",
+      "options": [
+        "Through state courts in the program's jurisdiction",
+        "By arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (with modifications and excluding Procedures for Large, Complex Disputes); hearing commences within 6 months of filing the demand or at another time agreeable to the NRMP",
+        "Through mediation only",
+        "Only through ACGME review"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 19.0, disputes (other than waiver determinations) are settled by arbitration under the Commercial Arbitration Rules of the American Arbitration Association, with NRMP's modifications and excluding Procedures for Large, Complex Disputes. The arbitration hearing must commence within 6 months of filing the demand or at another time agreeable to the NRMP. Note: waiver determinations are final and NOT subject to arbitration, judicial review, or third-party review.",
+      "citation": {
+        "source": "NRMP MPA, Section 19.0",
+        "page": 375,
+        "quote": "Except for waiver determinations that are final when made by the NRMP and not subject to arbitration, judicial review, or review by any third party, as provided in this Agreement, all other disputes arising out of, or related to, the Match, this Agreement, or the breach thereof, between or among the NRMP and any applicant or program participating, or seeking participation, in the Match shall be settled by arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association then in effect."
+      }
+    },
+    {
+      "id": "doc8-mc-025",
+      "stem": "Per Section 15.0, what does each program represent and warrant regarding R3 access?",
+      "options": [
+        "Login information may be shared with the program coordinator",
+        "Each program's unique log-in information to access the R3 system will NOT be shared with or used by any other individual; all information provided to NRMP is complete, timely, and accurate to the best of the program's knowledge at the time provided",
+        "R3 access is uncontrolled within the institution",
+        "Only the institutional official may access R3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 15.0, each program represents and warrants that all information provided to NRMP is complete, timely, and accurate to the best of the program's knowledge. Each program further represents that its unique R3 login information will NOT be shared with or used by any other individual.",
+      "citation": {
+        "source": "NRMP MPA, Section 15.0",
+        "page": 375,
+        "quote": "Each program represents and warrants to the NRMP that all of the information provided, or that will be provided, by such program to the NRMP is at all times complete, timely, and accurate to the best of such program's knowledge at the time such information was or will be provided. Each program further represents that its unique log in information to access the R3 system will not be shared with or used by any other individual to access the system."
       }
     }
   ]

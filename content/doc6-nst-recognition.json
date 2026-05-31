@@ -2,112 +2,478 @@
   "id": "doc6-nst-recognition",
   "title": "ACGME NST Recognition for Sponsoring Institutions",
   "shortTitle": "NST Recognition",
-  "documentRef": "Placeholder content for NST Recognition",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "documentRef": "TAGME Study Guide pages 285\u2013289",
+  "description": "Recognition Requirements for Sponsoring Institutions with Non-Standard Training (NST) programs for J-1 visa sponsorship. Recognition is conferred by the Institutional Review Committee and is distinct from ACGME accreditation. Effective July 1, 2023, SIs must be recognized to enroll NST trainees.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers ACGME NST Recognition for Sponsoring Institutions. Browse content will be populated when real content is generated."
+      "text": "This document covers Recognition Requirements for ACGME-accredited Sponsoring Institutions that wish to offer Non-Standard Training (NST) programs \u2014 clinical training for foreign national physicians in advanced subspecialty areas for which no ACGME accreditation or ABMS Member Board certification is available. NST trainees hold J-1 visas sponsored by ECFMG through the Exchange Visitor Program of the U.S. Department of State."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "Key concepts"
     },
     {
       "type": "list",
       "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
+        "Institutional Recognition is distinct and separate from ACGME accreditation processes",
+        "Recognition is conferred by the Institutional Review Committee",
+        "Effective July 1, 2023, SIs must be recognized by ACGME to enroll NST trainees in NST programs",
+        "When the ACGME newly designates a specialty/subspecialty, SIs may enroll NST trainees in NST programs in that area for 3 years after Board approval and publication of Program Requirements",
+        "Otherwise, NST programs cannot be offered in areas where ACGME accreditation or ABMS member board certification is available",
+        "An SI must hold an institutional accreditation status of Initial Accreditation, Initial Accreditation with Warning, Continued Accreditation, or Continued Accreditation with Warning",
+        "The most-closely-related ACGME-accredited residency/fellowship program must hold Continued Accreditation or Continued Accreditation with Warning"
       ]
+    },
+    {
+      "type": "subheading",
+      "text": "Structure of the Recognition Requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Section I covers Sponsoring Institution responsibilities (SI accreditation status, the DIO's oversight role, the NST Program Director, GMEC oversight, and ADS participating-site limits). Section II covers the NST programs themselves (appointment/written agreement, curriculum, assessment including the 3-month initial competence assessment, supervision before Milestones documentation, semi-annual evaluation, summative evaluation, and the 80-hour/1-day-off work hour rules paralleling the CPR)."
     }
   ],
   "flashcards": [
     {
-      "id": "doc6-nst-recognition-fc-001",
-      "front": "Placeholder flashcard #1 for NST Recognition",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc6-fc-001",
+      "front": "What is a Non-Standard Training (NST) Program?",
+      "back": "Clinical training for foreign national physicians in advanced subspecialty programs for which there is NO ACGME accreditation or American Board of Medical Specialties (ABMS) Member Board certification available.",
       "citation": {
-        "source": "NST Recognition, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "NST Recognition, Definitions",
+        "page": 285,
+        "quote": "Non-Standard Training (NST) Program: Clinical training for foreign national physicians in advanced subspecialty programs for which there is no Accreditation Council for Graduate Medical Education (ACGME) accreditation or American Board of Medical Specialties (ABMS) Member Board certification."
       }
     },
     {
-      "id": "doc6-nst-recognition-fc-002",
-      "front": "Placeholder flashcard #2 for NST Recognition",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc6-fc-002",
+      "front": "What is an NST Trainee?",
+      "back": "A physician in an NST program who holds a J-1 visa sponsored by the Educational Commission for Foreign Medical Graduates (ECFMG).",
       "citation": {
-        "source": "NST Recognition, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "NST Recognition, Definitions",
+        "page": 285,
+        "quote": "NST Trainee: A physician in an NST program who holds a J-1 visa sponsored by the Educational Commission for Foreign Medical Graduates (ECFMG)."
       }
     },
     {
-      "id": "doc6-nst-recognition-fc-003",
-      "front": "Placeholder flashcard #3 for NST Recognition",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc6-fc-003",
+      "front": "How is Institutional Recognition for NST programs related to ACGME accreditation?",
+      "back": "Institutional Recognition is an ACGME process for approval of ACGME-accredited Sponsoring Institutions to conduct NST programs. It is DISTINCT and SEPARATE from ACGME accreditation processes.",
       "citation": {
-        "source": "NST Recognition, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "NST Recognition, Definitions",
+        "page": 285,
+        "quote": "Institutional Recognition: An ACGME process for approval of ACGME-accredited Sponsoring Institutions to conduct NST programs. Institutional Recognition is distinct and separate from ACGME accreditation processes."
+      }
+    },
+    {
+      "id": "doc6-fc-004",
+      "front": "Which Review/Recognition Committee provides recognition for SIs with NST programs?",
+      "back": "The Institutional Review Committee. Effective July 1, 2023, Sponsoring Institutions must be recognized by ACGME to enroll NST trainees in NST programs.",
+      "citation": {
+        "source": "ACGME Policies and Procedures, Section 21.40",
+        "page": 246,
+        "quote": "Recognition for Sponsoring Institutions is provided by the Institutional Review Committee. Effective July 1, 2023, Sponsoring Institutions must be recognized by ACGME to enroll NST trainees in NST programs."
+      }
+    },
+    {
+      "id": "doc6-fc-005",
+      "front": "What SI institutional accreditation status is required for the SI to offer NST programs?",
+      "back": "Initial Accreditation, Initial Accreditation with Warning, Continued Accreditation, or Continued Accreditation with Warning. (Probationary statuses are NOT included.)",
+      "citation": {
+        "source": "NST Recognition Requirements, Section I.A.1",
+        "page": 285,
+        "quote": "Each NST program must function under the ultimate authority and oversight of one ACGME-accredited Sponsoring Institution with an institutional accreditation status of Initial Accreditation, Initial Accreditation with Warning, Continued Accreditation, or Continued Accreditation with Warning. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-006",
+      "front": "What accreditation requirement applies to the \"most closely related\" ACGME-accredited program for each NST program?",
+      "back": "The SI must sponsor an ACGME-accredited residency/fellowship program in the most closely related specialty/subspecialty for each NST program, AND that most-closely-related program must maintain a status of Continued Accreditation or Continued Accreditation with Warning.",
+      "citation": {
+        "source": "NST Recognition Requirements, Sections I.A.3 and I.A.3.a",
+        "page": 285,
+        "quote": "I.A.3. The Sponsoring Institution must sponsor an ACGME-accredited residency/fellowship program in the most closely related specialty/subspecialty for each NST program. (Core) I.A.3.a) The most closely related ACGME-accredited residency/fellowship program must maintain a status of Continued Accreditation or Continued Accreditation with Warning. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-007",
+      "front": "When may an SI offer NST programs in an area for which ACGME accreditation has been newly designated?",
+      "back": "When the ACGME newly designates a specialty or subspecialty in which accreditation will be offered, SIs may enroll NST trainees in NST programs in that same area of clinical focus for a period of THREE YEARS after Board approval and publication of ACGME Program Requirements. After that, NST is prohibited where ACGME or ABMS certification is available.",
+      "citation": {
+        "source": "ACGME Policies and Procedures, Section 21.40",
+        "page": 246,
+        "quote": "When the ACGME newly designates a specialty or subspecialty in which accreditation will be offered, Sponsoring Institutions may enroll NST trainees in NST programs in the same area of clinical focus for a period of three years after Board approval and the publication of ACGME Program Requirements for the specialty or subspecialty. In all other circumstances, Sponsoring Institutions may not offer NST programs in areas of clinical focus for which ACGME specialty or subspecialty accreditation or American Board of Medical Specialties member board certification is available."
+      }
+    },
+    {
+      "id": "doc6-fc-008",
+      "front": "Who is responsible \u2014 in collaboration with the GMEC \u2014 for oversight and administration of each of the SI's NST programs?",
+      "back": "The DIO of the ACGME-accredited Sponsoring Institution. The DIO also oversees the preparation and submission of all information about NST programs required and requested by the ACGME.",
+      "citation": {
+        "source": "NST Recognition Requirements, Sections I.B.1 and I.B.2",
+        "page": 286,
+        "quote": "I.B.1. The DIO of the ACGME-accredited Sponsoring Institution, in collaboration with the Sponsoring Institution's Graduate Medical Education Committee (GMEC), must have authority and responsibility for the oversight and administration of each of the Sponsoring Institution's NST programs, as well as for ensuring compliance with the Recognition Requirements for Sponsoring Institutions with NST Programs. (Core) I.B.2. The DIO must oversee the preparation and submission of all information about the Sponsoring Institution's NST program(s) required and requested by the ACGME. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-009",
+      "front": "Who serves as the NST Program Director, and what are their responsibilities?",
+      "back": "There must be a SINGLE NST program director, drawn from among the physician faculty members of the most-closely-related ACGME-accredited residency/fellowship program. The NST PD is responsible for the operation of each NST program, and must oversee NST trainee supervision, education, and assessment at all participating sites.",
+      "citation": {
+        "source": "NST Recognition Requirements, Sections I.C.1 and I.C.2",
+        "page": 286,
+        "quote": "I.C.1. There must be a single NST program director, from among the physician faculty members of the most closely related ACGME-accredited residency/fellowship program, who is responsible for the operation of each NST program. (Core) I.C.2. The NST program director must oversee NST trainee supervision, education, and assessment at all participating sites. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-010",
+      "front": "What three GMEC responsibilities apply specifically to NST programs?",
+      "back": "(1) Review and approve the program description of each NST program (must specify any qualifications for appointment of the NST PD); (2) Review and approve the appointment of each NST PD; (3) At least annually, assess BOTH (a) the supervision and assessment of NST trainees AND (b) the impact of NST programs on the SI's ACGME-accredited programs.",
+      "citation": {
+        "source": "NST Recognition Requirements, Sections I.D.1\u2013I.D.3",
+        "page": 286,
+        "quote": "I.D.1. The GMEC must review and approve the program description of each NST program within the Sponsoring Institution. (Core) I.D.1.a) The program description must specify any qualifications for appointment of the NST program director. (Core) I.D.2. The GMEC must review and approve the appointment of each of its NST program directors. (Core) I.D.3. At least annually, the GMEC must complete and document an assessment of: I.D.3.a) supervision and assessment of NST trainees; and, (Core) I.D.3.b) the impact of NST programs on the Sponsoring Institution's ACGME-accredited programs. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-011",
+      "front": "Where may NST trainees' assignments/rotations be located?",
+      "back": "Only at the participating sites of the most-closely-related ACGME-accredited program, as identified by the Sponsoring Institution and listed in ADS.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section I.E.1",
+        "page": 286,
+        "quote": "I.E.1. NST trainees' assignments/rotations must be limited to the participating sites of the most closely related ACGME-accredited program, as identified by the Sponsoring Institution and listed in ADS. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-012",
+      "front": "What items must the NST trainee's written agreement of appointment directly contain or reference?",
+      "back": "(a) NST trainee responsibilities, including any requirements for successful completion of the NST program; (b) duration of training; (c) financial arrangements; (d) grievance and due process; (e) professional liability coverage with summary; (f) availability of health insurance for NST trainees and eligible dependents; (g) vacation and leave(s) of absence (medical, parental, caregiver) compliant with applicable laws.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.A.3",
+        "page": 287,
+        "quote": "II.A.3. The Sponsoring Institution must ensure that NST trainees are provided with a written agreement outlining the terms and conditions of their appointments. The agreement must directly contain or provide a reference to the following items: (Core) II.A.3.a) NST trainee responsibilities, including any requirements for successful completion of the NST program; (Core) II.A.3.b) duration of training; (Core) II.A.3.c) financial arrangements related to the NST trainee; (Core) II.A.3.d) grievance and due process; (Core) II.A.3.e) professional liability coverage, including a summary of pertinent information regarding coverage; (Core) II.A.3.f) the availability of health insurance benefits for NST trainees and their eligible dependents; and, (Core) II.A.3.g) vacation, and leave(s) of absence for NST trainee(s), including medical, parental, and caregiver leave(s) of absence, and compliant with applicable laws. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-013",
+      "front": "By when must the NST Program Director complete an initial competence assessment of each NST trainee, and what must it include?",
+      "back": "No later than 3 months from the NST trainee's starting date. The assessment must include an ACGME Milestones assessment from the most-closely-related ACGME-accredited specialty or subspecialty.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.1.a",
+        "page": 287,
+        "quote": "II.C.1.a) No later than three months from the NST trainee's starting date in the NST program, each NST program director must complete an initial competence assessment of each NST trainee in the NST program, including an ACGME Milestones assessment from the most closely related ACGME-accredited specialty or subspecialty. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-014",
+      "front": "What level of supervision is required for an NST trainee until the NST PD documents Milestones achievement sufficient for conditional independence?",
+      "back": "A supervising faculty member must be PHYSICALLY PRESENT to supervise the NST trainee with ALL patients until the NST PD has documented Milestones achievement as a sufficient basis for delegating progressive authority and responsibility and conditional independence.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.1.b",
+        "page": 287,
+        "quote": "II.C.1.b) A supervising faculty member must be physically present to supervise the NST trainee with all patients until the NST program director has documented the NST trainee's ACGME Milestones achievement as a sufficient basis for delegating progressive authority and responsibility and conditional independence, as assigned by the NST program director and faculty members. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-015",
+      "front": "What is the requirement for semi-annual evaluation of NST trainees?",
+      "back": "For each NST trainee appointed to an NST program for ONE YEAR OR LONGER, the NST PD (or the PD's designee) must meet with the NST trainee to review a semi-annual evaluation of the NST trainee's performance.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.1.c",
+        "page": 287,
+        "quote": "II.C.1.c) For each NST trainee appointed to an NST program for one year or longer, the NST program director or the NST program director's designee must meet with the NST trainee to review a semi-annual evaluation of the NST trainee's performance. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-016",
+      "front": "What summative assessment is required at the end of an NST trainee's program participation?",
+      "back": "Each NST program director must provide a summative evaluation for each NST trainee upon the NST trainee's completion of, or separation from, the NST program.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.2",
+        "page": 288,
+        "quote": "II.C.2. Summative Assessment. Each NST program director must provide a summative evaluation for each NST trainee upon the NST trainee's completion of, or separation from, the NST program. (Core)"
+      }
+    },
+    {
+      "id": "doc6-fc-017",
+      "front": "What clinical and educational work hour limits apply to NST trainees?",
+      "back": "Limited to no more than 80 hours per week, averaged over a 4-week period, inclusive of all in-house clinical and educational activities and clinical responsibilities completed at home. NST trainees must be scheduled for a minimum of 1 day in 7 free of required clinical and educational responsibilities (when averaged over 4 weeks). At-home clinical responsibilities cannot be assigned on these free days.",
+      "citation": {
+        "source": "NST Recognition Requirements, Sections II.C.4 and II.C.5",
+        "page": 288,
+        "quote": "II.C.4. Clinical and Educational Hours of NST Trainees. Clinical and educational hours of NST trainees must be limited to no more than 80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, and clinical responsibilities completed at home. (Core) II.C.5. Mandatory Time Free of Clinical and Educational Activities. NST trainees must be scheduled for a minimum of one day in seven free of required clinical and educational responsibilities (when averaged over four weeks). At-home clinical responsibilities cannot be assigned on these free days."
+      }
+    },
+    {
+      "id": "doc6-fc-018",
+      "front": "What must the SI ensure regarding resources, and what learning environment must NST trainees be provided?",
+      "back": "The SI must ensure the availability of adequate personnel, clinical activities, and other resources for conducting NST programs WITHOUT adverse impact on the education of residents/fellows in the SI's ACGME-accredited programs. The SI and each of its NST programs must also provide a learning and working environment in which NST trainees can raise concerns and provide feedback WITHOUT fear of intimidation or retaliation, and in a confidential manner as appropriate.",
+      "citation": {
+        "source": "NST Recognition Requirements, Sections I.A.2 and II.C.3",
+        "page": 285,
+        "quote": "I.A.2. The Sponsoring Institution must ensure the availability of adequate personnel, clinical activities, and other resources for conducting NST programs without adverse impact on the education of residents/fellows in the Sponsoring Institution's ACGME-accredited programs. (Core) II.C.3. Opportunity to Raise Concerns and Provide Feedback. The Sponsoring Institution and each of its NST programs must provide a learning and working environment in which NST trainees have the opportunity to raise concerns and provide feedback without fear of intimidation or retaliation and in a confidential manner as appropriate. (Core)"
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc6-nst-recognition-mc-001",
-      "stem": "Placeholder question #1 for NST Recognition: which of the following is the correct answer in this test stub?",
+      "id": "doc6-mc-001",
+      "stem": "What is a Non-Standard Training (NST) program?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
-      ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
-      "citation": {
-        "source": "NST Recognition, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
-      }
-    },
-    {
-      "id": "doc6-nst-recognition-mc-002",
-      "stem": "Placeholder question #2 for NST Recognition: which option is correct here?",
-      "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "A residency program that lasts more than 5 years",
+        "Clinical training for foreign national physicians in advanced subspecialty programs for which there is no ACGME accreditation or ABMS Member Board certification",
+        "Any ACGME-accredited fellowship in a rare specialty",
+        "A program of clinical scholarship outside the ACGME framework"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "Per the Definitions section, an NST program is clinical training for foreign national physicians in advanced subspecialty programs for which there is no ACGME accreditation or ABMS Member Board certification.",
       "citation": {
-        "source": "NST Recognition, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "NST Recognition, Definitions",
+        "page": 285,
+        "quote": "Non-Standard Training (NST) Program: Clinical training for foreign national physicians in advanced subspecialty programs for which there is no Accreditation Council for Graduate Medical Education (ACGME) accreditation or American Board of Medical Specialties (ABMS) Member Board certification."
       }
     },
     {
-      "id": "doc6-nst-recognition-mc-003",
-      "stem": "Placeholder question #3 for NST Recognition: test the review queue by intentionally answering this wrong.",
+      "id": "doc6-mc-002",
+      "stem": "An NST Trainee is defined as:",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "A U.S. medical graduate enrolled in a fellowship",
+        "A physician on a J-1 visa sponsored by ECFMG, enrolled in an NST program",
+        "A pre-medical student in a clinical observership",
+        "A resident on academic leave"
       ],
-      "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "correctIndex": 1,
+      "explanation": "Per the Definitions, an NST Trainee is a physician in an NST program who holds a J-1 visa sponsored by ECFMG.",
       "citation": {
-        "source": "NST Recognition, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "NST Recognition, Definitions",
+        "page": 285,
+        "quote": "NST Trainee: A physician in an NST program who holds a J-1 visa sponsored by the Educational Commission for Foreign Medical Graduates (ECFMG)."
+      }
+    },
+    {
+      "id": "doc6-mc-003",
+      "stem": "Which ACGME committee provides Institutional Recognition for SIs with NST programs?",
+      "options": [
+        "The Osteopathic Recognition Committee",
+        "The Institutional Review Committee",
+        "The relevant specialty Review Committee for the most-closely-related program",
+        "The CLER Evaluation Committee"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 21.40, Recognition for Sponsoring Institutions with NST programs is provided by the Institutional Review Committee.",
+      "citation": {
+        "source": "ACGME Policies and Procedures, Section 21.40",
+        "page": 246,
+        "quote": "Recognition for Sponsoring Institutions is provided by the Institutional Review Committee. Effective July 1, 2023, Sponsoring Institutions must be recognized by ACGME to enroll NST trainees in NST programs."
+      }
+    },
+    {
+      "id": "doc6-mc-004",
+      "stem": "An SI is on Probationary Accreditation. May it offer NST programs?",
+      "options": [
+        "Yes \u2014 any ACGME-accredited SI may offer NST programs",
+        "No \u2014 the SI must hold Initial Accreditation, Initial Accreditation with Warning, Continued Accreditation, or Continued Accreditation with Warning to offer NST programs",
+        "Yes, but only for one year",
+        "Yes, but only with ABMS approval"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section I.A.1, the SI must hold an institutional accreditation status of Initial Accreditation, Initial Accreditation with Warning, Continued Accreditation, or Continued Accreditation with Warning. Probationary statuses do not qualify.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section I.A.1",
+        "page": 285,
+        "quote": "Each NST program must function under the ultimate authority and oversight of one ACGME-accredited Sponsoring Institution with an institutional accreditation status of Initial Accreditation, Initial Accreditation with Warning, Continued Accreditation, or Continued Accreditation with Warning. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-005",
+      "stem": "What must the most-closely-related ACGME-accredited residency/fellowship program hold (in terms of accreditation status) for the SI to offer an NST program in that area?",
+      "options": [
+        "Any ACGME accreditation status, including Probationary",
+        "Continued Accreditation or Continued Accreditation with Warning",
+        "Initial Accreditation only",
+        "ABMS certification only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section I.A.3.a, the most-closely-related ACGME-accredited residency/fellowship program must maintain a status of Continued Accreditation or Continued Accreditation with Warning.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section I.A.3.a",
+        "page": 285,
+        "quote": "I.A.3.a) The most closely related ACGME-accredited residency/fellowship program must maintain a status of Continued Accreditation or Continued Accreditation with Warning. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-006",
+      "stem": "When the ACGME newly designates a specialty or subspecialty in which accreditation will be offered, for how long may SIs continue to enroll NST trainees in NST programs in that same area of clinical focus?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years after Board approval and publication of ACGME Program Requirements",
+        "Indefinitely"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 21.40, when ACGME newly designates a specialty/subspecialty, SIs may continue to enroll NST trainees in NST programs in the same area for 3 years after Board approval and publication of ACGME Program Requirements.",
+      "citation": {
+        "source": "ACGME Policies and Procedures, Section 21.40",
+        "page": 246,
+        "quote": "When the ACGME newly designates a specialty or subspecialty in which accreditation will be offered, Sponsoring Institutions may enroll NST trainees in NST programs in the same area of clinical focus for a period of three years after Board approval and the publication of ACGME Program Requirements for the specialty or subspecialty."
+      }
+    },
+    {
+      "id": "doc6-mc-007",
+      "stem": "Who must serve as the NST program director?",
+      "options": [
+        "The DIO",
+        "Any physician faculty member at the SI",
+        "A single physician faculty member from among the most-closely-related ACGME-accredited residency/fellowship program",
+        "Any board-certified physician approved by ECFMG"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section I.C.1, there must be a single NST program director drawn from among the physician faculty members of the most-closely-related ACGME-accredited residency/fellowship program.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section I.C.1",
+        "page": 286,
+        "quote": "There must be a single NST program director, from among the physician faculty members of the most closely related ACGME-accredited residency/fellowship program, who is responsible for the operation of each NST program. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-008",
+      "stem": "Which of the following is a GMEC oversight responsibility specific to NST programs?",
+      "options": [
+        "Setting the salary of NST trainees",
+        "Reviewing and approving the program description AND the appointment of each NST PD, AND at least annually assessing supervision/assessment of NST trainees and the impact of NST programs on the SI's ACGME-accredited programs",
+        "Directly observing NST trainees in patient care",
+        "Managing the J-1 visa application"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Sections I.D.1\u2013I.D.3, GMEC responsibilities include reviewing/approving the program description and the NST PD appointment, and at least annually assessing (a) supervision/assessment of NST trainees and (b) the impact of NST programs on the SI's ACGME-accredited programs.",
+      "citation": {
+        "source": "NST Recognition Requirements, Sections I.D.1\u2013I.D.3",
+        "page": 286,
+        "quote": "I.D.1. The GMEC must review and approve the program description of each NST program within the Sponsoring Institution. (Core) I.D.2. The GMEC must review and approve the appointment of each of its NST program directors. (Core) I.D.3. At least annually, the GMEC must complete and document an assessment of: I.D.3.a) supervision and assessment of NST trainees; and, (Core) I.D.3.b) the impact of NST programs on the Sponsoring Institution's ACGME-accredited programs. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-009",
+      "stem": "Where may an NST trainee's clinical assignments and rotations be conducted?",
+      "options": [
+        "At any hospital in the United States",
+        "Only at the participating sites of the most-closely-related ACGME-accredited program, as identified by the SI and listed in ADS",
+        "Only at the SI's primary clinical site",
+        "At any J-1-eligible institution"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section I.E.1, NST trainees' assignments/rotations must be limited to the participating sites of the most-closely-related ACGME-accredited program, as identified by the SI and listed in ADS.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section I.E.1",
+        "page": 286,
+        "quote": "I.E.1. NST trainees' assignments/rotations must be limited to the participating sites of the most closely related ACGME-accredited program, as identified by the Sponsoring Institution and listed in ADS. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-010",
+      "stem": "By when must the NST program director complete the initial competence assessment of each NST trainee, and what specifically must it include?",
+      "options": [
+        "Within 6 weeks; no specific assessment tool required",
+        "Within 12 weeks (no later than 3 months) from the NST trainee's starting date; must include an ACGME Milestones assessment from the most-closely-related ACGME-accredited specialty or subspecialty",
+        "Within 6 months; only a narrative evaluation is required",
+        "Within 12 months; only at annual review"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section II.C.1.a, the initial competence assessment must be completed no later than 3 months from the NST trainee's starting date and must include an ACGME Milestones assessment from the most-closely-related ACGME-accredited specialty or subspecialty.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.1.a",
+        "page": 287,
+        "quote": "II.C.1.a) No later than three months from the NST trainee's starting date in the NST program, each NST program director must complete an initial competence assessment of each NST trainee in the NST program, including an ACGME Milestones assessment from the most closely related ACGME-accredited specialty or subspecialty. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-011",
+      "stem": "What level of supervision is required for NST trainees before the NST PD has documented sufficient Milestones achievement?",
+      "options": [
+        "Indirect supervision is acceptable from day one",
+        "A supervising faculty member must be PHYSICALLY PRESENT with the NST trainee for all patient encounters until the NST PD has documented Milestones achievement sufficient for delegating progressive authority and conditional independence",
+        "Oversight (retrospective) is acceptable",
+        "Telephone-only supervision is permitted"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section II.C.1.b, a supervising faculty member must be physically present to supervise the NST trainee with ALL patients until the NST PD has documented the NST trainee's ACGME Milestones achievement as a sufficient basis for delegating progressive authority, responsibility, and conditional independence.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.1.b",
+        "page": 287,
+        "quote": "II.C.1.b) A supervising faculty member must be physically present to supervise the NST trainee with all patients until the NST program director has documented the NST trainee's ACGME Milestones achievement as a sufficient basis for delegating progressive authority and responsibility and conditional independence, as assigned by the NST program director and faculty members. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-012",
+      "stem": "When must the NST PD (or designee) review semi-annual evaluations with NST trainees?",
+      "options": [
+        "Only for NST trainees appointed for less than 6 months",
+        "For each NST trainee appointed for ONE YEAR OR LONGER",
+        "Only at the start of the program",
+        "Semi-annual evaluations are not required for NST programs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section II.C.1.c, for each NST trainee appointed to an NST program for one year or longer, the NST PD or PD's designee must meet with the NST trainee to review a semi-annual evaluation of performance.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.1.c",
+        "page": 287,
+        "quote": "II.C.1.c) For each NST trainee appointed to an NST program for one year or longer, the NST program director or the NST program director's designee must meet with the NST trainee to review a semi-annual evaluation of the NST trainee's performance. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-013",
+      "stem": "What clinical and educational hour limit applies to NST trainees?",
+      "options": [
+        "No more than 60 hours per week",
+        "No more than 80 hours per week, averaged over a 4-week period, inclusive of all in-house and at-home clinical activities",
+        "No more than 88 hours per week",
+        "No clinical hour limit applies because they are not ACGME residents/fellows"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section II.C.4, NST trainees' clinical and educational hours must be limited to no more than 80 hours per week, averaged over a 4-week period, inclusive of all in-house clinical and educational activities and clinical responsibilities completed at home.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.C.4",
+        "page": 288,
+        "quote": "II.C.4. Clinical and Educational Hours of NST Trainees. Clinical and educational hours of NST trainees must be limited to no more than 80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, and clinical responsibilities completed at home. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-014",
+      "stem": "Which of the following items must be directly contained in or referenced by the NST trainee's written agreement of appointment?",
+      "options": [
+        "Only NST trainee responsibilities and duration",
+        "NST trainee responsibilities (incl. completion requirements); duration of training; financial arrangements; grievance and due process; professional liability coverage summary; availability of health insurance for trainees and eligible dependents; vacation and leaves of absence (medical, parental, caregiver) compliant with applicable laws",
+        "Only the J-1 visa sponsorship documentation",
+        "Only the institutional GME policies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section II.A.3, the NST written agreement must directly contain or reference seven items: trainee responsibilities (including completion requirements), duration of training, financial arrangements, grievance/due process, professional liability coverage summary, availability of health insurance for trainees and eligible dependents, and vacation/leaves of absence (medical, parental, caregiver) compliant with applicable laws.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section II.A.3",
+        "page": 287,
+        "quote": "II.A.3. The Sponsoring Institution must ensure that NST trainees are provided with a written agreement outlining the terms and conditions of their appointments. The agreement must directly contain or provide a reference to the following items: (Core) II.A.3.a) NST trainee responsibilities, including any requirements for successful completion of the NST program; (Core) II.A.3.b) duration of training; (Core) II.A.3.c) financial arrangements related to the NST trainee; (Core) II.A.3.d) grievance and due process; (Core) II.A.3.e) professional liability coverage, including a summary of pertinent information regarding coverage; (Core) II.A.3.f) the availability of health insurance benefits for NST trainees and their eligible dependents; and, (Core) II.A.3.g) vacation, and leave(s) of absence for NST trainee(s), including medical, parental, and caregiver leave(s) of absence, and compliant with applicable laws. (Core)"
+      }
+    },
+    {
+      "id": "doc6-mc-015",
+      "stem": "Per Section I.A.2, what must the SI ensure regarding resources for NST programs?",
+      "options": [
+        "Resources need not be considered as long as the SI is recognized",
+        "The SI must ensure the availability of adequate personnel, clinical activities, and other resources for conducting NST programs WITHOUT adverse impact on the education of residents/fellows in the SI's ACGME-accredited programs",
+        "Only patient volume must be considered",
+        "Only physical space requirements apply"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section I.A.2, the SI must ensure the availability of adequate personnel, clinical activities, and other resources for conducting NST programs without adverse impact on the education of residents/fellows in the SI's ACGME-accredited programs.",
+      "citation": {
+        "source": "NST Recognition Requirements, Section I.A.2",
+        "page": 285,
+        "quote": "I.A.2. The Sponsoring Institution must ensure the availability of adequate personnel, clinical activities, and other resources for conducting NST programs without adverse impact on the education of residents/fellows in the Sponsoring Institution's ACGME-accredited programs. (Core)"
       }
     }
   ]

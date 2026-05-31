@@ -2,112 +2,1189 @@
   "id": "doc5-policies",
   "title": "ACGME Policies and Procedures",
   "shortTitle": "Policies & Procedures",
-  "documentRef": "Placeholder content for Policies & Procedures",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "documentRef": "TAGME Study Guide pages 122\u2013284",
+  "description": "The ACGME Policies and Procedures define the structure and function of the ACGME, the accreditation and recognition processes, accreditation/recognition status options, appeals, the CLER program, work hour exceptions, complaint and ombudsperson procedures, and AIRE.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers ACGME Policies and Procedures. Browse content will be populated when real content is generated."
+      "text": "This is the largest document in the study guide (163 pages), governing how the ACGME operates and how it accredits and recognizes Sponsoring Institutions and programs. Effective date: February 2, 2025."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "ACGME Structure (Sections 1\u201310)"
     },
     {
-      "type": "list",
-      "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
-      ]
+      "type": "paragraph",
+      "text": "Defines the ACGME mission, scope, vision, and values; identifies its seven Member Organizations (ABMS, AHA, AMA, AAMC, CMSS, AOA, AACOM); describes the ACGME Board of Directors, Executive Committee, the Review Committees (accreditation), the Recognition Committees, the Council of Review Committee Chairs, and the Council of Public Members."
+    },
+    {
+      "type": "subheading",
+      "text": "Accreditation Process and Site Visits (Sections 17\u201318)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Covers the CLER program with six Focus Areas (Patient Safety, Quality Improvement, Teaming, Supervision, Well-Being, Professionalism); accreditation site visits performed by ACGME-employed Accreditation Field Representatives; and the accreditation application process."
+    },
+    {
+      "type": "subheading",
+      "text": "Accreditation Statuses (Section 19)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defines all accreditation and administrative status options. Specifies which are adverse and appealable, and the procedures for each. Withdrawal options include Voluntary Withdrawal (DIO + GMEC approval), Administrative Withdrawal (7 trigger reasons, non-appealable), and Withdrawal of Accreditation/Expedited Withdrawal (site visit required, appealable)."
+    },
+    {
+      "type": "subheading",
+      "text": "Recognition (Section 22)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parallel structure for recognition decisions (e.g., Osteopathic Recognition): Initial Recognition through Withdrawal of Recognition."
+    },
+    {
+      "type": "subheading",
+      "text": "Special Procedures (Sections 24\u201328)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alleged Egregious Events (Section 24); Extraordinary Circumstances (Section 25 \u2014 disasters, pandemics); Rotation-Specific Work Hour Exceptions (Section 26 \u2014 up to 10%/88 hours, GMEC endorsement and DIO signature); Complaints and the Office of the Ombudsperson (Section 27); and AIRE \u2014 Advancing Innovation in Residency Education (Section 28)."
     }
   ],
   "flashcards": [
     {
-      "id": "doc5-policies-fc-001",
-      "front": "Placeholder flashcard #1 for Policies & Procedures",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc5-fc-001",
+      "front": "What is the ACGME's mission?",
+      "back": "To improve health care and population health by assessing and enhancing the quality of resident and fellow physicians' education through advancements in accreditation and education.",
       "citation": {
-        "source": "Policies & Procedures, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "Policies and Procedures, Section 1.10",
+        "page": 129,
+        "quote": "Its mission is to improve health care and population health by assessing and enhancing the quality of resident and fellow physicians' education through advancements in accreditation and education."
       }
     },
     {
-      "id": "doc5-policies-fc-002",
-      "front": "Placeholder flashcard #2 for Policies & Procedures",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc5-fc-002",
+      "front": "Name the seven ACGME Member Organizations.",
+      "back": "(1) ABMS \u2014 American Board of Medical Specialties; (2) AHA \u2014 American Hospital Association; (3) AMA \u2014 American Medical Association; (4) AAMC \u2014 Association of American Medical Colleges; (5) CMSS \u2014 Council of Medical Specialty Societies; (6) AOA \u2014 American Osteopathic Association; (7) AACOM \u2014 American Association of Colleges of Osteopathic Medicine.",
       "citation": {
-        "source": "Policies & Procedures, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "Policies and Procedures, Section 1.10",
+        "page": 130,
+        "quote": "The ACGME has seven Member Organizations: \u2022 American Board of Medical Specialties (ABMS) \u2022 American Hospital Association (AHA) \u2022 American Medical Association (AMA) \u2022 Association of American Medical Colleges (AAMC) \u2022 Council of Medical Specialty Societies (CMSS) \u2022 American Osteopathic Association (AOA) \u2022 American Association of Colleges of Osteopathic Medicine (AACOM)"
       }
     },
     {
-      "id": "doc5-policies-fc-003",
-      "front": "Placeholder flashcard #3 for Policies & Procedures",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc5-fc-003",
+      "front": "How is the ACGME Board of Directors composed?",
+      "back": "Each Member Organization nominates 4 individuals (2 per directorship; Board elects). Plus 3 public directors, up to 4 at-large directors, 3 resident or fellow directors, and the Chairs of the Council of Review Committee Chairs and Council of Public Members. Two federal government representatives may attend without vote.",
       "citation": {
-        "source": "Policies & Procedures, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "Policies and Procedures, Section 1.10",
+        "page": 130,
+        "quote": "Each Member Organization nominates four individuals to the ACGME Board of Directors (ACGME Board). Each Member Organization nominates two individuals per directorship, and the ACGME Board elects the directors. In addition, the ACGME Board includes three public directors, up to four at-large directors, three resident or fellow directors), and the Chair(s) of the ACGME Council of Review Committee Chairs and Council of Public Members. Two representatives of the federal government may, without vote, attend meetings of the ACGME Board."
+      }
+    },
+    {
+      "id": "doc5-fc-004",
+      "front": "List the eight ACGME Values (Section 1.30).",
+      "back": "Honesty and Integrity; Accountability and Transparency; Equity and Fairness; Diversity, Equity, and Inclusion; Excellence and Innovation; Stewardship and Service; Leadership and Collaboration; Engagement of Stakeholders.",
+      "citation": {
+        "source": "Policies and Procedures, Section 1.30",
+        "page": 131,
+        "quote": "We accomplish our Mission guided by our commitment to the Public Trust and the ACGME values of: \u2022 Honesty and Integrity \u2022 Accountability and Transparency \u2022 Equity and Fairness \u2022 Diversity, Equity, and Inclusion \u2022 Excellence and Innovation \u2022 Stewardship and Service \u2022 Leadership and Collaboration \u2022 Engagement of Stakeholders"
+      }
+    },
+    {
+      "id": "doc5-fc-005",
+      "front": "What is the twofold purpose of accreditation by the ACGME?",
+      "back": "(a) Establish/maintain accreditation standards that promote the educational quality of residency and fellowship programs; and (b) promote education that is sensitive to the quality and safety of patient care in an environment that fosters the well-being, learning, and professionalism of residents/fellows. Notably, it is NOT the ACGME's intent or purpose to establish numbers of physicians in any specialty.",
+      "citation": {
+        "source": "Policies and Procedures, Section 2.00",
+        "page": 132,
+        "quote": "The ACGME has a twofold purpose: a. to establish and maintain accreditation standards that promote the educational quality of residency and fellowship programs; and, b. to promote residency/fellowship education that is sensitive to the quality and safety of patient care in an environment that fosters the well-being, learning, and professionalism of residents and fellows. It is not the intent or purpose of the ACGME to establish numbers of physicians in any specialty."
+      }
+    },
+    {
+      "id": "doc5-fc-006",
+      "front": "Under whose delegated authority do Review Committees and Recognition Committees act, and what is their respective scope?",
+      "back": "Under the delegated authority of the ACGME Board, accreditation of SIs and GME programs is carried out by the Review Committees, and recognition of SIs and programs is carried out by the Recognition Committees. Both are subject to appeal of adverse actions to the ACGME Board.",
+      "citation": {
+        "source": "Policies and Procedures, Section 1.10",
+        "page": 130,
+        "quote": "Under the delegated authority of the ACGME Board, accreditation of Sponsoring Institutions and GME programs is carried out by the Review Committees and recognition of Sponsoring Institutions and programs is carried out by the Recognition Committees, both subject to appeal of adverse actions to the ACGME Board."
+      }
+    },
+    {
+      "id": "doc5-fc-007",
+      "front": "What is the CLER Program and what are its six Focus Areas?",
+      "back": "The Clinical Learning Environment Review (CLER) Program consists of regular site visits to clinical sites of SIs to assess GME engagement. Six Focus Areas: (a) Patient Safety; (b) Quality Improvement; (c) Teaming; (d) Supervision; (e) Well-Being; (f) Professionalism.",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.20",
+        "page": 204,
+        "quote": "The CLER Program assesses Sponsoring Institutions in the following six CLER Focus Areas: a. Patient Safety\u2026 b. Quality Improvement\u2026 c. Teaming\u2026 d. Supervision\u2026 e. Well-Being\u2026 f. Professionalism\u2026"
+      }
+    },
+    {
+      "id": "doc5-fc-008",
+      "front": "How much advance notice does the ACGME provide before a CLER site visit?",
+      "back": "No less than 10 days prior to the visit. The ACGME notifies the SI's DIO of the CLER site visit team's arrival date and expected length of visit.",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.30",
+        "page": 205,
+        "quote": "The ACGME shall notify the Sponsoring Institution's designated institutional official of the CLER site visit team's arrival date and expected length of visit no less than 10 days prior to the visit."
+      }
+    },
+    {
+      "id": "doc5-fc-009",
+      "front": "Do CLER Program findings result in an adverse accreditation action?",
+      "back": "No. CLER Program findings shall NOT result in an adverse accreditation action. However, if the CLER site visit team identifies potential egregious violations of accreditation requirements, the ACGME will follow its policy for investigating egregious violations (Policy 24.00).",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.40",
+        "page": 206,
+        "quote": "CLER Program findings shall not result in an adverse accreditation action. If the CLER site visit team identifies potential egregious violations of accreditation requirements, the ACGME will follow its policy and process for investigating egregious violations (Policy 24.00)."
+      }
+    },
+    {
+      "id": "doc5-fc-010",
+      "front": "What happens if a Sponsoring Institution fails to undergo a CLER site visit?",
+      "back": "The ACGME administration may recommend to the ACGME Board that the SI be placed on Administrative Probationary Accreditation for no less than 18 months and no more than 24 months. This status may NOT be appealed. While on it, the SI may not apply for accreditation of new programs or request a permanent complement increase for any accredited program.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 17.60 and 19.80",
+        "page": 208,
+        "quote": "If a Sponsoring Institution fails to undergo a CLER site visit, the administration of the ACGME may recommend to the ACGME Board that it place that Sponsoring Institution on Administrative Probationary Accreditation (Policy 19.80) for no less than 18 months and no more than 24 months. A status of Administrative Probationary Accreditation may not be appealed. If a status of Administrative Probation is conferred, the Sponsoring Institution may not: a. apply for accreditation of new programs; or, b. request a permanent increase in resident/fellow complement for any accredited program."
+      }
+    },
+    {
+      "id": "doc5-fc-011",
+      "front": "Who serves as a member and Co-Chair of the CLER Evaluation Committee, and how is the other Co-Chair selected?",
+      "back": "The ACGME Chief Sponsoring Institutions and Clinical Learning Environment Officer serves as a member and Co-Chair. The other Co-Chair is elected by the members of the CLER Evaluation Committee.",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.52",
+        "page": 207,
+        "quote": "The ACGME Chief Sponsoring Institutions and Clinical Learning Environment Officer shall serve as a member and Co-Chair of the CLER Evaluation Committee. The other Co-Chair shall be elected by the members of the CLER Evaluation Committee."
+      }
+    },
+    {
+      "id": "doc5-fc-012",
+      "front": "Who performs ACGME accreditation site visits for Sponsoring Institutions and programs?",
+      "back": "Accreditation Field Representatives employed by the ACGME. Visits may be conducted by an individual representative, a team of Field Representatives, or \u2014 in certain circumstances \u2014 a team that includes peer representatives.",
+      "citation": {
+        "source": "Policies and Procedures, Section 18.20",
+        "page": 211,
+        "quote": "All accreditation site visits for Sponsoring Institutions and programs are performed by Accreditation Field Representatives who are employed by the ACGME. Accreditation site visits are conducted by individual Accreditation Field Representatives, or by a team made up of Accreditation Field Representatives. In certain circumstances, the site visit team may include peer representatives."
+      }
+    },
+    {
+      "id": "doc5-fc-013",
+      "front": "List the accreditation and administrative status options that may be conferred on Sponsoring Institutions and programs.",
+      "back": "Accreditation Withheld; Initial Accreditation; Initial Accreditation with Warning; Continued Accreditation without Outcomes; Continued Accreditation; Continued Accreditation with Warning; Probationary Accreditation; Administrative Probationary Accreditation; Withdrawal of Accreditation; Expedited Withdrawal of Accreditation; Voluntary Withdrawal of Accreditation; Administrative Withdrawal of Accreditation; Administrative Withdrawal due to withdrawal of sponsoring program's accreditation.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.00.a",
+        "page": 213,
+        "quote": "The following accreditation and administrative status options may be conferred on Sponsoring Institutions and programs: \u2022 Accreditation Withheld \u2022 Initial Accreditation \u2022 Initial Accreditation with Warning \u2022 Continued Accreditation without Outcomes \u2022 Continued Accreditation \u2022 Continued Accreditation with Warning \u2022 Probationary Accreditation \u2022 Administrative Probationary Accreditation \u2022 Withdrawal of Accreditation \u2022 Expedited Withdrawal of Accreditation \u2022 Voluntary Withdrawal of Accreditation \u2022 Administrative Withdrawal of Accreditation \u2022 Administrative Withdrawal due to withdrawal of sponsoring program's accreditation"
+      }
+    },
+    {
+      "id": "doc5-fc-014",
+      "front": "Which adverse accreditation statuses may be appealed?",
+      "back": "Accreditation Withheld; Probationary Accreditation; Withdrawal of Accreditation; Expedited Withdrawal of Accreditation; Reduction in Resident Complement. SIs and programs may NOT appeal other accreditation decisions or actions such as citations and warnings.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 19.00.b and 19.00.c",
+        "page": 213,
+        "quote": "The following adverse accreditation statuses may be appealed: \u2022 Accreditation Withheld \u2022 Probationary Accreditation \u2022 Withdrawal of Accreditation \u2022 Expedited Withdrawal of Accreditation \u2022 Reduction in Resident Complement c. Sponsoring Institutions and programs may not appeal other accreditation status decisions or actions (e.g., citations, warnings)."
+      }
+    },
+    {
+      "id": "doc5-fc-015",
+      "front": "Who receives a Letter of Notification (LoN) after a Review Committee action?",
+      "back": "For an SI: the LoN is sent to the DIO. For a program: the LoN is sent to the program director with a copy to the DIO.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.00.d",
+        "page": 213,
+        "quote": "Following review of a Sponsoring Institution, a Letter of Notification including the action(s) of the Review Committee shall be sent to the designated institutional official (DIO). Following review of a program, the program director will likewise receive a Letter of Notification, with a copy sent to the DIO."
+      }
+    },
+    {
+      "id": "doc5-fc-016",
+      "front": "What is \"Accreditation Withheld\"?",
+      "back": "When a Review Committee determines that a NEW SI or program application has not demonstrated substantial compliance with applicable requirements. It is an adverse accreditation decision and is subject to appeal.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.10",
+        "page": 214,
+        "quote": "Accreditation shall be withheld when a Review Committee determines that an application for a new Sponsoring Institution or program has not demonstrated substantial compliance with the applicable requirements. Accreditation Withheld is an adverse accreditation decision and is subject to appeal."
+      }
+    },
+    {
+      "id": "doc5-fc-017",
+      "front": "How often are SIs and programs with Continued Accreditation reviewed?",
+      "back": "Annually. In rare circumstances, the Review Committee may defer the review of an SI or program in a given academic year. Accreditation site visits may be scheduled at the discretion of the Review Committee. An SI 10-Year Accreditation Site Visit and review is conducted approximately every 10 years in addition to the annual review.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.51.a",
+        "page": 223,
+        "quote": "Sponsoring Institutions and programs shall be reviewed annually. In rare circumstances, the Review Committee may defer the review of a Sponsoring Institution or program in a given academic year. Sponsoring Institution and program accreditation site visits may be scheduled at the discretion of the Review Committee. In addition to the annual review, a Sponsoring Institution 10 Year Accreditation Site Visit and review will be conducted approximately every 10 years."
+      }
+    },
+    {
+      "id": "doc5-fc-018",
+      "front": "What restrictions apply to programs and Sponsoring Institutions on Probationary Accreditation?",
+      "back": "Programs on Probationary Accreditation may NOT request a permanent complement increase OR an exception to the 80-hour weekly work hour limit. SIs on Probationary Accreditation may NOT apply for or be granted accreditation of new programs. All applicants invited to interview and residents/fellows accepted/enrolled in a Probationary program (or in a program sponsored by an SI on Probationary Accreditation) must be notified IN WRITING of the probationary status.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.70",
+        "page": 227,
+        "quote": "Sponsoring Institutions with a status of Probationary Accreditation may not apply for or be granted accreditation of new programs. Programs with a status of Probationary Accreditation may not request a permanent increase in resident/fellow complement or an exception to the requirement addressing the 80-hour weekly limit on clinical work and education hours. All applicants invited to interview, and residents/fellows accepted into or enrolled in a program with or sponsored by a Sponsoring Institution with Probationary Accreditation must be notified in writing of the probationary status."
+      }
+    },
+    {
+      "id": "doc5-fc-019",
+      "front": "What is the maximum duration of Probationary Accreditation?",
+      "back": "Probationary status shall not exceed two consecutive annual reviews. After that, the SI or program must achieve Continued Accreditation or Continued Accreditation with Warning, or accreditation will be withdrawn. A site visit is conducted ANNUALLY while on Probationary Accreditation.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 19.70 and 19.71.a",
+        "page": 227,
+        "quote": "Probationary status of a Sponsoring Institution or program shall not exceed two consecutive annual reviews, at which point the Sponsoring Institution or program must achieve a status of either Continued Accreditation or Continued Accreditation with Warning, or its accreditation will be withdrawn. A site visit shall be conducted annually for a Sponsoring Institution or program with a status of Probationary Accreditation."
+      }
+    },
+    {
+      "id": "doc5-fc-020",
+      "front": "Is Administrative Probationary Accreditation appealable?",
+      "back": "No. A status of Administrative Probationary Accreditation may not be appealed. It is imposed (for 18\u201324 months) when an SI fails to undergo a CLER site visit.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.80",
+        "page": 231,
+        "quote": "If a Sponsoring Institution fails to undergo a CLER site visit, the administration of the ACGME may recommend to the ACGME Board that it place that Sponsoring Institution on Administrative Probationary Accreditation for no less than 18 months and no more than 24 months (Policy 17.60). A status of Administrative Probationary Accreditation may not be appealed."
+      }
+    },
+    {
+      "id": "doc5-fc-021",
+      "front": "What is required for a Sponsoring Institution to request Voluntary Withdrawal of Accreditation?",
+      "back": "Submitted through ADS by the DIO with approval by the GMEC. Must include the effective date of withdrawal AND a detailed plan for placement of all programs' current or accepted residents/fellows into other ACGME-accredited programs.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.201.a",
+        "page": 235,
+        "quote": "Requests for Voluntary Withdrawal of Accreditation of a Sponsoring Institution must: 1. be submitted through the Accreditation Data System (ADS) by the designated institutional official (DIO) with approval by the Graduate Medical Education Committee (GMEC); and, 2. include the effective date of withdrawal and a detailed plan for placement of all programs' current or accepted residents/fellows into other ACGME-accredited programs."
+      }
+    },
+    {
+      "id": "doc5-fc-022",
+      "front": "After requesting Voluntary Withdrawal of Accreditation, what restrictions apply?",
+      "back": "An SI or program that has requested Voluntary Withdrawal may NOT accept new residents/fellows AND may NOT request reversal of the action after submitting the request (regardless of the proposed effective date).",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.201.c",
+        "page": 235,
+        "quote": "A Sponsoring Institution or program that has requested Voluntary Withdrawal of Accreditation: 1. may not accept new residents/fellows; 2. may not request reversal of the action after submitting the request (regardless of the proposed effective date);"
+      }
+    },
+    {
+      "id": "doc5-fc-023",
+      "front": "Can an SI/program request Voluntary Withdrawal after a Review Committee has already conferred Withdrawal of Accreditation?",
+      "back": "No. If a Review Committee has conferred a status of Withdrawal of Accreditation or Expedited Withdrawal of Accreditation, the SI or program may NOT request Voluntary Withdrawal of Accreditation. The accreditation status conferred by the Review Committee may be altered only through an appeal.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.201.d",
+        "page": 235,
+        "quote": "If a Review Committee has conferred a status of Withdrawal of Accreditation or Expedited Withdrawal of Accreditation, the Sponsoring Institution or program may not request Voluntary Withdrawal of Accreditation. The accreditation status of the Sponsoring Institution or program conferred by the Review Committee may be altered only through an appeal."
+      }
+    },
+    {
+      "id": "doc5-fc-024",
+      "front": "List the seven actions/procedures whose non-compliance may trigger Administrative Withdrawal of Accreditation.",
+      "back": "(1) timely payment of fees to the ACGME; (2) undergo an accreditation site visit; (3) follow directives associated with an accreditation action; (4) supply the Review Committee or ACGME staff with requested information; (5) maintain current data in ADS; (6) undergo a CLER site visit while on Administrative Probationary Accreditation (SIs only); (7) matriculate residents/fellows for 6 or more consecutive years (programs only).",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.300.a",
+        "page": 235,
+        "quote": "A Review Committee and/or the administration of the ACGME may recommend to the ACGME Board to confer Administrative Withdrawal of Accreditation if a Sponsoring Institution or program does not comply with the following actions and/or procedures: 1. timely payment of fees to the ACGME; 2. undergo an accreditation site visit; 3. follow directives associated with an accreditation action; 4. supply the Review Committee or ACGME staff members with requested information; 5. maintain current data in the Accreditation Data System (ADS); 6. undergo a Clinical Learning Environment Review (CLER) site visit and review while on Administrative Probationary Accreditation (Policy 19.80) (Sponsoring Institutions only); or, 7. matriculate residents/fellows for six or more consecutive years (programs only)."
+      }
+    },
+    {
+      "id": "doc5-fc-025",
+      "front": "Is Administrative Withdrawal of Accreditation appealable?",
+      "back": "No. A status of Administrative Withdrawal of Accreditation may not be appealed.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.300.c",
+        "page": 235,
+        "quote": "A status of Administrative Withdrawal of Accreditation may not be appealed."
+      }
+    },
+    {
+      "id": "doc5-fc-026",
+      "front": "How long does an SI or program have to request an appeal hearing after an adverse accreditation action?",
+      "back": "30 days from receipt of the Letter of Notification. If a written request for a hearing is not received by the ACGME President and CEO within 30 days, the Review Committee's action is deemed final and not subject to further appeal.",
+      "citation": {
+        "source": "Policies and Procedures, Section 20.30",
+        "page": 238,
+        "quote": "If a Review Committee confers an adverse action, the Sponsoring Institution or program may request a hearing before an Appeals Panel. If a written request for such a hearing is not received by the President and Chief Executive Officer of the ACGME within 30 days of receipt by the Sponsoring Institution or program of the Letter of Notification of the conferral, the action of the Review Committee shall be deemed final and not subject to further appeal."
+      }
+    },
+    {
+      "id": "doc5-fc-027",
+      "front": "What is the Section 26 work hour exception policy?",
+      "back": "Programs may apply to a Review Committee for a rotation-specific maximum 10% increase in the 80-hour weekly limit (i.e., up to 88 hours). Each Review Committee may decide it will not consider exception requests. The GMEC must review and formally endorse the request \u2014 endorsement is indicated by the signature of the DIO. If approved, the exception is reviewed annually.",
+      "citation": {
+        "source": "Policies and Procedures, Section 26.00",
+        "page": 275,
+        "quote": "Programs may apply to a Review Committee for a rotation-specific maximum 10 percent increase in the 80-hour per week clinical and educational work hour limit. Each Review Committee may decide that it will not consider any requests for exception. Information on whether a Review Committee grants an exception to the 80-hour limit can be found in the specialty-specific Program Requirements. The Graduate Medical Education Committee must review and formally endorse a request for an exception under this policy. The endorsement must be indicated by the signature of the designated institutional official. If approved, such an exception will be reviewed annually by the Review Committee."
+      }
+    },
+    {
+      "id": "doc5-fc-028",
+      "front": "What is the Office of the Ombudsperson and what is its role?",
+      "back": "An impartial office offering a safe space to raise concerns about GME-related issues. It listens, educates, and helps locate resources. Reports made there do NOT impact accreditation/recognition status. The Office does NOT render decisions, conduct formal investigations, make judgments in disputes, or participate in any formal grievance process.",
+      "citation": {
+        "source": "Policies and Procedures, Section 27.40",
+        "page": 278,
+        "quote": "The Office of the Ombudsperson functions as an impartial party and offers a safe space to raise concerns about graduate medical education-related issues. Staff members listen, educate, and, when possible, help to locate resources to assist in the resolution of graduate medical education-related issues. The Office of the Ombudsperson offers an opportunity to report issues about Sponsoring Institutions and programs without impacting their accreditation or recognition status\u2026 The Office of the Ombudsperson does not render accreditation or recognition decisions or provide information to the ACGME committees. The Office of the Ombudsperson does not conduct formal investigations or make judgements in disputes between individuals and Sponsoring Institutions and/or programs and does not participate in any formal grievance process or offer opinions about institutional or program administrative decisions."
+      }
+    },
+    {
+      "id": "doc5-fc-029",
+      "front": "What time limit applies to issues submitted to the Office of the Ombudsperson?",
+      "back": "Reports of alleged issues that occurred only PRIOR to the current and preceding academic year may not be considered. Exceptions are considered on a case-by-case basis.",
+      "citation": {
+        "source": "Policies and Procedures, Section 27.50",
+        "page": 280,
+        "quote": "Reports of alleged issues that occurred only prior to the current and preceding academic year may not be considered. Exceptions shall be considered on a case-by-case basis."
+      }
+    },
+    {
+      "id": "doc5-fc-030",
+      "front": "What must complainants do before submitting a formal Complaint to the ACGME?",
+      "back": "Before submitting a complaint, the complainant should first utilize all institutional resources the SI or program has available to report and resolve the issues, unless there is a valid reason for not doing so. Allegations occurring only prior to the current and preceding academic year should not be submitted (exceptions case-by-case).",
+      "citation": {
+        "source": "Policies and Procedures, Section 27.20",
+        "page": 277,
+        "quote": "Complaints must be submitted in writing and should bear the name and address of the complainant(s). However, before a complaint is submitted, the complainant should first utilize all the institutional resources the Sponsoring Institution or program has available to report and resolve the issues unless there is a valid reason for not doing so. Allegations of non-compliance that occurred only prior to the current and preceding academic year should not be submitted. Exceptions shall be considered on a case-by-case basis."
+      }
+    },
+    {
+      "id": "doc5-fc-031",
+      "front": "What is AIRE (Section 28)?",
+      "back": "Advancing Innovation in Residency Education: an ACGME program that may offer waivers from compliance with selected Program Requirements to foster innovation. The overarching goal is to catalyze greater innovation in residency and fellowship education that improves the quality and safety of health care delivered by graduates.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 28.00 and 28.10",
+        "page": 281,
+        "quote": "While the current Program Requirements provide substantial flexibility to test new educational and assessment approaches, the ACGME anticipates the potential need to offer waivers from compliance with selected requirements to further foster innovation in graduate medical education. 28.10 AIRE Goals and Objectives. The overarching goal of AIRE is to catalyze greater innovation in residency and fellowship education programs that improves the quality and safety of health care delivered by graduates of those programs."
+      }
+    },
+    {
+      "id": "doc5-fc-032",
+      "front": "What is a Transitional Year Program?",
+      "back": "A one-year educational experience in GME structured to provide multiple clinical disciplines designed to facilitate the choice of and/or preparation for entry into a specialty program. The transitional year is only a prerequisite; it does not comprise a complete specialty program in GME.",
+      "citation": {
+        "source": "Policies and Procedures, Section 16.00.b.7",
+        "page": 202,
+        "quote": "Transitional Year Programs: A transitional year program is a one-year educational experience in graduate medical education, which is structured to provide a program of multiple clinical disciplines designed to facilitate the choice of and/or preparation for entry into a specialty program. The transitional year is only a prerequisite; it does not comprise a complete specialty program in graduate medical education."
+      }
+    },
+    {
+      "id": "doc5-fc-033",
+      "front": "What is required for a Change of Sponsorship of an ACGME-accredited program?",
+      "back": "Both transferring and receiving SI DIOs and senior administrative officials must indicate willingness (transferring to give up, receiving to accept). Both sponsors indicate approval in ADS; the change must be INITIATED in ADS BY THE TRANSFERRING sponsor. Both SIs must have current ACGME accreditation.",
+      "citation": {
+        "source": "Policies and Procedures, Section 16.00.a.1",
+        "page": 200,
+        "quote": "Transfer of institutional sponsorship of an ACGME-accredited program to another ACGME-accredited Sponsoring Institution requires the designated institutional official (DIO) and senior administrative official of the original Sponsoring Institution to indicate willingness to give up sponsorship, and the DIO and senior administrative official of the receiving Sponsoring Institution, to indicate willingness to accept institutional sponsorship. The transferring and receiving sponsors shall indicate their approval in the Accreditation Data System (ADS). The change must be initiated in ADS by the transferring sponsor. Both the transferring and receiving Sponsoring Institutions must have current ACGME accreditation."
+      }
+    },
+    {
+      "id": "doc5-fc-034",
+      "front": "Who composes the CLER Evaluation Committee?",
+      "back": "Physician and non-physician members, at least two of whom must be residents or fellows at the time of appointment. Includes expertise in patient safety, quality improvement, GME, and hospital administration; representatives of the public; and may include members from federal agencies.",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.52",
+        "page": 207,
+        "quote": "The CLER Evaluation Committee shall be comprised of physician and non-physician members, at least two of whom must be residents or fellows at the time of appointment. The CLER Evaluation Committee shall include individuals with expertise in the following areas: patient safety; quality improvement; graduate medical education; and hospital administration\u2026 The CLER Evaluation Committee shall also include representatives of the public and may include members from federal agencies."
+      }
+    },
+    {
+      "id": "doc5-fc-035",
+      "front": "Which recognition statuses (e.g., Osteopathic Recognition) are adverse and appealable?",
+      "back": "Recognition Withheld; Probationary Recognition; Withdrawal of Recognition. SIs and programs may NOT appeal other recognition actions (e.g., citations, warnings).",
+      "citation": {
+        "source": "Policies and Procedures, Sections 22.00.b and 22.00.c",
+        "page": 247,
+        "quote": "The following statuses are adverse actions and may be appealed: \u2022 Recognition Withheld (Policies 22.10-22.12) \u2022 Probationary Recognition (Policies 22.70-22.71) \u2022 Withdrawal of Recognition (Policy 22.80) c. Sponsoring Institutions and programs may not appeal other recognition actions (e.g., citations, warnings)."
+      }
+    },
+    {
+      "id": "doc5-fc-036",
+      "front": "How long may an SI/program remain on Probationary Recognition?",
+      "back": "Maximum two consecutive annual reviews, at which point the SI/program must achieve Continued Recognition or Continued Recognition with Warning, or recognition will be withdrawn. A site visit must be scheduled prior to each annual review while on Probationary Recognition.",
+      "citation": {
+        "source": "Policies and Procedures, Section 22.71.a",
+        "page": 261,
+        "quote": "Sponsoring Institutions and programs will be reviewed annually, and a site visit must be scheduled prior to each review while on Probationary Recognition. A Sponsoring Institution's or program's time on Probationary Recognition shall not exceed two consecutive annual reviews."
+      }
+    },
+    {
+      "id": "doc5-fc-037",
+      "front": "What is Reduction in Resident/Fellow Complement, and is it appealable?",
+      "back": "A Review Committee may reduce the approved resident/fellow complement if a program cannot demonstrate the capacity to provide each resident/fellow with a sufficient educational experience. It is an adverse accreditation decision (programs only) and may be appealed.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.500",
+        "page": 237,
+        "quote": "A Review Committee may reduce the approved resident/fellow complement if a program cannot demonstrate the capacity to provide each resident/fellow with a sufficient educational experience. Reduction in Resident/Fellow Complement is an adverse accreditation decision; a program may appeal this decision (Policy 19.00.b.)."
+      }
+    },
+    {
+      "id": "doc5-fc-038",
+      "front": "Give examples of Extraordinary Circumstances under Section 25.",
+      "back": "Circumstances that significantly disrupt the ability of an SI and/or its program(s) to support GME in compliance with ACGME requirements. Examples include: abrupt closure of a hospital or essential clinical site from natural disaster; catastrophic loss of funding; acts of terrorism or cyberterrorism; loss of infrastructure or acute and prolonged health system disruption during epidemics or pandemics. May affect a single SI/program or have regional/national impact.",
+      "citation": {
+        "source": "Policies and Procedures, Section 25.00",
+        "page": 272,
+        "quote": "The ACGME may invoke the Extraordinary Circumstances policy in response to circumstances that significantly disrupt the ability of a Sponsoring Institution and/or its program(s) to support graduate medical education in compliance with applicable ACGME requirements. Extraordinary Circumstances may impact a Sponsoring Institution or program or have a regional or national impact. Examples of extraordinary circumstances include, but are not limited to, abrupt closure of a hospital or other essential clinical site resulting from a natural disaster; a catastrophic loss of funding; acts of terrorism or cyberterrorism; and loss of infrastructure or acute and prolonged health system disruption during epidemics or pandemics."
+      }
+    },
+    {
+      "id": "doc5-fc-039",
+      "front": "What is required regarding resident/fellow placement when an SI voluntarily withdraws or has its accreditation withdrawn?",
+      "back": "The SI and program(s) must arrange placement of currently accepted/enrolled residents/fellows into other ACGME-accredited programs in their current specialty (unless the resident/fellow requests otherwise), to minimize interruption of education. The SI is responsible for ensuring programs update resident/fellow rosters in ADS in real time.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.201.g",
+        "page": 235,
+        "quote": "The Sponsoring Institution and program(s) must arrange for placement of residents/fellows currently accepted into or enrolled in all withdrawn programs into other ACGME-accredited programs in their current specialty, unless the resident/fellow requests otherwise, to minimize interruption of education and training time. The Sponsoring Institution is responsible for ensuring that the program(s) update the resident/fellow rosters in ADS in real time."
+      }
+    },
+    {
+      "id": "doc5-fc-040",
+      "front": "What is the reapplication rule after Voluntary Withdrawal of Accreditation?",
+      "back": "If an SI or program reapplies within 24 months of the effective date of voluntary withdrawal, the accreditation history of the SI/program and the reapplication will be considered. The reapplication must include a response to each citation outstanding on the date of voluntary withdrawal. For programs reapplying within 24 months, an accreditation site visit shall be conducted.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 19.201.e and 19.201.f",
+        "page": 235,
+        "quote": "If, after accreditation has been voluntarily withdrawn, a Sponsoring Institution or program reapplies for accreditation within 24 months of the effective date of the voluntary withdrawal, the accreditation history of the Sponsoring Institution or program and the reapplication shall be considered by the Review Committee. In its reapplication, the Sponsoring Institution or program must include a response to each citation outstanding on the date of voluntary withdrawal. f. If a program reapplies for accreditation within 24 months of the effective date of Voluntary Withdrawal of Accreditation, an accreditation site visit shall be conducted."
+      }
+    },
+    {
+      "id": "doc5-fc-041",
+      "front": "Which statuses require an accreditation site visit BEFORE being conferred?",
+      "back": "Probationary Accreditation; Withdrawal of Accreditation; Expedited Withdrawal of Accreditation. Continued Accreditation and Continued Accreditation with Warning do not require a pre-conferral site visit.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.51.d",
+        "page": 224,
+        "quote": "d. Available accreditation status options are: 1. Continued Accreditation (Policies 19.50-19.51) 2. Continued Accreditation with Warning (Policies 19.60-19.61) 3. Probationary Accreditation (accreditation site visit required before conferring this status) (Policies 19.70-19.71) 4. Withdrawal of Accreditation (accreditation site visit required before conferring this status) (Policies 19.90-19.91) 5. Expedited Withdrawal of Accreditation (accreditation site visit required before conferring this status) (Policies 19.90-19.91)"
+      }
+    },
+    {
+      "id": "doc5-fc-042",
+      "front": "When is an accreditation site visit required for a new program application?",
+      "back": "Required for new RESIDENCY program applications. Other (non-residency) applications may require a site visit at the discretion of the Review Committee. A site visit shall be conducted for ALL program applications after Withdrawal of Accreditation of the same program.",
+      "citation": {
+        "source": "Policies and Procedures, Section 18.10",
+        "page": 209,
+        "quote": "An accreditation site visit is required for new residency program applications; other applications may require an accreditation site visit at the discretion of the Review Committee or as otherwise provided in these policies. b. An accreditation site visit shall be conducted for all program applications after Withdrawal of Accreditation of the same program."
+      }
+    },
+    {
+      "id": "doc5-fc-043",
+      "front": "Who is responsible for preparing vs. submitting a program accreditation application in ADS?",
+      "back": "The DIO INITIATES the application in ADS and identifies basic info (including the PD). The program director is responsible for PREPARING the application. The DIO is responsible for SUBMITTING the completed program application in ADS.",
+      "citation": {
+        "source": "Policies and Procedures, Section 18.10.b",
+        "page": 209,
+        "quote": "Applications for accreditation of a specialty, subspecialty, or sub-subspecialty program are initiated in ADS by the DIO of the program's ACGME-accredited Sponsoring Institution. The DIO is responsible for identifying basic information about the program, including the identification of the program director, in ADS. The program director is then responsible for preparation of the application for submission. The DIO is responsible for submission of the completed program application to the ACGME in ADS."
+      }
+    },
+    {
+      "id": "doc5-fc-044",
+      "front": "What is required for Review/Recognition Committee accreditation and recognition decisions, and may committees meet remotely?",
+      "back": "A SIMPLE MAJORITY of the voting members must be present for all policy and accreditation/recognition decisions. A committee may conduct a regular or special meeting by telephone conference or interactive technology, provided all persons participating can communicate with each other.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 10.50.b and 10.50.f",
+        "page": 184,
+        "quote": "A simple majority of the voting members must be present for all policy and accreditation/recognition decisions\u2026 A committee may conduct a regular or special meeting by telephone conference or interactive technology by means of which all persons participating in the meeting can communicate with each other."
+      }
+    },
+    {
+      "id": "doc5-fc-045",
+      "front": "After an alleged egregious matter, if the ACGME Board confers an adverse decision, what reconsideration option exists?",
+      "back": "The SI(s) or program(s) may request reconsideration by the ACGME Board. The request must be in writing to the ACGME President and CEO within 30 days of receipt of written notification. The result of the reconsideration shall be final.",
+      "citation": {
+        "source": "Policies and Procedures, Section 24.10.d.3",
+        "page": 272,
+        "quote": "If an adverse accreditation decision is conferred by the ACGME Board, the Sponsoring Institution(s) or program(s) may request reconsideration by the ACGME Board. This request must be made in writing to the President and Chief Executive Officer of the ACGME within 30 days of receipt of written notification of the decision. The result of the reconsideration shall be final."
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc5-policies-mc-001",
-      "stem": "Placeholder question #1 for Policies & Procedures: which of the following is the correct answer in this test stub?",
+      "id": "doc5-mc-001",
+      "stem": "How many Member Organizations does the ACGME have, and which of the following is among them?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
-      ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
-      "citation": {
-        "source": "Policies & Procedures, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
-      }
-    },
-    {
-      "id": "doc5-policies-mc-002",
-      "stem": "Placeholder question #2 for Policies & Procedures: which option is correct here?",
-      "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "5 \u2014 including the FDA",
+        "7 \u2014 including the American Hospital Association (AHA)",
+        "10 \u2014 including the CDC",
+        "3 \u2014 only ABMS, AMA, and AAMC"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "The ACGME has SEVEN Member Organizations: ABMS, AHA, AMA, AAMC, CMSS, AOA, and AACOM.",
       "citation": {
-        "source": "Policies & Procedures, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "Policies and Procedures, Section 1.10",
+        "page": 130,
+        "quote": "The ACGME has seven Member Organizations: \u2022 American Board of Medical Specialties (ABMS) \u2022 American Hospital Association (AHA) \u2022 American Medical Association (AMA) \u2022 Association of American Medical Colleges (AAMC) \u2022 Council of Medical Specialty Societies (CMSS) \u2022 American Osteopathic Association (AOA) \u2022 American Association of Colleges of Osteopathic Medicine (AACOM)"
       }
     },
     {
-      "id": "doc5-policies-mc-003",
-      "stem": "Placeholder question #3 for Policies & Procedures: test the review queue by intentionally answering this wrong.",
+      "id": "doc5-mc-002",
+      "stem": "Under whose delegated authority do Review Committees carry out accreditation of Sponsoring Institutions and GME programs?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "The ACGME Council of Public Members",
+        "The ACGME Board of Directors, with adverse actions appealable to the ACGME Board",
+        "The CLER Evaluation Committee",
+        "The Sponsoring Institutions themselves"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 1.10, accreditation is carried out by the Review Committees and recognition by the Recognition Committees \u2014 both under delegated authority of the ACGME Board, with adverse actions appealable to the Board.",
+      "citation": {
+        "source": "Policies and Procedures, Section 1.10",
+        "page": 130,
+        "quote": "Under the delegated authority of the ACGME Board, accreditation of Sponsoring Institutions and GME programs is carried out by the Review Committees and recognition of Sponsoring Institutions and programs is carried out by the Recognition Committees, both subject to appeal of adverse actions to the ACGME Board."
+      }
+    },
+    {
+      "id": "doc5-mc-003",
+      "stem": "Which of the following is NOT one of the six CLER Focus Areas?",
+      "options": [
+        "Patient Safety",
+        "Quality Improvement",
+        "Resident Salary and Benefits",
+        "Supervision"
+      ],
+      "correctIndex": 2,
+      "explanation": "The six CLER Focus Areas are: Patient Safety, Quality Improvement, Teaming, Supervision, Well-Being, and Professionalism. Resident Salary and Benefits is not a CLER Focus Area.",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.20",
+        "page": 204,
+        "quote": "The CLER Program assesses Sponsoring Institutions in the following six CLER Focus Areas: a. Patient Safety\u2026 b. Quality Improvement\u2026 c. Teaming\u2026 d. Supervision\u2026 e. Well-Being\u2026 f. Professionalism\u2026"
+      }
+    },
+    {
+      "id": "doc5-mc-004",
+      "stem": "How much advance notice does the ACGME give a Sponsoring Institution's DIO before a CLER site visit?",
+      "options": [
+        "At least 5 days",
+        "At least 10 days",
+        "At least 30 days",
+        "At least 60 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 17.30, the ACGME shall notify the DIO of the CLER site visit team's arrival date and expected length of visit NO LESS THAN 10 days prior to the visit.",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.30",
+        "page": 205,
+        "quote": "The ACGME shall notify the Sponsoring Institution's designated institutional official of the CLER site visit team's arrival date and expected length of visit no less than 10 days prior to the visit."
+      }
+    },
+    {
+      "id": "doc5-mc-005",
+      "stem": "Can the findings of a CLER site visit directly result in an adverse accreditation action?",
+      "options": [
+        "Yes \u2014 any CLER finding can result in adverse action",
+        "No \u2014 CLER findings shall not result in an adverse accreditation action; however, if potential egregious violations are identified, the ACGME follows Policy 24.00 (Alleged Egregious Events)",
+        "Only when the SI has been previously cited",
+        "Only when the CLER Evaluation Committee unanimously recommends it"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 17.40 explicitly states that CLER Program findings shall NOT result in an adverse accreditation action. If potential egregious violations are identified, the ACGME follows Policy 24.00.",
+      "citation": {
+        "source": "Policies and Procedures, Section 17.40",
+        "page": 206,
+        "quote": "CLER Program findings shall not result in an adverse accreditation action. If the CLER site visit team identifies potential egregious violations of accreditation requirements, the ACGME will follow its policy and process for investigating egregious violations (Policy 24.00)."
+      }
+    },
+    {
+      "id": "doc5-mc-006",
+      "stem": "What is the consequence if a Sponsoring Institution fails to undergo a CLER site visit?",
+      "options": [
+        "Immediate withdrawal of accreditation",
+        "Administrative Probationary Accreditation for 18\u201324 months \u2014 a status that may not be appealed; SI cannot apply for new programs or request permanent complement increases",
+        "A $10,000 fine only",
+        "Public notification only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Sections 17.60 and 19.80, failure to undergo a CLER site visit may result in Administrative Probationary Accreditation for 18\u201324 months. This status is not appealable; during it, the SI cannot apply for new programs or request permanent complement increases.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.80",
+        "page": 231,
+        "quote": "If a Sponsoring Institution fails to undergo a CLER site visit, the administration of the ACGME may recommend to the ACGME Board that it place that Sponsoring Institution on Administrative Probationary Accreditation for no less than 18 months and no more than 24 months (Policy 17.60). A status of Administrative Probationary Accreditation may not be appealed."
+      }
+    },
+    {
+      "id": "doc5-mc-007",
+      "stem": "Which of the following accreditation statuses is NOT subject to appeal?",
+      "options": [
+        "Accreditation Withheld",
+        "Probationary Accreditation",
+        "Continued Accreditation with Warning (a citation)",
+        "Withdrawal of Accreditation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 19.00.b, the appealable adverse statuses are: Accreditation Withheld; Probationary Accreditation; Withdrawal of Accreditation; Expedited Withdrawal of Accreditation; and Reduction in Resident Complement. Other actions like citations and warnings are NOT appealable.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 19.00.b and 19.00.c",
+        "page": 213,
+        "quote": "The following adverse accreditation statuses may be appealed: \u2022 Accreditation Withheld \u2022 Probationary Accreditation \u2022 Withdrawal of Accreditation \u2022 Expedited Withdrawal of Accreditation \u2022 Reduction in Resident Complement c. Sponsoring Institutions and programs may not appeal other accreditation status decisions or actions (e.g., citations, warnings)."
+      }
+    },
+    {
+      "id": "doc5-mc-008",
+      "stem": "A program on Probationary Accreditation wants to apply for a clinical and educational work hour exception. Is this permitted?",
+      "options": [
+        "Yes \u2014 any accredited program may request a work hour exception",
+        "No \u2014 programs with Probationary Accreditation may not request an exception to the 80-hour weekly limit",
+        "Yes, but only with ACGME President approval",
+        "Yes, but only if the DIO requests it directly"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 19.70, programs with a status of Probationary Accreditation may NOT request a permanent increase in resident/fellow complement OR an exception to the 80-hour weekly work hour limit.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.70",
+        "page": 227,
+        "quote": "Programs with a status of Probationary Accreditation may not request a permanent increase in resident/fellow complement or an exception to the requirement addressing the 80-hour weekly limit on clinical work and education hours."
+      }
+    },
+    {
+      "id": "doc5-mc-009",
+      "stem": "How long may a Sponsoring Institution or program remain on Probationary Accreditation before achieving Continued Accreditation (or Continued Accreditation with Warning), or its accreditation will be withdrawn?",
+      "options": [
+        "1 annual review",
+        "2 consecutive annual reviews",
+        "3 consecutive annual reviews",
+        "5 annual reviews"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 19.70, Probationary status shall not exceed 2 consecutive annual reviews. After that, the SI/program must achieve Continued Accreditation or Continued Accreditation with Warning, or accreditation will be withdrawn.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.70",
+        "page": 227,
+        "quote": "Probationary status of a Sponsoring Institution or program shall not exceed two consecutive annual reviews, at which point the Sponsoring Institution or program must achieve a status of either Continued Accreditation or Continued Accreditation with Warning, or its accreditation will be withdrawn."
+      }
+    },
+    {
+      "id": "doc5-mc-010",
+      "stem": "What notification is required when a program is on Probationary Accreditation?",
+      "options": [
+        "No notification is required",
+        "All applicants invited to interview AND residents/fellows accepted into or enrolled in the program must be notified IN WRITING of the probationary status",
+        "Only graduating residents must be notified",
+        "Notification only goes to the SI's senior administration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 19.70, all applicants invited to interview AND residents/fellows accepted into or enrolled in a program with (or sponsored by an SI with) Probationary Accreditation must be notified IN WRITING of the probationary status.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.70",
+        "page": 227,
+        "quote": "All applicants invited to interview, and residents/fellows accepted into or enrolled in a program with or sponsored by a Sponsoring Institution with Probationary Accreditation must be notified in writing of the probationary status."
+      }
+    },
+    {
+      "id": "doc5-mc-011",
+      "stem": "An SI's DIO submits a request for Voluntary Withdrawal of Accreditation. After submission, what can the SI do?",
+      "options": [
+        "Reverse the request at any time before the effective date",
+        "Continue to accept new residents/fellows",
+        "Neither accept new residents/fellows NOR reverse the request after submitting it (regardless of the proposed effective date)",
+        "Reverse the request only with GMEC approval"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 19.201.c, an SI/program that has requested Voluntary Withdrawal may NOT accept new residents/fellows AND may NOT request reversal of the action after submitting the request (regardless of proposed effective date).",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.201.c",
+        "page": 235,
+        "quote": "A Sponsoring Institution or program that has requested Voluntary Withdrawal of Accreditation: 1. may not accept new residents/fellows; 2. may not request reversal of the action after submitting the request (regardless of the proposed effective date);"
+      }
+    },
+    {
+      "id": "doc5-mc-012",
+      "stem": "When a Sponsoring Institution voluntarily withdraws accreditation, what obligation exists regarding currently enrolled residents/fellows?",
+      "options": [
+        "None \u2014 they are responsible for finding new programs themselves",
+        "The SI and program(s) must arrange placement of currently accepted/enrolled residents/fellows into other ACGME-accredited programs in their current specialty (unless the resident/fellow requests otherwise), and must update ADS rosters in real time",
+        "The SI must continue to pay all residents/fellows for one year",
+        "Only currently accepted (not enrolled) residents need to be placed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 19.201.g, the SI and programs must arrange placement of currently accepted/enrolled residents/fellows into other ACGME-accredited programs in their current specialty, unless the resident/fellow requests otherwise. The SI is responsible for ensuring real-time roster updates in ADS.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.201.g",
+        "page": 235,
+        "quote": "The Sponsoring Institution and program(s) must arrange for placement of residents/fellows currently accepted into or enrolled in all withdrawn programs into other ACGME-accredited programs in their current specialty, unless the resident/fellow requests otherwise, to minimize interruption of education and training time. The Sponsoring Institution is responsible for ensuring that the program(s) update the resident/fellow rosters in ADS in real time."
+      }
+    },
+    {
+      "id": "doc5-mc-013",
+      "stem": "Which of the following is NOT a basis for Administrative Withdrawal of Accreditation under Section 19.300?",
+      "options": [
+        "Failure to undergo an accreditation site visit",
+        "Failure to maintain current data in ADS",
+        "Failure to matriculate residents/fellows for 6 or more consecutive years (programs only)",
+        "Achievement of an 80% board certification pass rate"
       ],
       "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "explanation": "Achievement of an 80% board pass rate is a SAFE HARBOR for board certification compliance \u2014 not a reason for administrative withdrawal. The 7 triggers under Section 19.300 are: payment of fees; site visits; following directives; supplying information; maintaining ADS data; undergoing CLER site visit while on Administrative Probation; and matriculating residents/fellows for 6+ consecutive years (programs only).",
       "citation": {
-        "source": "Policies & Procedures, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "Policies and Procedures, Section 19.300.a",
+        "page": 235,
+        "quote": "A Review Committee and/or the administration of the ACGME may recommend to the ACGME Board to confer Administrative Withdrawal of Accreditation if a Sponsoring Institution or program does not comply with the following actions and/or procedures: 1. timely payment of fees to the ACGME; 2. undergo an accreditation site visit; 3. follow directives associated with an accreditation action; 4. supply the Review Committee or ACGME staff members with requested information; 5. maintain current data in the Accreditation Data System (ADS); 6. undergo a Clinical Learning Environment Review (CLER) site visit and review while on Administrative Probationary Accreditation (Sponsoring Institutions only); or, 7. matriculate residents/fellows for six or more consecutive years (programs only)."
+      }
+    },
+    {
+      "id": "doc5-mc-014",
+      "stem": "An SI receives a Letter of Notification conferring an adverse accreditation action. By when must a written request for a hearing be received by the ACGME President and CEO?",
+      "options": [
+        "Within 7 days",
+        "Within 14 days",
+        "Within 30 days of receipt of the Letter of Notification",
+        "Within 90 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 20.30, if a written request for a hearing is not received within 30 days of receipt of the Letter of Notification, the action of the Review Committee shall be deemed final and not subject to further appeal.",
+      "citation": {
+        "source": "Policies and Procedures, Section 20.30",
+        "page": 238,
+        "quote": "If a Review Committee confers an adverse action, the Sponsoring Institution or program may request a hearing before an Appeals Panel. If a written request for such a hearing is not received by the President and Chief Executive Officer of the ACGME within 30 days of receipt by the Sponsoring Institution or program of the Letter of Notification of the conferral, the action of the Review Committee shall be deemed final and not subject to further appeal."
+      }
+    },
+    {
+      "id": "doc5-mc-015",
+      "stem": "Per Section 26.00, what is the maximum rotation-specific increase to the 80-hour weekly work hour limit that may be granted by a Review Committee?",
+      "options": [
+        "Up to a 5 percent increase",
+        "Up to a 10 percent increase (i.e., up to 88 hours)",
+        "Up to a 15 percent increase",
+        "Up to a 20 percent increase"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 26.00, programs may apply for a rotation-specific MAXIMUM 10 PERCENT increase in the 80-hour weekly limit (i.e., 88 hours).",
+      "citation": {
+        "source": "Policies and Procedures, Section 26.00",
+        "page": 275,
+        "quote": "Programs may apply to a Review Committee for a rotation-specific maximum 10 percent increase in the 80-hour per week clinical and educational work hour limit."
+      }
+    },
+    {
+      "id": "doc5-mc-016",
+      "stem": "Who must endorse a request for a work hour exception, and how is the endorsement indicated?",
+      "options": [
+        "The program director's signature alone is sufficient",
+        "The GMEC must review and formally endorse the request; endorsement is indicated by the signature of the DIO",
+        "Only the SI's CEO must endorse",
+        "No formal endorsement is required if the Review Committee approves"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 26.00, the GMEC must review and formally endorse a work hour exception request. The endorsement must be indicated by the SIGNATURE OF THE DIO.",
+      "citation": {
+        "source": "Policies and Procedures, Section 26.00",
+        "page": 275,
+        "quote": "The Graduate Medical Education Committee must review and formally endorse a request for an exception under this policy. The endorsement must be indicated by the signature of the designated institutional official."
+      }
+    },
+    {
+      "id": "doc5-mc-017",
+      "stem": "Before filing a formal complaint with the ACGME Office of Complaints, what is the complainant typically expected to do?",
+      "options": [
+        "No prior local action is required",
+        "First utilize all the institutional resources the SI or program has available to report and resolve the issues, unless there is a valid reason for not doing so",
+        "Wait 90 days after the alleged event",
+        "Submit the complaint anonymously through ADS"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 27.20, before a complaint is submitted, the complainant should first utilize all institutional resources the SI or program has available to report and resolve the issues, unless there is a valid reason for not doing so.",
+      "citation": {
+        "source": "Policies and Procedures, Section 27.20",
+        "page": 277,
+        "quote": "However, before a complaint is submitted, the complainant should first utilize all the institutional resources the Sponsoring Institution or program has available to report and resolve the issues unless there is a valid reason for not doing so."
+      }
+    },
+    {
+      "id": "doc5-mc-018",
+      "stem": "What is the role of the Office of the Ombudsperson?",
+      "options": [
+        "It renders accreditation/recognition decisions on behalf of the ACGME",
+        "It functions as an impartial party offering a safe space to raise GME-related concerns WITHOUT impacting accreditation/recognition status of the SI/program; it does NOT render decisions, conduct formal investigations, or participate in formal grievance processes",
+        "It conducts formal investigations of all reported issues",
+        "It replaces the formal Complaints process"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 27.40, the Office is impartial and offers a safe space for GME concerns without impacting accreditation/recognition status. It does NOT render decisions, conduct formal investigations, make judgments, or participate in formal grievance processes.",
+      "citation": {
+        "source": "Policies and Procedures, Section 27.40",
+        "page": 278,
+        "quote": "The Office of the Ombudsperson functions as an impartial party and offers a safe space to raise concerns about graduate medical education-related issues\u2026 The Office of the Ombudsperson offers an opportunity to report issues about Sponsoring Institutions and programs without impacting their accreditation or recognition status\u2026 The Office of the Ombudsperson does not render accreditation or recognition decisions or provide information to the ACGME committees. The Office of the Ombudsperson does not conduct formal investigations or make judgements in disputes between individuals and Sponsoring Institutions and/or programs and does not participate in any formal grievance process or offer opinions about institutional or program administrative decisions."
+      }
+    },
+    {
+      "id": "doc5-mc-019",
+      "stem": "What is the time limit for issues to be considered by the Office of the Ombudsperson?",
+      "options": [
+        "Only issues from the current academic year",
+        "Reports of alleged issues that occurred only prior to the current and preceding academic year may not be considered (exceptions on a case-by-case basis)",
+        "Only issues from within the last 30 days",
+        "Any historical issue, regardless of date"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 27.50, reports of alleged issues that occurred only PRIOR to the current AND preceding academic year may not be considered. Exceptions are considered case-by-case.",
+      "citation": {
+        "source": "Policies and Procedures, Section 27.50",
+        "page": 280,
+        "quote": "Reports of alleged issues that occurred only prior to the current and preceding academic year may not be considered. Exceptions shall be considered on a case-by-case basis."
+      }
+    },
+    {
+      "id": "doc5-mc-020",
+      "stem": "What is the purpose of AIRE (Advancing Innovation in Residency Education)?",
+      "options": [
+        "A separate accreditation pathway for international programs",
+        "To catalyze greater innovation in residency and fellowship education that improves quality and safety of health care delivered by graduates \u2014 including by offering waivers from compliance with selected Program Requirements",
+        "A research grant program for residency programs",
+        "A wellness initiative for residents"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Sections 28.00 and 28.10, AIRE's purpose is to catalyze innovation in GME through waivers from compliance with selected Program Requirements. The overarching goal is greater innovation that improves quality and safety of health care delivered by graduates.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 28.00 and 28.10",
+        "page": 281,
+        "quote": "While the current Program Requirements provide substantial flexibility to test new educational and assessment approaches, the ACGME anticipates the potential need to offer waivers from compliance with selected requirements to further foster innovation in graduate medical education. 28.10 AIRE Goals and Objectives. The overarching goal of AIRE is to catalyze greater innovation in residency and fellowship education programs that improves the quality and safety of health care delivered by graduates of those programs."
+      }
+    },
+    {
+      "id": "doc5-mc-021",
+      "stem": "Which of the following best describes a Transitional Year program?",
+      "options": [
+        "A 2-year specialty residency program",
+        "A 1-year educational experience in GME structured to provide multiple clinical disciplines designed to facilitate the choice of or preparation for entry into a specialty program \u2014 the transitional year is only a prerequisite, not a complete specialty program",
+        "A subspecialty fellowship program",
+        "A post-fellowship clinical scholar pathway"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 16.00.b.7, a Transitional Year is a 1-year educational experience structured to provide multiple clinical disciplines designed to facilitate the choice of and/or preparation for entry into a specialty program. It is only a prerequisite \u2014 it does not comprise a complete specialty program.",
+      "citation": {
+        "source": "Policies and Procedures, Section 16.00.b.7",
+        "page": 202,
+        "quote": "Transitional Year Programs: A transitional year program is a one-year educational experience in graduate medical education, which is structured to provide a program of multiple clinical disciplines designed to facilitate the choice of and/or preparation for entry into a specialty program. The transitional year is only a prerequisite; it does not comprise a complete specialty program in graduate medical education."
+      }
+    },
+    {
+      "id": "doc5-mc-022",
+      "stem": "Who initiates and submits a program accreditation application in ADS, and who prepares it?",
+      "options": [
+        "The PD initiates and prepares; the DIO submits",
+        "The DIO initiates in ADS and identifies basic info (including the PD); the PD prepares the application; the DIO is responsible for SUBMITTING the completed application in ADS",
+        "Only the GMEC may initiate; the DIO submits",
+        "Only the Review Committee chair may initiate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 18.10.b, applications are INITIATED in ADS by the DIO, who identifies basic information including the PD. The PD is responsible for PREPARING the application. The DIO is responsible for SUBMITTING the completed application in ADS.",
+      "citation": {
+        "source": "Policies and Procedures, Section 18.10.b",
+        "page": 209,
+        "quote": "Applications for accreditation of a specialty, subspecialty, or sub-subspecialty program are initiated in ADS by the DIO of the program's ACGME-accredited Sponsoring Institution. The DIO is responsible for identifying basic information about the program, including the identification of the program director, in ADS. The program director is then responsible for preparation of the application for submission. The DIO is responsible for submission of the completed program application to the ACGME in ADS."
+      }
+    },
+    {
+      "id": "doc5-mc-023",
+      "stem": "Who performs ACGME accreditation site visits?",
+      "options": [
+        "Volunteer specialty board members only",
+        "Accreditation Field Representatives employed by the ACGME \u2014 individually, as a team of Field Representatives, or (in certain circumstances) including peer representatives",
+        "Independent contractors hired by the Sponsoring Institution",
+        "Members of the Council of Public Members"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 18.20, all accreditation site visits are performed by Accreditation Field Representatives EMPLOYED BY the ACGME. Visits may be conducted by individuals, teams, or \u2014 in certain circumstances \u2014 include peer representatives.",
+      "citation": {
+        "source": "Policies and Procedures, Section 18.20",
+        "page": 211,
+        "quote": "All accreditation site visits for Sponsoring Institutions and programs are performed by Accreditation Field Representatives who are employed by the ACGME. Accreditation site visits are conducted by individual Accreditation Field Representatives, or by a team made up of Accreditation Field Representatives. In certain circumstances, the site visit team may include peer representatives."
+      }
+    },
+    {
+      "id": "doc5-mc-024",
+      "stem": "For a Sponsoring Institution with Continued Accreditation, an accreditation site visit will be conducted approximately every:",
+      "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "10 years"
+      ],
+      "correctIndex": 3,
+      "explanation": "Per Section 19.51.a, in addition to the annual review, a Sponsoring Institution 10-Year Accreditation Site Visit and review will be conducted approximately every 10 years.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.51.a",
+        "page": 223,
+        "quote": "In addition to the annual review, a Sponsoring Institution 10 Year Accreditation Site Visit and review will be conducted approximately every 10 years."
+      }
+    },
+    {
+      "id": "doc5-mc-025",
+      "stem": "Which of the following statuses requires an accreditation site visit BEFORE it can be conferred?",
+      "options": [
+        "Continued Accreditation",
+        "Continued Accreditation with Warning",
+        "Probationary Accreditation, Withdrawal of Accreditation, and Expedited Withdrawal of Accreditation",
+        "Initial Accreditation"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 19.51.d, three statuses require a site visit before being conferred: Probationary Accreditation, Withdrawal of Accreditation, and Expedited Withdrawal of Accreditation.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.51.d",
+        "page": 224,
+        "quote": "d. Available accreditation status options are: 1. Continued Accreditation (Policies 19.50-19.51) 2. Continued Accreditation with Warning (Policies 19.60-19.61) 3. Probationary Accreditation (accreditation site visit required before conferring this status) (Policies 19.70-19.71) 4. Withdrawal of Accreditation (accreditation site visit required before conferring this status) (Policies 19.90-19.91) 5. Expedited Withdrawal of Accreditation (accreditation site visit required before conferring this status) (Policies 19.90-19.91)"
+      }
+    },
+    {
+      "id": "doc5-mc-026",
+      "stem": "What is required for the transfer of institutional sponsorship of an ACGME-accredited program from one SI to another?",
+      "options": [
+        "Only the receiving SI's DIO approval is needed",
+        "Both transferring and receiving SI DIOs and senior administrative officials must indicate willingness; approval is indicated in ADS; the change must be INITIATED in ADS by the transferring sponsor; both SIs must have current ACGME accreditation",
+        "Only the Review Committee may initiate a transfer",
+        "Only the residents/fellows in the program may approve a transfer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 16.00.a.1, change of sponsorship requires DIO and senior administrative official willingness from BOTH SIs (original willing to give up; receiving willing to accept). Approval in ADS; change INITIATED in ADS by the transferring sponsor; both SIs must have current ACGME accreditation.",
+      "citation": {
+        "source": "Policies and Procedures, Section 16.00.a.1",
+        "page": 200,
+        "quote": "Transfer of institutional sponsorship of an ACGME-accredited program to another ACGME-accredited Sponsoring Institution requires the designated institutional official (DIO) and senior administrative official of the original Sponsoring Institution to indicate willingness to give up sponsorship, and the DIO and senior administrative official of the receiving Sponsoring Institution, to indicate willingness to accept institutional sponsorship. The transferring and receiving sponsors shall indicate their approval in the Accreditation Data System (ADS). The change must be initiated in ADS by the transferring sponsor. Both the transferring and receiving Sponsoring Institutions must have current ACGME accreditation."
+      }
+    },
+    {
+      "id": "doc5-mc-027",
+      "stem": "Which is true regarding Reduction in Resident/Fellow Complement?",
+      "options": [
+        "It is not considered an adverse decision",
+        "It is an adverse accreditation decision; a program may appeal this decision",
+        "Only the SI (not a specific program) may have its complement reduced",
+        "It cannot be appealed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 19.500, a Review Committee may reduce the approved complement if a program cannot demonstrate the capacity to provide sufficient educational experience. Reduction in Complement is an adverse accreditation decision (programs only) and is appealable.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.500",
+        "page": 237,
+        "quote": "A Review Committee may reduce the approved resident/fellow complement if a program cannot demonstrate the capacity to provide each resident/fellow with a sufficient educational experience. Reduction in Resident/Fellow Complement is an adverse accreditation decision; a program may appeal this decision (Policy 19.00.b.)."
+      }
+    },
+    {
+      "id": "doc5-mc-028",
+      "stem": "Per Section 22.71, how long may an SI or program remain on Probationary Recognition?",
+      "options": [
+        "1 annual review",
+        "2 consecutive annual reviews",
+        "3 consecutive annual reviews",
+        "Indefinitely"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 22.71.a, Probationary Recognition shall not exceed 2 consecutive annual reviews. After that, the SI/program must achieve Continued Recognition or Continued Recognition with Warning, or recognition will be withdrawn.",
+      "citation": {
+        "source": "Policies and Procedures, Section 22.71.a",
+        "page": 261,
+        "quote": "Sponsoring Institutions and programs will be reviewed annually, and a site visit must be scheduled prior to each review while on Probationary Recognition. A Sponsoring Institution's or program's time on Probationary Recognition shall not exceed two consecutive annual reviews."
+      }
+    },
+    {
+      "id": "doc5-mc-029",
+      "stem": "Which of the following is an example of an Extraordinary Circumstance that may invoke Section 25?",
+      "options": [
+        "A scheduled routine site visit",
+        "A program director vacancy of 30 days",
+        "Abrupt closure of a hospital or other essential clinical site resulting from a natural disaster; catastrophic loss of funding; acts of terrorism or cyberterrorism; or acute and prolonged health system disruption during epidemics or pandemics",
+        "Annual rollover in ADS"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 25.00, examples include but are not limited to: abrupt closure of a hospital/essential clinical site from natural disaster; catastrophic loss of funding; acts of terrorism or cyberterrorism; and acute/prolonged health system disruption during epidemics or pandemics.",
+      "citation": {
+        "source": "Policies and Procedures, Section 25.00",
+        "page": 272,
+        "quote": "Examples of extraordinary circumstances include, but are not limited to, abrupt closure of a hospital or other essential clinical site resulting from a natural disaster; a catastrophic loss of funding; acts of terrorism or cyberterrorism; and loss of infrastructure or acute and prolonged health system disruption during epidemics or pandemics."
+      }
+    },
+    {
+      "id": "doc5-mc-030",
+      "stem": "If the ACGME Board confers an adverse accreditation decision following an alleged egregious matter, what reconsideration option is available?",
+      "options": [
+        "The decision is final and cannot be reconsidered",
+        "The SI/program may request reconsideration by the ACGME Board, in writing to the President and CEO within 30 days of receipt of notification; the result of the reconsideration shall be final",
+        "An immediate hearing before an Appeals Panel is automatically scheduled",
+        "Only judicial review is available"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 24.10.d.3, an SI/program may request reconsideration by the ACGME Board in writing to the President and CEO within 30 days of receipt of notification. The result of the reconsideration is final.",
+      "citation": {
+        "source": "Policies and Procedures, Section 24.10.d.3",
+        "page": 272,
+        "quote": "If an adverse accreditation decision is conferred by the ACGME Board, the Sponsoring Institution(s) or program(s) may request reconsideration by the ACGME Board. This request must be made in writing to the President and Chief Executive Officer of the ACGME within 30 days of receipt of written notification of the decision. The result of the reconsideration shall be final."
+      }
+    },
+    {
+      "id": "doc5-mc-031",
+      "stem": "What information may a Review Committee use to confer an accreditation status?",
+      "options": [
+        "Only the site visit report",
+        "Only the annual data submitted through ADS",
+        "Multiple data sources: review of annual data; Site Visit Report (if applicable); history of the SI/program; correspondence pertinent to the review; public information deemed reliable; and additional information as requested by the Committee",
+        "Only public complaints"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 19.51.b, information may include annual data; Site Visit Report (if applicable); history of the SI/program; correspondence pertinent to the review; public information deemed reliable; and additional information requested by the Committee.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.51.b",
+        "page": 223,
+        "quote": "Information used by the Review Committee to confer a status may include, but is not limited to: 1. review of annual data; 2. Site Visit Report (if applicable); 3. history of the Sponsoring Institution and/or program, as applicable; 4. correspondence pertinent to the review; 5. public information deemed reliable; and, 6. additional information, as requested by the Committee."
+      }
+    },
+    {
+      "id": "doc5-mc-032",
+      "stem": "What is required for Review/Recognition Committee accreditation/recognition decisions?",
+      "options": [
+        "Unanimous consent",
+        "Two-thirds majority of voting members present",
+        "A simple majority of the voting members must be present",
+        "At least 75% of voting members in person"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 10.50.b, a simple majority of the voting members must be present for all policy and accreditation/recognition decisions.",
+      "citation": {
+        "source": "Policies and Procedures, Section 10.50.b",
+        "page": 184,
+        "quote": "A simple majority of the voting members must be present for all policy and accreditation/recognition decisions."
+      }
+    },
+    {
+      "id": "doc5-mc-033",
+      "stem": "May Review Committees conduct meetings by telephone conference or interactive technology?",
+      "options": [
+        "No \u2014 only in-person meetings are allowed",
+        "Yes \u2014 a committee may conduct a regular or special meeting by telephone conference or interactive technology, provided all participants can communicate with each other",
+        "Only if approved by the ACGME President in advance",
+        "Only for emergency situations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 10.50.f, a committee may conduct a regular or special meeting by telephone conference or interactive technology, provided all persons participating can communicate with each other.",
+      "citation": {
+        "source": "Policies and Procedures, Section 10.50.f",
+        "page": 184,
+        "quote": "A committee may conduct a regular or special meeting by telephone conference or interactive technology by means of which all persons participating in the meeting can communicate with each other."
+      }
+    },
+    {
+      "id": "doc5-mc-034",
+      "stem": "An accreditation site visit is required for which type of new program application?",
+      "options": [
+        "Only subspecialty applications",
+        "Only sub-subspecialty applications",
+        "Required for new RESIDENCY program applications; other applications may require a site visit at the discretion of the Review Committee",
+        "Required for all new program applications without exception"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 18.10, an accreditation site visit is required for new residency program applications. Other applications may require a site visit at Review Committee discretion. A site visit IS required for all program applications after Withdrawal of Accreditation of the same program.",
+      "citation": {
+        "source": "Policies and Procedures, Section 18.10",
+        "page": 209,
+        "quote": "An accreditation site visit is required for new residency program applications; other applications may require an accreditation site visit at the discretion of the Review Committee or as otherwise provided in these policies. b. An accreditation site visit shall be conducted for all program applications after Withdrawal of Accreditation of the same program."
+      }
+    },
+    {
+      "id": "doc5-mc-035",
+      "stem": "Per Section 22.00.b, which of the following recognition statuses may be appealed?",
+      "options": [
+        "Continued Recognition with Warning",
+        "Initial Recognition",
+        "Recognition Withheld, Probationary Recognition, and Withdrawal of Recognition",
+        "Continued Recognition without Outcomes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Section 22.00.b, three recognition statuses are adverse and appealable: Recognition Withheld, Probationary Recognition, and Withdrawal of Recognition. Citations and warnings may not be appealed.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 22.00.b and 22.00.c",
+        "page": 247,
+        "quote": "The following statuses are adverse actions and may be appealed: \u2022 Recognition Withheld (Policies 22.10-22.12) \u2022 Probationary Recognition (Policies 22.70-22.71) \u2022 Withdrawal of Recognition (Policy 22.80) c. Sponsoring Institutions and programs may not appeal other recognition actions (e.g., citations, warnings)."
+      }
+    },
+    {
+      "id": "doc5-mc-036",
+      "stem": "Can a program or SI request Voluntary Withdrawal of Accreditation AFTER a Review Committee has already conferred Withdrawal of Accreditation?",
+      "options": [
+        "Yes \u2014 at any time before the effective date of withdrawal",
+        "No \u2014 if a Review Committee has conferred Withdrawal of Accreditation or Expedited Withdrawal of Accreditation, the SI/program may not request Voluntary Withdrawal; the status may be altered only through an appeal",
+        "Only with GMEC and Sponsoring Institution CEO approval",
+        "Yes, but only for programs (not for SIs)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 19.201.d, once a Review Committee has conferred Withdrawal or Expedited Withdrawal of Accreditation, the SI/program may NOT request Voluntary Withdrawal. The status may be altered only through an appeal.",
+      "citation": {
+        "source": "Policies and Procedures, Section 19.201.d",
+        "page": 235,
+        "quote": "If a Review Committee has conferred a status of Withdrawal of Accreditation or Expedited Withdrawal of Accreditation, the Sponsoring Institution or program may not request Voluntary Withdrawal of Accreditation. The accreditation status of the Sponsoring Institution or program conferred by the Review Committee may be altered only through an appeal."
+      }
+    },
+    {
+      "id": "doc5-mc-037",
+      "stem": "What document(s) accompany the Letter of Notification when an adverse action is conferred?",
+      "options": [
+        "Only the LoN itself",
+        "The LoN includes the citations that form the basis for the adverse action, and a copy of the Site Visit Report if applicable",
+        "Only the Site Visit Report",
+        "Only a summary statement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 20.20.a, when a Review Committee confers an adverse action, the LoN includes the citations that form the basis for the adverse action and a copy of the Site Visit Report, if applicable.",
+      "citation": {
+        "source": "Policies and Procedures, Section 20.20.a",
+        "page": 238,
+        "quote": "When a Review Committee confers an adverse action, it shall issue a Letter of Notification which shall include the citations that form the basis for the adverse action and a copy of the Site Visit Report, if applicable."
+      }
+    },
+    {
+      "id": "doc5-mc-038",
+      "stem": "A program reapplies for accreditation 12 months after voluntarily withdrawing. What is required?",
+      "options": [
+        "No additional steps \u2014 standard application only",
+        "The reapplication must include a response to each citation outstanding on the date of voluntary withdrawal; for programs reapplying within 24 months, an accreditation site visit shall be conducted",
+        "Only a new program director's CV",
+        "Only a statement from the GMEC"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Sections 19.201.e\u2013f, the reapplication must include a response to each citation outstanding on the date of voluntary withdrawal. Programs reapplying within 24 months of effective date of voluntary withdrawal must undergo an accreditation site visit.",
+      "citation": {
+        "source": "Policies and Procedures, Sections 19.201.e and 19.201.f",
+        "page": 235,
+        "quote": "If, after accreditation has been voluntarily withdrawn, a Sponsoring Institution or program reapplies for accreditation within 24 months of the effective date of the voluntary withdrawal, the accreditation history of the Sponsoring Institution or program and the reapplication shall be considered by the Review Committee. In its reapplication, the Sponsoring Institution or program must include a response to each citation outstanding on the date of voluntary withdrawal. f. If a program reapplies for accreditation within 24 months of the effective date of Voluntary Withdrawal of Accreditation, an accreditation site visit shall be conducted."
+      }
+    },
+    {
+      "id": "doc5-mc-039",
+      "stem": "Under the Extraordinary Circumstances policy (Section 25.40), what is required when Sponsoring Institutions transfer residents/fellows to other ACGME-accredited programs?",
+      "options": [
+        "Residents/fellows must accept whichever placement the SI selects, regardless of preference",
+        "SIs and programs must minimize disruption to resident/fellow education AND must CONSIDER the preferences of residents/fellows when arranging temporary or permanent transfers; programs must appoint transferring residents/fellows to approved positions and may request temporary or permanent complement increases through ADS (which the Review Committees will expedite)",
+        "No transfers are permitted under extraordinary circumstances",
+        "Transfers are coordinated by the ACGME directly, with no SI involvement"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 25.40, SIs and programs must minimize disruption AND must consider the preferences of residents/fellows when arranging transfers. Programs must appoint transferring residents/fellows to approved positions and may request complement increases through ADS; Review Committees expedite their review under extraordinary circumstances.",
+      "citation": {
+        "source": "Policies and Procedures, Section 25.40",
+        "page": 274,
+        "quote": "Sponsoring Institutions and programs must minimize disruption to resident/fellow education due to extraordinary circumstances and must consider the preferences of residents/fellows when arranging temporary or permanent transfers to other ACGME-accredited programs. Programs must appoint transferring residents/fellows to approved positions and may request temporary or permanent increases in resident/fellow complement from their respective ACGME Review Committees through the Accreditation Data System (ADS). Under extraordinary circumstances, the ACGME Review Committees shall expedite their review of requests for temporary or permanent complement increases."
+      }
+    },
+    {
+      "id": "doc5-mc-040",
+      "stem": "Which of the following is among the ACGME Values stated in Section 1.30?",
+      "options": [
+        "Profitability and Growth",
+        "Stewardship and Service",
+        "Hierarchy and Compliance",
+        "Standardization and Uniformity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Section 1.30, the eight ACGME Values are: Honesty and Integrity; Accountability and Transparency; Equity and Fairness; Diversity, Equity, and Inclusion; Excellence and Innovation; Stewardship and Service; Leadership and Collaboration; and Engagement of Stakeholders.",
+      "citation": {
+        "source": "Policies and Procedures, Section 1.30",
+        "page": 131,
+        "quote": "We accomplish our Mission guided by our commitment to the Public Trust and the ACGME values of: \u2022 Honesty and Integrity \u2022 Accountability and Transparency \u2022 Equity and Fairness \u2022 Diversity, Equity, and Inclusion \u2022 Excellence and Innovation \u2022 Stewardship and Service \u2022 Leadership and Collaboration \u2022 Engagement of Stakeholders"
       }
     }
   ]

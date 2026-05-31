@@ -2,112 +2,792 @@
   "id": "doc1-residency-cpr",
   "title": "ACGME Common Program Requirements (Residency)",
   "shortTitle": "Residency CPR",
-  "documentRef": "Placeholder content for Residency CPR",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "documentRef": "TAGME Study Guide pages 1\u201347",
+  "description": "The Common Program Requirements (Residency) define the structural, resource, and process elements essential to every ACGME-accredited residency program, including oversight, personnel, resident appointments, the educational program, evaluation, and the learning and working environment.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers ACGME Common Program Requirements (Residency). Browse content will be populated when real content is generated."
+      "text": "The ACGME Common Program Requirements (Residency) define what every ACGME-accredited residency program must do. Requirements are categorized as Core (essential structure/resource/process), Detail (specific approaches to compliance), or Outcome (measurable resident attributes)."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "Section 1 \u2014 Oversight"
     },
     {
-      "type": "list",
-      "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
-      ]
+      "type": "paragraph",
+      "text": "Covers the Sponsoring Institution, participating sites, Program Letters of Agreement (PLAs renewed every 10 years, approved by the DIO), site directors, workforce recruitment and retention, and required healthy/safe environments (food, sleep, lactation, security, accommodations)."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 2 \u2014 Personnel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Defines the Program Director (\u22653 years educational/administrative experience, current board certification, ongoing clinical activity, GMEC-approved), faculty roles and qualifications, core faculty, and the program coordinator."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 3 \u2014 Resident Appointments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eligibility (LCME or AOACOCA graduates; IMGs need either ECFMG certificate or unrestricted US license), the prohibition on non-competition guarantees, and limits on resident complement."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 4 \u2014 Educational Program"
+    },
+    {
+      "type": "paragraph",
+      "text": "Required curricular components (program aims, competency-based goals/objectives, graded supervision, structured didactics, patient safety activities); the seven enumerated ACGME Competencies (4.3\u20134.9: Professionalism, Patient Care, Procedural Skills, Medical Knowledge, Practice-Based Learning, Interpersonal/Communication Skills, Systems-Based Practice); and scholarship requirements."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 5 \u2014 Evaluation"
+    },
+    {
+      "type": "paragraph",
+      "text": "End-of-rotation evaluation, semi-annual evaluations, the Clinical Competency Committee (\u22653 faculty including \u22651 core faculty, semi-annual review), annual summative evaluation, the final evaluation, and board certification reporting (7-year cohort in ADS)."
+    },
+    {
+      "type": "subheading",
+      "text": "Section 6 \u2014 The Learning and Working Environment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Culture of safety, patient safety event reporting, three levels of supervision (Direct, Indirect, Oversight) with PGY-1 residents initially direct only, conditional independence, professionalism, well-being (24/7 mental health access, medical appointments during work hours), fatigue mitigation, sleep/transportation for fatigued residents, transitions of care, and clinical/educational work hours (80/week averaged over 4 weeks; 14 hours off after 24-hour in-house call; 1 day off in 7; 24 hours max continuous work plus up to 4 hours for transitions/education; PGY-1 may not moonlight; in-house call no more than every 3rd night; up to 88 hours by exception)."
     }
   ],
   "flashcards": [
     {
-      "id": "doc1-residency-cpr-fc-001",
-      "front": "Placeholder flashcard #1 for Residency CPR",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc1-fc-001",
+      "front": "What is a \"Sponsoring Institution\" in the context of ACGME-accredited programs?",
+      "back": "The organization or entity that assumes the ultimate financial and academic responsibility for a program of graduate medical education, consistent with the ACGME Institutional Requirements.",
       "citation": {
-        "source": "Residency CPR, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "CPR Residency, Section 1 \u2014 Sponsoring Institution",
+        "page": 3,
+        "quote": "The Sponsoring Institution is the organization or entity that assumes the ultimate financial and academic responsibility for a program of graduate medical education, consistent with the ACGME Institutional Requirements."
       }
     },
     {
-      "id": "doc1-residency-cpr-fc-002",
-      "front": "Placeholder flashcard #2 for Residency CPR",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc1-fc-002",
+      "front": "How often must a Program Letter of Agreement (PLA) be renewed?",
+      "back": "At least every 10 years.",
       "citation": {
-        "source": "Residency CPR, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "CPR Residency, Section 1.3.a",
+        "page": 4,
+        "quote": "1.3.a. The PLA must be renewed at least every 10 years. (Core)"
       }
     },
     {
-      "id": "doc1-residency-cpr-fc-003",
-      "front": "Placeholder flashcard #3 for Residency CPR",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc1-fc-003",
+      "front": "Who must approve a Program Letter of Agreement (PLA)?",
+      "back": "The Designated Institutional Official (DIO).",
       "citation": {
-        "source": "Residency CPR, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "CPR Residency, Section 1.3.b",
+        "page": 4,
+        "quote": "1.3.b. The PLA must be approved by the designated institutional official (DIO). (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-004",
+      "front": "What is the role of the site director at a participating site?",
+      "back": "A faculty member designated by the program director who is accountable for resident education at that site, in collaboration with the program director.",
+      "citation": {
+        "source": "CPR Residency, Section 1.5",
+        "page": 4,
+        "quote": "1.5. At each participating site there must be one faculty member, designated by the program director as the site director, who is accountable for resident education at that site, in collaboration with the program director. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-005",
+      "front": "What are the minimum experience qualifications for a residency Program Director?",
+      "back": "Specialty expertise plus at least three years of documented educational and/or administrative experience, OR qualifications acceptable to the Review Committee.",
+      "citation": {
+        "source": "CPR Residency, Section 2.5",
+        "page": 8,
+        "quote": "The program director must possess specialty expertise and at least three years of documented educational and/or administrative experience, or qualifications acceptable to the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-006",
+      "front": "What board certification must a residency Program Director hold?",
+      "back": "Current certification in the specialty by the American Board of [specialty] or by the American Osteopathic Board of [specialty], or specialty qualifications acceptable to the Review Committee.",
+      "citation": {
+        "source": "CPR Residency, Section 2.5.a",
+        "page": 8,
+        "quote": "The program director must possess current certification in the specialty for which they are the program director by the American Board of _____ or by the American Osteopathic Board of _____, or specialty qualifications that are acceptable to the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-007",
+      "front": "What is the Program Director's clinical activity requirement?",
+      "back": "The program director must demonstrate ongoing clinical activity.",
+      "citation": {
+        "source": "CPR Residency, Section 2.5.b",
+        "page": 8,
+        "quote": "2.5.b. The program director must demonstrate ongoing clinical activity. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-008",
+      "front": "Who must approve a change in residency Program Director?",
+      "back": "The Sponsoring Institution's GMEC must approve the change and verify the PD's licensure and clinical appointment. Final approval resides with the Review Committee (for specialties that require it).",
+      "citation": {
+        "source": "CPR Residency, Sections 2.2 and 2.2.a",
+        "page": 7,
+        "quote": "2.2. The Sponsoring Institution's GMEC must approve a change in program director and must verify the program director's licensure and clinical appointment. (Core) 2.2.a. Final approval of the program director resides with the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-009",
+      "front": "Within how many days must the Program Director document verification of education after a resident completes or departs from the program?",
+      "back": "Within 30 days of completion of or departure from the program. The PD must also provide verification upon a resident's request within 30 days.",
+      "citation": {
+        "source": "CPR Residency, Sections 2.6.j and 2.6.k",
+        "page": 11,
+        "quote": "2.6.j. The program director must document verification of education for all residents within 30 days of completion of or departure from the program. (Core) 2.6.k. The program director must provide verification of an individual resident's education upon the resident's request, within 30 days. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-010",
+      "front": "What defines a \"core faculty\" member?",
+      "back": "A faculty member who has a significant role in education and supervision of residents, devotes a significant portion of their entire effort to resident education and/or administration, and \u2014 as a component of their activities \u2014 teaches, evaluates, and provides formative feedback to residents.",
+      "citation": {
+        "source": "CPR Residency, Section 2.11",
+        "page": 13,
+        "quote": "Core faculty members must have a significant role in the education and supervision of residents and must devote a significant portion of their entire effort to resident education and/or administration, and must, as a component of their activities, teach, evaluate, and provide formative feedback to residents. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-011",
+      "front": "What does the CPR require regarding the program coordinator role?",
+      "back": "There must be a program coordinator, who must be provided with dedicated time and support adequate for administration of the program based on its size and configuration.",
+      "citation": {
+        "source": "CPR Residency, Sections 2.12 and 2.12.a",
+        "page": 15,
+        "quote": "2.12. Program Coordinator. There must be a program coordinator. (Core) 2.12.a. The program coordinator must be provided with dedicated time and support adequate for administration of the program based upon its size and configuration. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-012",
+      "front": "What are the eligibility pathways for appointment to an ACGME-accredited residency program?",
+      "back": "(a) Graduation from a US medical school accredited by LCME, or a US osteopathic college accredited by AOACOCA; OR (b) Graduation from a non-US medical school AND either holding a currently valid ECFMG certificate, OR holding a full and unrestricted medical license in the US jurisdiction where the program is located.",
+      "citation": {
+        "source": "CPR Residency, Sections 3.2.a and 3.2.b",
+        "page": 17,
+        "quote": "3.2.a. graduation from a medical school in the United States, accredited by the Liaison Committee on Medical Education (LCME) or graduation from a college of osteopathic medicine in the United States, accredited by the American Osteopathic Association Commission on Osteopathic College Accreditation (AOACOCA); or, (Core) 3.2.b. graduation from a medical school outside of the United States, and meeting one of the following additional qualifications: (Core) \u2022 holding a currently valid certificate from the Educational Commission for Foreign Medical Graduates (ECFMG) prior to appointment; or, (Core) \u2022 holding a full and unrestricted license to practice medicine in the United States licensing jurisdiction in which the ACGME-accredited program is located. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-013",
+      "front": "Are residents permitted to sign non-competition guarantees or restrictive covenants?",
+      "back": "No. Residents must not be required to sign a non-competition guarantee or restrictive covenant.",
+      "citation": {
+        "source": "CPR Residency, Section 3.1",
+        "page": 16,
+        "quote": "3.1. Residents must not be required to sign a non-competition guarantee or restrictive covenant. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-014",
+      "front": "What is the minimum composition of a Clinical Competency Committee (CCC)?",
+      "back": "At a minimum, three members of the program faculty, at least one of whom is a core faculty member.",
+      "citation": {
+        "source": "CPR Residency, Section 5.3.a",
+        "page": 29,
+        "quote": "5.3.a. At a minimum, the Clinical Competency Committee must include three members of the program faculty, at least one of whom is a core faculty member. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-015",
+      "front": "How often must the Clinical Competency Committee review resident evaluations?",
+      "back": "At least semi-annually (every 6 months).",
+      "citation": {
+        "source": "CPR Residency, Section 5.3.c",
+        "page": 29,
+        "quote": "5.3.c. The Clinical Competency Committee must review all resident evaluations at least semi-annually. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-016",
+      "front": "What is the maximum number of clinical and educational work hours per week for residents?",
+      "back": "80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, clinical work done from home, and all moonlighting.",
+      "citation": {
+        "source": "CPR Residency, Section 6.20",
+        "page": 42,
+        "quote": "Clinical and educational work hours must be limited to no more than 80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, clinical work done from home, and all moonlighting. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-017",
+      "front": "How many hours must residents have free of clinical work after 24 hours of in-house call?",
+      "back": "At least 14 hours free of clinical work and education.",
+      "citation": {
+        "source": "CPR Residency, Section 6.21.a",
+        "page": 43,
+        "quote": "6.21.a. Residents must have at least 14 hours free of clinical work and education after 24 hours of in-house call. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-018",
+      "front": "What is the minimum days-off requirement for residents?",
+      "back": "A minimum of one day in seven free of clinical work and required education, averaged over four weeks. At-home call cannot be assigned on these free days.",
+      "citation": {
+        "source": "CPR Residency, Section 6.21.b",
+        "page": 43,
+        "quote": "6.21.b. Residents must be scheduled for a minimum of one day in seven free of clinical work and required education (when averaged over four weeks). At-home call cannot be assigned on these free days. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-019",
+      "front": "What is the maximum length of a continuous clinical and educational work period for residents?",
+      "back": "24 hours of continuous scheduled clinical assignments, plus up to 4 additional hours for activities related to patient safety (e.g., effective transitions of care) and/or resident education. No additional patient care responsibilities may be assigned during the 4-hour extension.",
+      "citation": {
+        "source": "CPR Residency, Sections 6.22 and 6.22.a",
+        "page": 44,
+        "quote": "6.22. Clinical and educational work periods for residents must not exceed 24 hours of continuous scheduled clinical assignments. (Core) 6.22.a. Up to four hours of additional time may be used for activities related to patient safety, such as providing effective transitions of care, and/or resident education. Additional patient care responsibilities must not be assigned to a resident during this time. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-020",
+      "front": "May PGY-1 residents moonlight?",
+      "back": "No. PGY-1 residents are not permitted to moonlight. For residents at higher PGY levels, moonlighting is allowed but counts toward the 80-hour weekly maximum.",
+      "citation": {
+        "source": "CPR Residency, Sections 6.25.a and 6.25.b",
+        "page": 45,
+        "quote": "6.25.a. Time spent by residents in internal and external moonlighting (as defined in the ACGME Glossary of Terms) must be counted toward the 80-hour maximum weekly limit. (Core) 6.25.b. PGY-1 residents are not permitted to moonlight. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-021",
+      "front": "Name the ACGME Core Competencies as enumerated in the Common Program Requirements (Residency).",
+      "back": "The CPR enumerates seven competency domains: (4.3) Professionalism, (4.4) Patient Care, (4.5) Procedural Skills, (4.6) Medical Knowledge, (4.7) Practice-Based Learning and Improvement, (4.8) Interpersonal and Communication Skills, and (4.9) Systems-Based Practice.",
+      "citation": {
+        "source": "CPR Residency, Sections 4.3\u20134.9",
+        "page": 20,
+        "quote": "4.3. ACGME Competencies \u2013 Professionalism\u2026 4.4. ACGME Competencies \u2013 Patient Care\u2026 4.5. ACGME Competencies \u2013 Procedural Skills\u2026 4.6. ACGME Competencies \u2013 Medical Knowledge\u2026 4.7. ACGME Competencies \u2013 Practice-Based Learning and Improvement\u2026 4.8. ACGME Competencies \u2013 Interpersonal and Communication Skills\u2026 4.9. ACGME Competencies \u2013 Systems-Based Practice\u2026 The program must integrate all ACGME Competencies into the curriculum."
+      }
+    },
+    {
+      "id": "doc1-fc-022",
+      "front": "What are the three classifications of supervision used by the ACGME, and how is each defined?",
+      "back": "(1) Direct Supervision \u2014 the supervising physician is physically present with the resident during the key portions of the patient interaction. (2) Indirect Supervision \u2014 the supervising physician is not providing physical or concurrent visual/audio supervision but is immediately available to the resident for guidance and is available to provide appropriate direct supervision. (3) Oversight \u2014 the supervising physician is available to provide review of procedures/encounters with feedback provided after care is delivered.",
+      "citation": {
+        "source": "CPR Residency, Section 6.7 \u2014 Levels of Supervision",
+        "page": 35,
+        "quote": "6.7. Direct Supervision. The supervising physician is physically present with the resident during the key portions of the patient interaction\u2026 Indirect Supervision. The supervising physician is not providing physical or concurrent visual or audio supervision but is immediately available to the resident for guidance and is available to provide appropriate direct supervision. Oversight. The supervising physician is available to provide review of procedures/encounters with feedback provided after care is delivered."
+      }
+    },
+    {
+      "id": "doc1-fc-023",
+      "front": "What level of supervision must PGY-1 residents initially have?",
+      "back": "PGY-1 residents must initially be supervised directly. The Review Committee may describe the conditions under which PGY-1 residents progress to be supervised indirectly.",
+      "citation": {
+        "source": "CPR Residency, Section 6.7.a",
+        "page": 35,
+        "quote": "6.7.a. PGY-1 residents must initially be supervised directly, only as described in the above definition. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-024",
+      "front": "What educational components must the curriculum contain per the CPR?",
+      "back": "(a) program aims consistent with the Sponsoring Institution's mission and community needs; (b) competency-based goals and objectives for each educational experience; (c) delineation of resident responsibilities including progressive responsibility and graded supervision; (d) a broad range of structured didactic activities; (e) formal educational activities promoting patient safety-related goals, tools, and techniques.",
+      "citation": {
+        "source": "CPR Residency, Sections 4.2.a\u20134.2.e",
+        "page": 19,
+        "quote": "4.2. Educational Components. The curriculum must contain the following educational components: 4.2.a. a set of program aims consistent with the Sponsoring Institution's mission, the needs of the community it serves, and the desired distinctive capabilities of its graduates\u2026 4.2.b. competency-based goals and objectives for each educational experience\u2026 4.2.c. delineation of resident responsibilities for patient care, progressive responsibility for patient management, and graded supervision; 4.2.d. a broad range of structured didactic activities; and, 4.2.e. formal educational activities that promote patient safety-related goals, tools, and techniques. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-025",
+      "front": "What is the requirement for resident mental health care access?",
+      "back": "Programs (in partnership with their Sponsoring Institution) must provide access to confidential, affordable mental health assessment, counseling, and treatment, including access to urgent and emergent care 24 hours a day, seven days a week.",
+      "citation": {
+        "source": "CPR Residency, Section 6.13.e",
+        "page": 40,
+        "quote": "6.13.e. providing access to confidential, affordable mental health assessment, counseling, and treatment, including access to urgent and emergent care 24 hours a day, seven days a week. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-026",
+      "front": "Are residents permitted to attend medical, mental health, and dental care appointments during their working hours?",
+      "back": "Yes. Residents must be given the opportunity to attend medical, mental health, and dental care appointments, including those scheduled during their working hours.",
+      "citation": {
+        "source": "CPR Residency, Section 6.13.c.1",
+        "page": 39,
+        "quote": "6.13.c.1. Residents must be given the opportunity to attend medical, mental health, and dental care appointments, including those scheduled during their working hours. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-027",
+      "front": "Is Fatigue Mitigation classified as a Core, Detail, or Outcome requirement, and what does it require?",
+      "back": "Fatigue Mitigation is classified as a Detail requirement. Programs must educate all residents and faculty members in recognition of the signs of fatigue and sleep deprivation, alertness management, and fatigue mitigation processes.",
+      "citation": {
+        "source": "CPR Residency, Section 6.15",
+        "page": 41,
+        "quote": "6.15. Fatigue Mitigation. Programs must educate all residents and faculty members in recognition of the signs of fatigue and sleep deprivation, alertness management, and fatigue mitigation processes. (Detail)"
+      }
+    },
+    {
+      "id": "doc1-fc-028",
+      "front": "What environmental facilities must programs (in partnership with their Sponsoring Institution) provide at participating sites for residents?",
+      "back": "(a) access to food while on duty; (b) safe, quiet, clean, and private sleep/rest facilities with proximity appropriate for safe patient care; (c) clean and private facilities for lactation with refrigeration capabilities; (d) security and safety measures appropriate to the site; (e) accommodations for residents with disabilities consistent with Sponsoring Institution policy.",
+      "citation": {
+        "source": "CPR Residency, Sections 1.9.a\u20131.9.e",
+        "page": 5,
+        "quote": "1.9. The program, in partnership with its Sponsoring Institution, must ensure healthy and safe learning and working environments that promote resident well-being and provide for: 1.9.a. access to food while on duty; (Core) 1.9.b. safe, quiet, clean, and private sleep/rest facilities available and accessible for residents with proximity appropriate for safe patient care; (Core) 1.9.c. clean and private facilities for lactation that have refrigeration capabilities, with proximity appropriate for safe patient care; (Core) 1.9.d. security and safety measures appropriate to the participating site; and, (Core) 1.9.e. accommodations for residents with disabilities consistent with the Sponsoring Institution's policy. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-029",
+      "front": "What must the program's final evaluation for each resident include?",
+      "back": "(a) use of the specialty-specific Milestones (and Case Logs when applicable) to ensure readiness for autonomous practice; (b) becomes part of the resident's permanent institutional record, accessible for review per institutional policy; (c) verifies that the resident has demonstrated the knowledge, skills, and behaviors necessary to enter autonomous practice; (d) is shared with the resident upon completion of the program.",
+      "citation": {
+        "source": "CPR Residency, Sections 5.2.a\u20135.2.d",
+        "page": 28,
+        "quote": "5.2. Resident Evaluation: Final Evaluation. The program director must provide a final evaluation for each resident upon completion of the program. (Core) 5.2.a. The specialty-specific Milestones, and when applicable the specialty-specific Case Logs, must be used as tools to ensure residents are able to engage in autonomous practice upon completion of the program. (Core) 5.2.b. The final evaluation must become part of the resident's permanent record maintained by the institution, and must be accessible for review by the resident in accordance with institutional policy. (Core) 5.2.c. The final evaluation must verify that the resident has demonstrated the knowledge, skills, and behaviors necessary to enter autonomous practice. (Core) 5.2.d. The final evaluation must be shared with the resident upon completion of the program. (Core)"
+      }
+    },
+    {
+      "id": "doc1-fc-030",
+      "front": "How is \"conditional independence\" defined in the ACGME Glossary of Terms?",
+      "back": "Graded, progressive responsibility for patient care with defined oversight.",
+      "citation": {
+        "source": "CPR Residency, Section 6.10.a \u2014 Background and Intent",
+        "page": 36,
+        "quote": "Background and Intent: The ACGME Glossary of Terms defines conditional independence as: Graded, progressive responsibility for patient care with defined oversight."
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc1-residency-cpr-mc-001",
-      "stem": "Placeholder question #1 for Residency CPR: which of the following is the correct answer in this test stub?",
+      "id": "doc1-mc-001",
+      "stem": "According to the ACGME Common Program Requirements (Residency), how often must a Program Letter of Agreement (PLA) be renewed at minimum?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
+        "At least every 5 years",
+        "At least every 7 years",
+        "At least every 10 years",
+        "At the discretion of the program director"
       ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
+      "correctIndex": 2,
+      "explanation": "The CPR requires PLA renewal at least every 10 years. This is a Core requirement.",
       "citation": {
-        "source": "Residency CPR, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
+        "source": "CPR Residency, Section 1.3.a",
+        "page": 4,
+        "quote": "1.3.a. The PLA must be renewed at least every 10 years. (Core)"
       }
     },
     {
-      "id": "doc1-residency-cpr-mc-002",
-      "stem": "Placeholder question #2 for Residency CPR: which option is correct here?",
+      "id": "doc1-mc-002",
+      "stem": "A program director needs to add a new participating site that will provide a required rotation of one month FTE or more for all residents. Through which system must this addition be submitted?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "The participating site's own credentialing portal",
+        "The Sponsoring Institution's intranet",
+        "The ACGME Accreditation Data System (ADS)",
+        "The Designated Institutional Official's office"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 1.6 requires the program director to submit additions or deletions of participating sites that routinely provide a required educational experience of one month FTE or more through ADS.",
+      "citation": {
+        "source": "CPR Residency, Section 1.6",
+        "page": 4,
+        "quote": "1.6. The program director must submit any additions or deletions of participating sites routinely providing an educational experience, required for all residents, of one month full time equivalent (FTE) or more through the ACGME's Accreditation Data System (ADS). (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-003",
+      "stem": "What is the minimum documented educational and/or administrative experience requirement for a residency Program Director?",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "5 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Program Director must possess specialty expertise and at least three years of documented educational and/or administrative experience, or qualifications acceptable to the Review Committee.",
+      "citation": {
+        "source": "CPR Residency, Section 2.5",
+        "page": 8,
+        "quote": "The program director must possess specialty expertise and at least three years of documented educational and/or administrative experience, or qualifications acceptable to the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-004",
+      "stem": "Within what timeframe must a Program Director document verification of education for residents who complete or depart from the program?",
+      "options": [
+        "Within 7 days",
+        "Within 14 days",
+        "Within 30 days",
+        "Within 60 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 2.6.j requires the program director to document verification of education for all residents within 30 days of completion of or departure from the program.",
+      "citation": {
+        "source": "CPR Residency, Section 2.6.j",
+        "page": 11,
+        "quote": "2.6.j. The program director must document verification of education for all residents within 30 days of completion of or departure from the program. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-005",
+      "stem": "An international medical graduate (IMG) is being considered for appointment to an ACGME-accredited residency program. Which of the following, by itself, satisfies the eligibility requirements?",
+      "options": [
+        "Completion of an internship at a non-US site",
+        "Holding a currently valid ECFMG certificate prior to appointment",
+        "Letters of recommendation from US faculty",
+        "Acceptance by the program director alone"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "Per Section 3.2.b, an IMG is eligible if they hold a currently valid ECFMG certificate prior to appointment, OR hold a full and unrestricted license to practice medicine in the US jurisdiction where the program is located.",
       "citation": {
-        "source": "Residency CPR, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "CPR Residency, Section 3.2.b",
+        "page": 17,
+        "quote": "3.2.b. graduation from a medical school outside of the United States, and meeting one of the following additional qualifications: (Core) \u2022 holding a currently valid certificate from the Educational Commission for Foreign Medical Graduates (ECFMG) prior to appointment; or, (Core) \u2022 holding a full and unrestricted license to practice medicine in the United States licensing jurisdiction in which the ACGME-accredited program is located. (Core)"
       }
     },
     {
-      "id": "doc1-residency-cpr-mc-003",
-      "stem": "Placeholder question #3 for Residency CPR: test the review queue by intentionally answering this wrong.",
+      "id": "doc1-mc-006",
+      "stem": "What is the maximum number of clinical and educational work hours permitted for residents per week, and over what averaging period?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "80 hours per week, averaged over a 4-week period",
+        "80 hours per week, with no averaging permitted",
+        "60 hours per week, averaged over a 2-week period",
+        "100 hours per week, averaged over a 6-week period"
       ],
-      "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "correctIndex": 0,
+      "explanation": "Section 6.20 limits clinical and educational work hours to 80 hours per week, averaged over a 4-week period, inclusive of all in-house activities, work from home, and moonlighting.",
       "citation": {
-        "source": "Residency CPR, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "CPR Residency, Section 6.20",
+        "page": 42,
+        "quote": "Clinical and educational work hours must be limited to no more than 80 hours per week, averaged over a four-week period, inclusive of all in-house clinical and educational activities, clinical work done from home, and all moonlighting. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-007",
+      "stem": "After 24 hours of in-house call, how many hours must residents have free of clinical work and education?",
+      "options": [
+        "At least 8 hours",
+        "At least 10 hours",
+        "At least 14 hours",
+        "At least 24 hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 6.21.a requires at least 14 hours free of clinical work and education after 24 hours of in-house call. Note: residents \"should\" have 8 hours off between scheduled work periods (Section 6.21, a Detail requirement), but the 14-hour rule after 24-hour call is Core.",
+      "citation": {
+        "source": "CPR Residency, Section 6.21.a",
+        "page": 43,
+        "quote": "6.21.a. Residents must have at least 14 hours free of clinical work and education after 24 hours of in-house call. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-008",
+      "stem": "A first-year resident (PGY-1) wishes to moonlight on weekends to supplement income. Per the ACGME Common Program Requirements, is this permitted?",
+      "options": [
+        "Yes, if approved by the program director",
+        "Yes, if the additional hours don't exceed 80 hours weekly",
+        "No, PGY-1 residents are not permitted to moonlight",
+        "Yes, but only at the Sponsoring Institution"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 6.25.b prohibits PGY-1 residents from moonlighting. For residents at higher PGY levels, moonlighting is permitted but counts toward the 80-hour weekly limit.",
+      "citation": {
+        "source": "CPR Residency, Section 6.25.b",
+        "page": 45,
+        "quote": "6.25.b. PGY-1 residents are not permitted to moonlight. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-009",
+      "stem": "What is the minimum required composition of a Clinical Competency Committee (CCC)?",
+      "options": [
+        "Two program faculty members",
+        "Three program faculty members, at least one of whom is a core faculty member",
+        "Three core faculty members",
+        "The program director plus two faculty members"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 5.3.a requires that the CCC include at minimum three members of the program faculty, at least one of whom is a core faculty member.",
+      "citation": {
+        "source": "CPR Residency, Section 5.3.a",
+        "page": 29,
+        "quote": "5.3.a. At a minimum, the Clinical Competency Committee must include three members of the program faculty, at least one of whom is a core faculty member. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-010",
+      "stem": "Per the ACGME CPR, what is the maximum frequency at which residents may be scheduled for in-house call, averaged over four weeks?",
+      "options": [
+        "Every other night",
+        "Every third night",
+        "Every fourth night",
+        "Every fifth night"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.27 limits in-house call to no more frequently than every third night when averaged over a four-week period.",
+      "citation": {
+        "source": "CPR Residency, Section 6.27",
+        "page": 46,
+        "quote": "6.27. Maximum In-House On-Call Frequency. Residents must be scheduled for in-house call no more frequently than every third night (when averaged over a four-week period). (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-011",
+      "stem": "A residency program wants to apply for a clinical and educational work hour exception. What is the maximum that may be granted?",
+      "options": [
+        "Up to 84 hours per week",
+        "Up to 10% above the standard limit, or a maximum of 88 hours per week",
+        "Up to 90 hours per week",
+        "Exceptions are not permitted"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.24 allows a Review Committee to grant rotation-specific exceptions for up to 10 percent or a maximum of 88 clinical and educational work hours to individual programs based on a sound educational rationale. DIO/GMEC approval is required.",
+      "citation": {
+        "source": "CPR Residency, Section 6.24",
+        "page": 45,
+        "quote": "6.24. A Review Committee may grant rotation-specific exceptions for up to 10 percent or a maximum of 88 clinical and educational work hours to individual programs based on a sound educational rationale."
+      }
+    },
+    {
+      "id": "doc1-mc-012",
+      "stem": "What is the maximum length of a continuous clinical and educational work period for residents, including any permitted extension?",
+      "options": [
+        "24 hours, with no extension",
+        "24 hours of scheduled clinical work, plus up to 4 additional hours for activities such as transitions of care or education",
+        "30 hours of continuous scheduled clinical work",
+        "16 hours, with no extension"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.22 limits continuous scheduled clinical assignments to 24 hours. Section 6.22.a permits up to 4 additional hours for patient safety activities and/or resident education, but no additional patient care responsibilities may be assigned during this extension.",
+      "citation": {
+        "source": "CPR Residency, Sections 6.22 and 6.22.a",
+        "page": 44,
+        "quote": "6.22. Clinical and educational work periods for residents must not exceed 24 hours of continuous scheduled clinical assignments. (Core) 6.22.a. Up to four hours of additional time may be used for activities related to patient safety, such as providing effective transitions of care, and/or resident education. Additional patient care responsibilities must not be assigned to a resident during this time. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-013",
+      "stem": "Which best describes the minimum days-off requirement for residents under the ACGME CPR?",
+      "options": [
+        "Two days off per week, scheduled on weekends",
+        "One day in seven free of clinical work and required education, averaged over four weeks; at-home call cannot be assigned on these free days",
+        "Three days off per month",
+        "One day off per week, with at-home call permitted on the day off"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.21.b requires a minimum of one day in seven free of clinical work and required education, averaged over four weeks. At-home call cannot be assigned on these free days.",
+      "citation": {
+        "source": "CPR Residency, Section 6.21.b",
+        "page": 43,
+        "quote": "6.21.b. Residents must be scheduled for a minimum of one day in seven free of clinical work and required education (when averaged over four weeks). At-home call cannot be assigned on these free days. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-014",
+      "stem": "Regarding a change in residency Program Director, which of the following is true?",
+      "options": [
+        "The GMEC has no role; the change is determined by the program director's department alone.",
+        "The GMEC must approve the change and verify the PD's licensure and clinical appointment; final approval resides with the Review Committee.",
+        "Only the Sponsoring Institution's CEO must approve a change.",
+        "The DIO has sole authority over PD changes."
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 2.2 requires the GMEC to approve any change in program director and to verify the PD's licensure and clinical appointment. Section 2.2.a states that final approval resides with the Review Committee.",
+      "citation": {
+        "source": "CPR Residency, Sections 2.2 and 2.2.a",
+        "page": 7,
+        "quote": "2.2. The Sponsoring Institution's GMEC must approve a change in program director and must verify the program director's licensure and clinical appointment. (Core) 2.2.a. Final approval of the program director resides with the Review Committee. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-015",
+      "stem": "For a block rotation longer than three months in duration, how often must resident evaluation be documented?",
+      "options": [
+        "Only one evaluation at the end of the rotation is required",
+        "Evaluation must be documented at least every three months",
+        "Monthly evaluations are required",
+        "Only the rotation's final evaluation needs to be documented"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 5.1.a.1 specifies that for block rotations of greater than three months in duration, evaluation must be documented at least every three months.",
+      "citation": {
+        "source": "CPR Residency, Section 5.1.a.1",
+        "page": 27,
+        "quote": "5.1.a.1. For block rotations of greater than three months in duration, evaluation must be documented at least every three months. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-016",
+      "stem": "A supervising physician is not physically present with the resident, but is immediately available for guidance and able to provide direct supervision if needed. Which level of supervision does this describe?",
+      "options": [
+        "Direct Supervision",
+        "Indirect Supervision",
+        "Oversight",
+        "Conditional Supervision"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is the textbook definition of Indirect Supervision. Direct Supervision requires the supervising physician to be physically present. Oversight refers to retrospective review with feedback after care.",
+      "citation": {
+        "source": "CPR Residency, Section 6.7 \u2014 Indirect Supervision",
+        "page": 35,
+        "quote": "Indirect Supervision. The supervising physician is not providing physical or concurrent visual or audio supervision but is immediately available to the resident for guidance and is available to provide appropriate direct supervision."
+      }
+    },
+    {
+      "id": "doc1-mc-017",
+      "stem": "What level of supervision must PGY-1 residents initially have?",
+      "options": [
+        "Direct Supervision only",
+        "Indirect Supervision is sufficient",
+        "Oversight is sufficient",
+        "Supervision level is at the program director's discretion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Section 6.7.a requires PGY-1 residents to initially be supervised directly. The Review Committee may describe conditions under which PGY-1 residents progress to indirect supervision.",
+      "citation": {
+        "source": "CPR Residency, Section 6.7.a",
+        "page": 35,
+        "quote": "6.7.a. PGY-1 residents must initially be supervised directly, only as described in the above definition. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-018",
+      "stem": "Which of the following is NOT one of the required educational components that the curriculum must contain per Section 4.2 of the CPR?",
+      "options": [
+        "A set of program aims consistent with the Sponsoring Institution's mission",
+        "Competency-based goals and objectives for each educational experience",
+        "A formal student-faculty governance committee with voting members",
+        "Formal educational activities that promote patient safety-related goals, tools, and techniques"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 4.2 lists five required components: program aims, competency-based goals/objectives, delineation of resident responsibilities, structured didactic activities, and patient safety education activities. A student-faculty governance committee is not among them.",
+      "citation": {
+        "source": "CPR Residency, Section 4.2",
+        "page": 19,
+        "quote": "4.2. Educational Components. The curriculum must contain the following educational components: 4.2.a. a set of program aims\u2026 4.2.b. competency-based goals and objectives for each educational experience\u2026 4.2.c. delineation of resident responsibilities for patient care, progressive responsibility for patient management, and graded supervision; 4.2.d. a broad range of structured didactic activities; and, 4.2.e. formal educational activities that promote patient safety-related goals, tools, and techniques. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-019",
+      "stem": "What is required for resident access to mental health care?",
+      "options": [
+        "Annual mental health screening by the program director",
+        "Access to mental health services during normal business hours only",
+        "Access to confidential, affordable mental health assessment, counseling, and treatment, including urgent and emergent care 24 hours a day, seven days a week",
+        "Mental health resources are encouraged but not required"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 6.13.e requires programs to provide access to confidential, affordable mental health assessment, counseling, and treatment \u2014 including urgent and emergent care 24/7. In-person, telemedicine, or telephonic means may satisfy this requirement.",
+      "citation": {
+        "source": "CPR Residency, Section 6.13.e",
+        "page": 40,
+        "quote": "6.13.e. providing access to confidential, affordable mental health assessment, counseling, and treatment, including access to urgent and emergent care 24 hours a day, seven days a week. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-020",
+      "stem": "A resident needs to schedule a dental appointment that can only be booked during working hours. Per the CPR, the program must:",
+      "options": [
+        "Require the resident to use vacation time or wait until off-duty",
+        "Give the resident the opportunity to attend the appointment, even if scheduled during working hours",
+        "Allow the appointment only with documented evidence of necessity",
+        "Refer the request to the GMEC for approval"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.13.c.1 explicitly requires that residents be given the opportunity to attend medical, mental health, and dental care appointments, including those scheduled during their working hours. This is a Core requirement.",
+      "citation": {
+        "source": "CPR Residency, Section 6.13.c.1",
+        "page": 39,
+        "quote": "6.13.c.1. Residents must be given the opportunity to attend medical, mental health, and dental care appointments, including those scheduled during their working hours. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-021",
+      "stem": "Per the CPR, the Fatigue Mitigation requirement (Section 6.15) is classified as which type of requirement?",
+      "options": [
+        "Core",
+        "Detail",
+        "Outcome",
+        "Optional"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.15 is explicitly classified as a Detail requirement. Detail requirements describe a specific structure, resource, or process for achieving compliance with a Core Requirement.",
+      "citation": {
+        "source": "CPR Residency, Section 6.15",
+        "page": 41,
+        "quote": "6.15. Fatigue Mitigation. Programs must educate all residents and faculty members in recognition of the signs of fatigue and sleep deprivation, alertness management, and fatigue mitigation processes. (Detail)"
+      }
+    },
+    {
+      "id": "doc1-mc-022",
+      "stem": "What must residents participate in regarding patient safety and quality improvement?",
+      "options": [
+        "Annual online modules only",
+        "Observational rounds with the patient safety officer",
+        "Real and/or simulated interprofessional clinical patient safety and quality improvement activities, such as root cause analyses, including analysis and formulation/implementation of actions",
+        "Quarterly written self-assessments"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 6.3 requires residents to participate as team members in real and/or simulated interprofessional clinical patient safety and quality improvement activities \u2014 such as root cause analyses or other activities that include analysis, formulation, and implementation of actions.",
+      "citation": {
+        "source": "CPR Residency, Section 6.3",
+        "page": 34,
+        "quote": "6.3. Residents must participate as team members in real and/or simulated interprofessional clinical patient safety and quality improvement activities, such as root cause analyses or other activities that include analysis, as well as formulation and implementation of actions. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-023",
+      "stem": "Programs must report board certification status annually in ADS for which cohort of graduates?",
+      "options": [
+        "The graduating cohort from the past year",
+        "The cohort that graduated three years earlier",
+        "The cohort of board-eligible residents that graduated seven years earlier",
+        "All graduates from the past decade"
+      ],
+      "correctIndex": 2,
+      "explanation": "Section 5.6.e requires programs to report in ADS, annually, the board certification status of the cohort of board-eligible residents that graduated seven years earlier. Graduates are eligible for up to seven years from residency graduation for initial certification.",
+      "citation": {
+        "source": "CPR Residency, Section 5.6.e",
+        "page": 33,
+        "quote": "5.6.e. Programs must report, in ADS, board certification status annually for the cohort of board-eligible residents that graduated seven years earlier. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-024",
+      "stem": "A program is concerned that the presence of advanced practice providers and learners from other programs is affecting their residents' clinical experiences. Which CPR provision addresses this concern?",
+      "options": [
+        "Section 1.11 \u2014 Other Learners and Health Care Personnel must not negatively impact the appointed residents' education",
+        "There is no requirement on this topic",
+        "Section 3.4 \u2014 Resident Complement requires excluding other learners",
+        "Section 6.18 \u2014 Teamwork prohibits multiple disciplines on the same team"
+      ],
+      "correctIndex": 0,
+      "explanation": "Section 1.11 directly addresses this issue: the presence of other learners and other health care personnel \u2014 including residents from other programs, subspecialty fellows, and advanced practice providers \u2014 must not negatively impact the appointed residents' education.",
+      "citation": {
+        "source": "CPR Residency, Section 1.11",
+        "page": 6,
+        "quote": "1.11. Other Learners and Health Care Personnel. The presence of other learners and other health care personnel, including, but not limited to residents from other programs, subspecialty fellows, and advanced practice providers, must not negatively impact the appointed residents' education. (Core)"
+      }
+    },
+    {
+      "id": "doc1-mc-025",
+      "stem": "A resident is unable to safely return home after an extended shift due to fatigue. What is the program's responsibility?",
+      "options": [
+        "The resident must arrange and pay for their own transportation",
+        "The program (in partnership with its Sponsoring Institution) must ensure adequate sleep facilities and safe transportation options",
+        "The resident is expected to nap in their car",
+        "The program must call the resident's emergency contact"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 6.16 requires the program, in partnership with its Sponsoring Institution, to ensure adequate sleep facilities and safe transportation options for residents who may be too fatigued to safely return home.",
+      "citation": {
+        "source": "CPR Residency, Section 6.16",
+        "page": 41,
+        "quote": "6.16. The program, in partnership with its Sponsoring Institution, must ensure adequate sleep facilities and safe transportation options for residents who may be too fatigued to safely return home. (Core)"
       }
     }
   ]

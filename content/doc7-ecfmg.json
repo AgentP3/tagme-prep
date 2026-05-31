@@ -2,112 +2,778 @@
   "id": "doc7-ecfmg",
   "title": "ECFMG Certification Information Booklet",
   "shortTitle": "ECFMG Certification",
-  "documentRef": "Placeholder content for ECFMG Certification",
-  "description": "This is placeholder content used to verify app functionality. Real questions will replace these once content generation begins.",
+  "documentRef": "TAGME Study Guide pages 290\u2013351",
+  "description": "The 2025 ECFMG Certification Information Booklet (Intealth) \u2014 governs how international medical graduates (IMGs) obtain ECFMG Certification, which is required by the ACGME for IMG entry into ACGME-accredited residency and fellowship programs and is a prerequisite for USMLE Step 3 and unrestricted U.S. medical licensure.",
   "browseContent": [
     {
       "type": "heading",
-      "text": "About this section (placeholder)"
+      "text": "Document overview"
     },
     {
       "type": "paragraph",
-      "text": "This document covers ECFMG Certification Information Booklet. Browse content will be populated when real content is generated."
+      "text": "ECFMG, a division of Intealth, certifies that international medical graduates have met minimum standards of eligibility to enter ACGME-accredited residency and fellowship programs in the United States. The ACGME REQUIRES IMGs entering ACGME-accredited programs to be certified by ECFMG."
     },
     {
       "type": "subheading",
-      "text": "What will appear here"
+      "text": "Who is an IMG?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A physician who received a basic medical degree from a medical school located outside the United States and Canada. U.S. citizens who completed medical education outside the U.S./Canada ARE IMGs; non-U.S. citizens who graduated from U.S./Canadian medical schools are NOT IMGs. IMPORTANT: graduates of Canadian medical schools on or after July 1, 2025 will be considered IMGs for entry into U.S. GME \u2014 they must either obtain ECFMG Certification or hold a full, unrestricted U.S. medical license in the licensing jurisdiction where the ACGME program is located."
+    },
+    {
+      "type": "subheading",
+      "text": "Three certification requirements"
     },
     {
       "type": "list",
       "items": [
-        "Key terms and definitions from the source document",
-        "Major requirements and procedures explained in plain language",
-        "Cross-references to related sections of the study guide"
+        "Medical Science Examination: pass Step 1 AND Step 2 Clinical Knowledge (CK) of USMLE",
+        "Clinical Skills + Communication Skills: complete an ECFMG Pathway (including a satisfactory OET Medicine score) OR pass former Step 2 CS (discontinued 2020) \u2014 the passing performance must still be valid for ECFMG Certification",
+        "Medical education credentials: at least 4 credit years from a World Directory\u2013listed medical school with the ECFMG note stating it meets ECFMG eligibility requirements, plus verified final medical diploma and transcript"
+      ]
+    },
+    {
+      "type": "subheading",
+      "text": "Key time and identity rules"
+    },
+    {
+      "type": "list",
+      "items": [
+        "All exam requirements for ECFMG Certification must be satisfied within a 7-year period from the first passed exam",
+        "ECFMG does NOT notify applicants of upcoming time-limit deadlines",
+        "Each applicant gets one (and only one) USMLE/ECFMG Identification Number \u2014 attempting to obtain a second is irregular behavior",
+        "Name of record must match the current, unexpired passport exactly",
+        "The Application for ECFMG Certification includes the notarized Certification of Identification Form (Form 186), completed via NotaryCam"
       ]
     }
   ],
   "flashcards": [
     {
-      "id": "doc7-ecfmg-fc-001",
-      "front": "Placeholder flashcard #1 for ECFMG Certification",
-      "back": "This is the back of placeholder card 1. Real flashcards will contain definitions, key terms, and requirement summaries drawn directly from the source document.",
+      "id": "doc7-fc-001",
+      "front": "What is the purpose of ECFMG Certification?",
+      "back": "Through its program of certification, ECFMG assesses whether international medical graduates are ready to enter residency or fellowship programs in the United States that are accredited by the ACGME. The ACGME REQUIRES IMGs who enter ACGME-accredited programs to be certified by ECFMG. ECFMG Certification does NOT guarantee acceptance into programs (applicants exceed positions each year).",
       "citation": {
-        "source": "ECFMG Certification, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder quote from source document."
+        "source": "ECFMG, About ECFMG Certification",
+        "page": 299,
+        "quote": "ECFMG, through its program of certification, assesses whether international medical graduates are ready to enter residency or fellowship programs in the United States that are accredited by the Accreditation Council for Graduate Medical Education (ACGME). ACGME requires international medical graduates who enter ACGME-accredited programs to be certified by ECFMG. ECFMG Certification assures directors of ACGME-accredited residency and fellowship programs, and the people of the United States, that international medical graduates have met minimum standards of eligibility to enter such programs. ECFMG Certification does not, however, guarantee that these graduates will be accepted into programs; the number of applicants each year exceeds the number of available positions."
       }
     },
     {
-      "id": "doc7-ecfmg-fc-002",
-      "front": "Placeholder flashcard #2 for ECFMG Certification",
-      "back": "This second placeholder demonstrates that multiple cards work in this section.",
+      "id": "doc7-fc-002",
+      "front": "What is ECFMG Certification's relationship to USMLE Step 3 and U.S. medical licensure?",
+      "back": "ECFMG Certification is one of the eligibility requirements for IMGs to take Step 3 of the USMLE. Medical licensing authorities in the United States require that IMGs be certified by ECFMG, among other requirements, to obtain an unrestricted license to practice medicine.",
       "citation": {
-        "source": "ECFMG Certification, Section X.Y (placeholder)",
-        "page": 0,
-        "quote": "Another placeholder quote."
+        "source": "ECFMG, About ECFMG Certification",
+        "page": 299,
+        "quote": "ECFMG Certification is also one of the eligibility requirements for international medical graduates to take Step 3 of the three-step USMLE. Medical licensing authorities in the United States require that international medical graduates be certified by ECFMG, among other requirements, to obtain an unrestricted license to practice medicine."
       }
     },
     {
-      "id": "doc7-ecfmg-fc-003",
-      "front": "Placeholder flashcard #3 for ECFMG Certification",
-      "back": "Third placeholder card. Mark this one as 'Didn't know' to test that it lands in the review queue.",
+      "id": "doc7-fc-003",
+      "front": "How does ECFMG define an International Medical Graduate (IMG)?",
+      "back": "A physician who received their basic medical degree from a medical school located outside the United States and Canada. U.S. citizens who completed medical education in schools outside the U.S. and Canada ARE considered IMGs; non-U.S. citizens who graduated from medical schools in the U.S. and Canada are NOT considered IMGs.",
       "citation": {
-        "source": "ECFMG Certification, Section X.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder quote."
+        "source": "ECFMG, About ECFMG Certification",
+        "page": 299,
+        "quote": "ECFMG defines an international medical graduate as a physician who received his/her basic medical degree from a medical school located outside the United States and Canada. Citizens of the United States who have completed their medical education in schools outside the United States and Canada are considered international medical graduates; non-U.S. citizens who have graduated from medical schools in the United States and Canada are not considered international medical graduates."
+      }
+    },
+    {
+      "id": "doc7-fc-004",
+      "front": "What is the important change regarding Canadian medical school graduates and ECFMG starting July 1, 2025?",
+      "back": "Individuals who graduate from Canadian medical schools on or after July 1, 2025 will be considered IMGs for the purpose of entry into U.S. graduate medical education programs. For these graduates to enter ACGME-accredited residency programs, the ACGME will require them to either: (1) obtain ECFMG Certification, OR (2) hold a full and unrestricted license to practice medicine in the U.S. licensing jurisdiction in which the ACGME-accredited program is located.",
+      "citation": {
+        "source": "ECFMG, About ECFMG Certification \u2014 Important Note",
+        "page": 299,
+        "quote": "Individuals who will graduate from Canadian medical schools on or after July 1, 2025 will be considered international medical graduates for the purpose of entry into graduate medical education programs in the United States, and, in order for these graduates to enter ACGME-accredited residency programs, the ACGME will require that they either obtain ECFMG Certification or hold a full and unrestricted license to practice medicine in the U.S. licensing jurisdiction in which the ACGME-accredited program is located."
+      }
+    },
+    {
+      "id": "doc7-fc-005",
+      "front": "What are the three examination/skills requirements for ECFMG Certification?",
+      "back": "(1) Medical Science Examination Requirement: pass Step 1 AND Step 2 Clinical Knowledge (CK) of USMLE. (2) Clinical Skills Requirement. (3) Communication Skills Requirement. The clinical skills and communication skills requirements are satisfied EITHER by completing an ECFMG Pathway (including a satisfactory OET Medicine score) that is valid for ECFMG Certification, OR by a passing performance on the former Step 2 Clinical Skills (CS) component of USMLE that is still valid for ECFMG Certification.",
+      "citation": {
+        "source": "ECFMG, Examination Requirements",
+        "page": 313,
+        "quote": "To be eligible for ECFMG Certification, you must satisfy the medical science examination requirement, the clinical skills requirement, and the communication skills requirement\u2026 Medical Science Examination Requirement: To satisfy the medical science examination requirement for ECFMG Certification, you must pass Step 1 and Step 2 Clinical Knowledge (CK) of the United States Medical Licensing Examination (USMLE)\u2026 Clinical Skills Requirement and Communication Skills Requirement: To satisfy the clinical skills requirement and the communication skills requirement for ECFMG Certification, you must: Have satisfied the requirements of an ECFMG Pathway, which includes attaining a satisfactory score on the Occupational English Test (OET) Medicine, that is valid for ECFMG Certification, OR Have a passing performance on the former Step 2 Clinical Skills (CS) component of USMLE that is valid for ECFMG Certification."
+      }
+    },
+    {
+      "id": "doc7-fc-006",
+      "front": "What is the status of Step 2 CS for ECFMG Certification?",
+      "back": "Step 2 CS was discontinued by the USMLE program in 2020. Prior to its discontinuation, it was the exam that satisfied the clinical skills and communication skills requirements for ECFMG Certification. A passing performance on the former Step 2 CS that is STILL VALID for ECFMG Certification still satisfies these requirements (and applicants with valid Step 2 CS do not have to and are not eligible to pursue a Pathway).",
+      "citation": {
+        "source": "ECFMG, Examination Requirements \u2014 Important Note",
+        "page": 314,
+        "quote": "Prior to its discontinuation by the USMLE program in 2020, Step 2 CS was the exam that satisfied the clinical skills and communication skills requirements for ECFMG Certification. A passing performance on the former Step 2 CS component of USMLE that is valid for ECFMG Certification still satisfies the clinical skills and communication skills requirements. This means that, if you have a passing performance on Step 2 CS that is valid for ECFMG Certification, you do not have to (and are not eligible to) pursue a Pathway."
+      }
+    },
+    {
+      "id": "doc7-fc-007",
+      "front": "What is the time limit for completing the examination requirements for ECFMG Certification, and how is it tracked?",
+      "back": "All examination requirements for ECFMG Certification must be satisfied within a 7-YEAR PERIOD. The period begins on the date of the first exam passed and ends exactly 7 years from that date. If you do not satisfy all requirements within 7 years, your EARLIEST passing performance will no longer be valid for ECFMG Certification. It is the applicant's responsibility to track progress \u2014 ECFMG does NOT notify of upcoming deadlines.",
+      "citation": {
+        "source": "ECFMG, Time Limit for Completing Examination Requirements",
+        "page": 315,
+        "quote": "ECFMG requires that international medical graduates satisfy the examination requirements for ECFMG Certification within a seven-year period. This means that once you pass an exam, you will have seven years to meet the other examination requirements for ECFMG Certification. This seven-year period begins on the date of the first exam passed and ends exactly seven years from that date\u2026 If you do not satisfy all examination requirements within a maximum of seven years, your earliest passing performance will no longer be valid for ECFMG Certification. It is your responsibility to track your progress toward meeting the exam requirements for ECFMG Certification. ECFMG will not notify you of upcoming deadlines to meet the seven-year requirement and will not notify you if one (or more) of your passing performances becomes invalid for ECFMG Certification because you failed to meet the seven-year requirement."
+      }
+    },
+    {
+      "id": "doc7-fc-008",
+      "front": "Are accepted Pathways subject to the 7-year requirement?",
+      "back": "Yes. An accepted Pathways application must be on record within the 7-year period in order to meet the clinical skills and communication skills requirements for ECFMG Certification. (After the 7-year requirement is satisfied, a Pathway may still expire for OTHER purposes \u2014 such as becoming ECFMG Certified or entering the NRMP Match \u2014 and may be revalidated outside the 7-year period.)",
+      "citation": {
+        "source": "ECFMG, Time Limit for Completing Examination Requirements \u2014 Important Note",
+        "page": 315,
+        "quote": "Important Note: Accepted Pathways are subject to this seven-year requirement. This means that your Pathways application must be accepted within the seven-year period in order to meet the clinical skills requirement and communication skills requirement for ECFMG Certification. Once you satisfy all exam requirements for ECFMG Certification within a seven-year period, you have met the time limit for completing examination requirements. However, accepted Pathways are subject to expiration for other purposes, including for becoming ECFMG Certified and for entering the NRMP Match."
+      }
+    },
+    {
+      "id": "doc7-fc-009",
+      "front": "List the former examinations that are NOT accepted to meet ECFMG Certification examination requirements.",
+      "back": "(1) ECFMG Examination; (2) Federation Licensing Examination (FLEX); (3) Visa Qualifying Examination (VQE); (4) Foreign Medical Graduate Examination in the Medical Sciences (FMGEMS); (5) NBME Part I and Part II; (6) ECFMG Clinical Skills Assessment (CSA).",
+      "citation": {
+        "source": "ECFMG, Examination Requirements \u2014 Certain Former Exams Not Accepted",
+        "page": 315,
+        "quote": "Passing performance on the following former examinations cannot be used to meet the examination requirements for ECFMG Certification: ECFMG Examination; Federation Licensing Examination (FLEX); Visa Qualifying Examination (VQE); Foreign Medical Graduate Examination in the Medical Sciences (FMGEMS); NBME Part I and Part II; and ECFMG Clinical Skills Assessment (CSA)."
+      }
+    },
+    {
+      "id": "doc7-fc-010",
+      "front": "What is the USMLE/ECFMG Identification Number, and how many can a person have?",
+      "back": "Before submitting an Application for ECFMG Certification or applying to ECFMG for an exam, an applicant must obtain a USMLE/ECFMG Identification Number via on-line services. Each person receives ONLY ONE USMLE Identification Number \u2014 it cannot be changed. Obtaining (or attempting to obtain) a second USMLE/ECFMG Identification Number after one has been assigned may result in a finding of IRREGULAR BEHAVIOR.",
+      "citation": {
+        "source": "ECFMG, USMLE/ECFMG Identification Number",
+        "page": 303,
+        "quote": "Before you can submit an Application for ECFMG Certification or apply to ECFMG for an exam, you must obtain a USMLE/ECFMG Identification Number. You can obtain a USMLE/ECFMG Identification Number via our on-line services\u2026 You will only be assigned one USMLE Identification Number. Your USMLE Identification Number cannot be changed. Obtaining or attempting to obtain a USMLE/ECFMG Identification Number after one has been assigned to you may result in a finding of irregular behavior."
+      }
+    },
+    {
+      "id": "doc7-fc-011",
+      "front": "What name must appear in an applicant's ECFMG record?",
+      "back": "The applicant's name of record must match their name exactly as it appears on their current, unexpired passport. The name of record will appear on the Standard ECFMG Certificate and on the exam scheduling permit, which must match the identification presented at the test center (with only minor permissible differences).",
+      "citation": {
+        "source": "ECFMG, Your Name",
+        "page": 304,
+        "quote": "You must ensure that your name of record with us matches your name exactly as it appears on your current, unexpired passport. Your name of record will appear on your Standard ECFMG Certificate once you have met all requirements for certification. You must use this name consistently in all communications you send to us, including applications and requests for other services."
+      }
+    },
+    {
+      "id": "doc7-fc-012",
+      "front": "What is the Certification of Identification Form (Form 186), and how is it completed?",
+      "back": "Form 186 is the notarized identification form that is part of the Application for ECFMG Certification. It must be completed and notarized VIA NOTARYCAM. The Application for ECFMG Certification consists of the on-line application AND the notarized Form 186 from NotaryCam. The application is not considered complete until ECFMG receives and processes both.",
+      "citation": {
+        "source": "ECFMG, Application for ECFMG Certification",
+        "page": 313,
+        "quote": "The Application for ECFMG Certification consists of an on-line application and the Certification of Identification Form (Form 186) that must be completed and notarized via NotaryCam\u2026 An Application for ECFMG Certification will not be considered complete until ECFMG receives and processes both the on-line part of the application and the notarized Form 186 from NotaryCam."
+      }
+    },
+    {
+      "id": "doc7-fc-013",
+      "front": "What is the minimum medical education credential requirement for ECFMG Certification?",
+      "back": "Credit for at least 4 CREDIT YEARS (academic years for which credit has been given toward completion of the medical curriculum) by a medical school that is listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements. The applicant's graduation year must be included in the ECFMG note. Restrictions apply to transferred credits.",
+      "citation": {
+        "source": "ECFMG, Medical Education Credential Requirements",
+        "page": 338,
+        "quote": "To be eligible for ECFMG Certification, you must have been awarded credit for at least four credit years (academic years for which credit has been given toward completion of the medical curriculum) by a medical school that is listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements. Your graduation year must be included in the ECFMG note in your medical school's World Directory listing."
+      }
+    },
+    {
+      "id": "doc7-fc-014",
+      "front": "Which medical degrees do NOT qualify for ECFMG Certification?",
+      "back": "Graduates with degrees only in stomatology, ayurvedic or homeopathic medicine; graduates awarded only the diploma of Physician-Epidemiologist-Hygienist, Physician-Biochemist, Physician-Cyberneticist, Physician-Biophysicist, Licensed Medical Practitioner, or Assistant Medical Practitioner; and graduates awarded degrees in specialties other than Clinical Medicine (such as Traditional Chinese Medicine).",
+      "citation": {
+        "source": "ECFMG, Medical Education Credential Requirements \u2014 Important Notes",
+        "page": 338,
+        "quote": "Graduates not eligible for admission to the exams or for ECFMG Certification include, but are not limited to: Graduates with degrees only in stomatology, ayurvedic or homeopathic medicine; graduates awarded only the diploma of Physician-Epidemiologist-Hygienist, Physician-Biochemist, Physician-Cyberneticist, Physician-Biophysicist, Licensed Medical Practitioner, or Assistant Medical Practitioner; and graduates awarded degrees in specialties other than Clinical Medicine (such as in Traditional Chinese Medicine)."
+      }
+    },
+    {
+      "id": "doc7-fc-015",
+      "front": "Which entity registers IMGs for USMLE Step 1 and Step 2 CK, and which entities deliver and score the exams?",
+      "back": "ECFMG registers IMGs for Step 1 and Step 2 CK (processes application, verifies eligibility, notifies of outcome). NBME issues exam scheduling permits and scores all USMLE exams. Prometric serves as the test delivery entity at test centers worldwide.",
+      "citation": {
+        "source": "ECFMG, Registration and Test Delivery Entities \u2014 Step 1 and Step 2 CK",
+        "page": 325,
+        "quote": "ECFMG registers international medical students/graduates for Step 1 and Step 2 CK. This means that ECFMG processes your exam application and payment, verifies your eligibility, and notifies you of the outcome of your application\u2026 For eligible international medical students/graduates applying for Step 1/Step 2 Clinical Knowledge (CK), ECFMG forwards registration information to NBME, and NBME issues the exam scheduling permits\u2026 Scheduling and test centers for USMLE Step 1 and Step 2 CK are provided by Prometric. Prometric serves as the test delivery entity for all examinees taking Step 1/Step 2 CK. Step 1 and Step 2 CK are delivered at Prometric test centers worldwide. For all applicants, NBME is responsible for scoring USMLE exams and for issuing the score reports."
+      }
+    },
+    {
+      "id": "doc7-fc-016",
+      "front": "Who registers applicants for USMLE Step 3, and what is required to be eligible?",
+      "back": "The FSMB (Federation of State Medical Boards) registers all Step 3 applicants. To be eligible for Step 3, IMGs must be CERTIFIED BY ECFMG (among other requirements). Step 3 is delivered at Prometric test centers in the United States. NBME scores Step 3.",
+      "citation": {
+        "source": "ECFMG, Registration and Test Delivery Entities \u2014 Step 3",
+        "page": 325,
+        "quote": "The FSMB is the organization that registers all Step 3 applicants. To be eligible for Step 3, international medical graduates must be certified by ECFMG, among other requirements. See Eligibility for the USMLE Steps in the USMLE Bulletin of Information. If you have not met all eligibility requirements, your application for Step 3 will not be accepted. For detailed information and application procedures for Step 3, contact the FSMB. Scheduling and test centers for Step 3 are provided by Prometric, which serves as the test delivery entity for all Step 3 examinees. USMLE Step 3 is delivered at Prometric test centers in the United States. For all applicants, NBME is responsible for scoring USMLE exams and for issuing the score reports."
+      }
+    },
+    {
+      "id": "doc7-fc-017",
+      "front": "What is the maximum number of times an examinee can take the same USMLE Step?",
+      "back": "FOUR. The USMLE program limits to four the total number of times an examinee can take the same Step. Examinees who have attempted a Step four or more times (including incomplete attempts) and have not passed are ineligible to apply for any Step in the USMLE exam sequence. Attempts at the formerly administered Step 2 CS count toward the limit.",
+      "citation": {
+        "source": "ECFMG, Reexamination and Reapplication \u2014 Number of Attempts Allowed",
+        "page": 336,
+        "quote": "The USMLE program limits to four the total number of times an examinee can take the same Step. Examinees who have attempted a Step four or more times, including incomplete attempts, and have not passed are ineligible to apply for any Step in the USMLE exam sequence. Attempts at the formerly administered Step 2 CS count toward the limit. All attempts at a Step are counted toward the limit, regardless of when the exams were taken."
+      }
+    },
+    {
+      "id": "doc7-fc-018",
+      "front": "What are the time-between-attempts rules for the same USMLE Step?",
+      "back": "An examinee may NOT take the same examination more than 3 times within a 12-month period. The 4th attempt must be at least 12 months after the 1st attempt at that exam AND at least 6 months after the most recent attempt at that exam. Incomplete attempts count.",
+      "citation": {
+        "source": "ECFMG, Reexamination and Reapplication \u2014 Time Between Examination Attempts",
+        "page": 337,
+        "quote": "The USMLE program has established rules on how quickly you can retake the same Step. You may not take the same examination more than three times within a 12-month period. Your fourth attempt must be at least 12 months after your first attempt at that exam and at least six months after your most recent attempt at that exam. This includes incomplete attempts."
+      }
+    },
+    {
+      "id": "doc7-fc-019",
+      "front": "What does ECFMG do with the final medical diploma and medical school transcript?",
+      "back": "ECFMG verifies every IMG's final medical diploma DIRECTLY with the appropriate officials of the issuing medical school. ECFMG also requests the medical school provide the final medical school transcript. The applicant's credentials are NOT considered complete until ECFMG receives and accepts verification of the final medical diploma, final medical school transcript, and (if required) transfer credit transcript(s) DIRECTLY from the issuing school(s).",
+      "citation": {
+        "source": "ECFMG, Verification of Credentials",
+        "page": 348,
+        "quote": "ECFMG verifies every international medical graduate's final medical diploma with the appropriate officials of the medical school that issued the diploma. At the same time, ECFMG requests the medical school to provide the final medical school transcript. Transcripts to document transferred credits are also subject to verification by ECFMG with the issuing school. You will not fulfill the ECFMG medical education credential requirements until verification of your final medical diploma, final medical school transcript, and, if required, transfer credit transcript(s) is received directly from the issuing school(s) and accepted by ECFMG."
+      }
+    },
+    {
+      "id": "doc7-fc-020",
+      "front": "What is required when documents submitted to ECFMG are not in English?",
+      "back": "Documents must be submitted in the ORIGINAL LANGUAGE. Any document not in English must be accompanied by an official English translation that meets ECFMG's translation requirements. Original language documents without an acceptable English translation will not be accepted, and English translations without the original language document will not be accepted either.",
+      "citation": {
+        "source": "ECFMG, English Translations",
+        "page": 348,
+        "quote": "Documents must be submitted to ECFMG in the original language. Any document submitted to ECFMG that is not in English must be accompanied by an official English translation that meets ECFMG's translation requirements\u2026 Original language documents that are not accompanied by an English translation that meets ECFMG's translation requirements will not be accepted. Likewise, English translations that are not accompanied by the original language document will not be accepted."
+      }
+    },
+    {
+      "id": "doc7-fc-021",
+      "front": "What happens if ECFMG receives a credential not in English and the school does not provide an acceptable translation?",
+      "back": "ECFMG will have the credential translated into English by an independent translation service. ECFMG will charge the applicant's financial account for the translation and notify the applicant of the charge. ECFMG will NOT notify the applicant before sending the document for translation.",
+      "citation": {
+        "source": "ECFMG, English Translations \u2014 Important Note",
+        "page": 348,
+        "quote": "If the credential provided by your medical school is not in English and an acceptable English translation is not provided by the medical school, ECFMG will have the credential translated into English by an independent translation service. ECFMG will charge your financial account for the translation and will subsequently notify you of the charge. ECFMG will not notify you before sending the document for translation."
+      }
+    },
+    {
+      "id": "doc7-fc-022",
+      "front": "What information is included on a Standard ECFMG Certificate?",
+      "back": "(1) The name of the applicant; (2) the certificate number; (3) how the examination requirements were met; (4) the date the certificate was issued; and (5) the valid-through date, IF APPLICABLE (when the certification was met via a Pathway). The certificate is issued approximately 2 weeks after all requirements are met, and is sent to the applicant's address of record by FedEx.",
+      "citation": {
+        "source": "ECFMG, Standard ECFMG Certificate",
+        "page": 302,
+        "quote": "ECFMG issues the Standard ECFMG Certificate to applicants who meet all of the requirements for certification\u2026 Standard ECFMG Certificates are issued to applicants approximately two weeks after all of these requirements have been met. The date that the Standard ECFMG Certificate is issued is the date an international medical graduate is considered certified by ECFMG. Currently, ECFMG sends the Standard ECFMG Certificate to the applicant's address of record by FedEx. The Standard ECFMG Certificate includes: The name of the applicant; The certificate number; How the examination requirements were met; The date that the certificate was issued; and The valid through date, if applicable."
+      }
+    },
+    {
+      "id": "doc7-fc-023",
+      "front": "When does an ECFMG Certificate based on a Pathway expire?",
+      "back": "When the underlying Pathway expires \u2014 UNLESS the applicant meets the requirements to have the certificate made valid INDEFINITELY (i.e., no longer subject to expiration). Certificates issued based on a Pathway are subject to expiration; see the ECFMG website for permanent validation procedures and Pathways revalidation.",
+      "citation": {
+        "source": "ECFMG, Expiration of the ECFMG Certificate Based on a Pathway",
+        "page": 302,
+        "quote": "If you meet the clinical skills requirement and the communication skills requirement for ECFMG Certification through a Pathway, your ECFMG Certificate is subject to expiration. Your certificate will expire when your Pathway expires, unless you meet the requirements to have your certificate made valid indefinitely (i.e., no longer subject to expiration)."
+      }
+    },
+    {
+      "id": "doc7-fc-024",
+      "front": "What is required for an accepted Pathway to be valid for the NRMP Main Residency Match?",
+      "back": "An accepted, unexpired Pathway is required to participate in the NRMP Main Residency Match (and to become ECFMG Certified). Pathways are offered on a seasonal application cycle, and the expiration date is based on the Pathways season for which the application was accepted.",
+      "citation": {
+        "source": "ECFMG, Examination Requirements \u2014 Important Note on Validity of Pathways",
+        "page": 314,
+        "quote": "The Pathways are offered on a seasonal application cycle, and international medical graduates should consider the timing of their applications carefully. If you meet the clinical skills requirement and communication skills requirement for ECFMG Certification through the Pathways, your accepted Pathway is subject to expiration. The expiration date is based on the Pathways season for which the Pathways application was accepted. An accepted, unexpired Pathway is required to become ECFMG Certified. An accepted, unexpired Pathway also is required to participate in the National Resident Matching Program\u00ae (NRMP\u00ae) Main Residency Match\u00ae (The Match\u00ae)."
+      }
+    },
+    {
+      "id": "doc7-fc-025",
+      "front": "What is the Certification Verification Service (CVS)?",
+      "back": "ECFMG's Certification Verification Service is a primary-source confirmation of the ECFMG Certification status of IMGs. ECFMG confirms a certified IMG's status when a request is received from a U.S. medical licensing authority, residency program director, hospital, or other organization that \u2014 in ECFMG's judgment \u2014 has a legitimate interest in the information.",
+      "citation": {
+        "source": "ECFMG, Confirming ECFMG Certification to Third Parties",
+        "page": 302,
+        "quote": "ECFMG offers the Certification Verification Service (CVS) to provide primary-source confirmation of the ECFMG Certification status of international medical graduates. ECFMG will confirm your certification status when a request is received from a U.S. medical licensing authority, residency program director, hospital, or other organization that, in the judgment of ECFMG, has a legitimate interest in such information."
+      }
+    },
+    {
+      "id": "doc7-fc-026",
+      "front": "What is the eligibility requirement for an international medical school STUDENT to take Step 1 and Step 2 CK?",
+      "back": "The student must be officially enrolled in a medical school that is listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements \u2014 BOTH at the time of application AND on the test day.",
+      "citation": {
+        "source": "ECFMG, Eligibility for Examination \u2014 International Medical School Students",
+        "page": 318,
+        "quote": "To be eligible for Step 1 and Step 2 Clinical Knowledge (CK), you must be officially enrolled in a medical school that is listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements, both at the time that you apply for examination and on your test day."
+      }
+    },
+    {
+      "id": "doc7-fc-027",
+      "front": "What must a medical school student do if dismissed, withdrawn, or on a leave of absence from school after submitting an exam application?",
+      "back": "The student must inform ECFMG IMMEDIATELY IN WRITING of their dismissal, withdrawal, or leave of absence. Students who are not officially enrolled in medical school are not eligible to apply for or take USMLE. Failure to inform ECFMG of an eligibility change may result in a finding of IRREGULAR BEHAVIOR and permanent annotation of the applicant's record.",
+      "citation": {
+        "source": "ECFMG, Eligibility for Examination \u2014 International Medical School Students",
+        "page": 320,
+        "quote": "Medical school students who have been dismissed or withdraw(n) from medical school must inform ECFMG immediately in writing of their dismissal or withdrawal. Medical school students who take a leave of absence should consult with their medical schools about whether they will be considered officially enrolled in medical school during leave\u2026 Applicants who take a leave of absence after submitting an application for examination to ECFMG must inform ECFMG immediately in writing of this leave. Failure to inform ECFMG that you may no longer be eligible to take the examination may result in a finding of irregular behavior and permanent annotation of your record."
+      }
+    },
+    {
+      "id": "doc7-fc-028",
+      "front": "What is the eligibility requirement for an international medical school GRADUATE to take Step 1 and Step 2 CK?",
+      "back": "The applicant must be a graduate of a medical school listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements. The applicant's graduation year must be included in the \"Graduation Years\" of the ECFMG note. The applicant must have been awarded credit for at least 4 credit years by a qualifying medical school. An authorized official of the medical school must certify the applicant's status as a graduate.",
+      "citation": {
+        "source": "ECFMG, Eligibility for Examination \u2014 International Medical School Graduates",
+        "page": 320,
+        "quote": "To be eligible for Step 1 and Step 2 CK, you must be a graduate of a medical school that is listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements. Your graduation year must be included in the \"Graduation Years\" listed in the ECFMG note in your medical school's World Directory listing\u2026 You must have been awarded credit for at least four credit years (academic years for which credit has been given toward completion of the medical curriculum) by a medical school that is listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements. An authorized official of your medical school must certify your status as a graduate of the school; instructions will be provided at the time of application."
+      }
+    },
+    {
+      "id": "doc7-fc-029",
+      "front": "Does ECFMG accept original documents from applicants? What size must photocopies be?",
+      "back": "No \u2014 ECFMG instructs applicants NOT to send original documents (they will not be returned). The photocopy of the credential or related document must be 216 mm x 279 mm (8\u00bd in x 11 in). If the original is larger, the applicant must send a reduced photocopy at that size.",
+      "citation": {
+        "source": "ECFMG, Guide to On-line Services and Forms \u2014 Mail/courier service",
+        "page": 298,
+        "quote": "We will not accept letters or other deliveries that arrive with postage or other fees due. Do not send original documents. The photocopy of your credential or related document must be 216 mm x 279 mm (8\u00bd in x 11 in). If the document is larger than 216 mm x 279 mm (8\u00bd in x 11 in), you must send a reduced photocopy that is 216 mm x 279 mm (8\u00bd in x 11 in)."
+      }
+    },
+    {
+      "id": "doc7-fc-030",
+      "front": "What is the consequence of having engaged in irregular behavior with ECFMG?",
+      "back": "If found to have engaged in irregular behavior, the applicant's score report and transcripts will include this finding, the applicant may be barred from taking the USMLE in the future, and the applicant's score may be canceled. A permanent annotation is added to the applicant's record. Examples include: submitting falsified passports, submitting falsified Mini-CEX documentation, providing false information on an application, attempting to obtain multiple USMLE/ECFMG IDs.",
+      "citation": {
+        "source": "ECFMG, USMLE Program and Irregular Behavior",
+        "page": 334,
+        "quote": "If you are found to have engaged in irregular behavior, your score report and transcripts will include this finding, you may be barred from taking the USMLE in the future, and your score may be canceled\u2026 Anomalous performance and/or unusual testing history may impact your access to the USMLE\u2026 The above-described conduct may also be considered irregular behavior under ECFMG's Policies and Procedures Regarding Irregular Behavior."
       }
     }
   ],
   "mcQuestions": [
     {
-      "id": "doc7-ecfmg-mc-001",
-      "stem": "Placeholder question #1 for ECFMG Certification: which of the following is the correct answer in this test stub?",
+      "id": "doc7-mc-001",
+      "stem": "Per the ECFMG definition, which of the following individuals would be considered an International Medical Graduate (IMG)?",
       "options": [
-        "Option A \u2014 this is the correct answer",
-        "Option B \u2014 a plausible distractor",
-        "Option C \u2014 another distractor",
-        "Option D \u2014 a final distractor"
+        "A U.S. citizen who graduated from a U.S. medical school",
+        "A non-U.S. citizen who graduated from a U.S. medical school",
+        "A U.S. citizen who completed medical education at a school located outside the United States and Canada",
+        "A non-U.S. citizen who graduated from a Canadian medical school in 2018"
       ],
-      "correctIndex": 0,
-      "explanation": "This is a placeholder explanation. Real explanations will reference the source document and explain why the correct answer is correct (and why distractors are wrong).",
+      "correctIndex": 2,
+      "explanation": "Per ECFMG's definition, a U.S. citizen who completed medical education at a school outside the U.S. and Canada IS considered an IMG. Non-U.S. citizens who graduated from U.S. or Canadian medical schools are NOT considered IMGs.",
       "citation": {
-        "source": "ECFMG Certification, Section X.X (placeholder)",
-        "page": 0,
-        "quote": "Placeholder source quote for the MC question."
+        "source": "ECFMG, About ECFMG Certification",
+        "page": 299,
+        "quote": "Citizens of the United States who have completed their medical education in schools outside the United States and Canada are considered international medical graduates; non-U.S. citizens who have graduated from medical schools in the United States and Canada are not considered international medical graduates."
       }
     },
     {
-      "id": "doc7-ecfmg-mc-002",
-      "stem": "Placeholder question #2 for ECFMG Certification: which option is correct here?",
+      "id": "doc7-mc-002",
+      "stem": "Under the change effective July 1, 2025, what will be required for graduates of Canadian medical schools to enter ACGME-accredited residency programs in the United States?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 the correct answer",
-        "Option C \u2014 wrong",
-        "Option D \u2014 wrong"
+        "Only Canadian licensure",
+        "Either obtain ECFMG Certification OR hold a full and unrestricted license to practice medicine in the U.S. licensing jurisdiction where the ACGME-accredited program is located",
+        "Only a J-1 visa is needed",
+        "Only a passing USMLE Step 3 score is required"
       ],
       "correctIndex": 1,
-      "explanation": "Second placeholder explanation. Real items will cite the exact section and quote the relevant passage.",
+      "explanation": "Per the Important Note in ECFMG's booklet, graduates of Canadian medical schools on or after July 1, 2025 will be considered IMGs. To enter ACGME-accredited programs, they must either obtain ECFMG Certification or hold a full and unrestricted U.S. medical license in the licensing jurisdiction where the ACGME-accredited program is located.",
       "citation": {
-        "source": "ECFMG Certification, Section Y.Y (placeholder)",
-        "page": 0,
-        "quote": "A second placeholder source quote."
+        "source": "ECFMG, About ECFMG Certification \u2014 Important Note",
+        "page": 299,
+        "quote": "Individuals who will graduate from Canadian medical schools on or after July 1, 2025 will be considered international medical graduates for the purpose of entry into graduate medical education programs in the United States, and, in order for these graduates to enter ACGME-accredited residency programs, the ACGME will require that they either obtain ECFMG Certification or hold a full and unrestricted license to practice medicine in the U.S. licensing jurisdiction in which the ACGME-accredited program is located."
       }
     },
     {
-      "id": "doc7-ecfmg-mc-003",
-      "stem": "Placeholder question #3 for ECFMG Certification: test the review queue by intentionally answering this wrong.",
+      "id": "doc7-mc-003",
+      "stem": "Which examinations satisfy the medical science examination requirement for ECFMG Certification?",
       "options": [
-        "Option A \u2014 wrong",
-        "Option B \u2014 wrong",
-        "Option C \u2014 wrong",
-        "Option D \u2014 the correct answer"
+        "Step 1, Step 2 CK, and Step 3",
+        "Step 1 and Step 2 Clinical Knowledge (CK) of USMLE",
+        "Step 2 CK only",
+        "USMLE Step 1 plus the ECFMG Examination"
       ],
-      "correctIndex": 3,
-      "explanation": "Third placeholder explanation. Getting this wrong should land it in the adaptive review queue.",
+      "correctIndex": 1,
+      "explanation": "Per Examination Requirements, the medical science examination requirement is satisfied by passing Step 1 AND Step 2 Clinical Knowledge (CK) of the USMLE. Step 3 is NOT required for ECFMG Certification.",
       "citation": {
-        "source": "ECFMG Certification, Section Z.Z (placeholder)",
-        "page": 0,
-        "quote": "A third placeholder source quote."
+        "source": "ECFMG, Examination Requirements \u2014 Medical Science Examination Requirement",
+        "page": 313,
+        "quote": "To satisfy the medical science examination requirement for ECFMG Certification, you must pass Step 1 and Step 2 Clinical Knowledge (CK) of the United States Medical Licensing Examination (USMLE)."
+      }
+    },
+    {
+      "id": "doc7-mc-004",
+      "stem": "How may an IMG satisfy the clinical skills and communication skills requirements for ECFMG Certification?",
+      "options": [
+        "Only by completing an ECFMG Pathway, which includes a satisfactory OET Medicine score",
+        "Only by a passing performance on the former Step 2 CS",
+        "By satisfying an ECFMG Pathway (including OET Medicine) valid for ECFMG Certification, OR by a passing performance on the former Step 2 CS that is valid for ECFMG Certification",
+        "By passing the IELTS English exam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Examination Requirements, the clinical skills and communication skills requirements are met EITHER by satisfying an ECFMG Pathway (including a satisfactory OET Medicine score) valid for ECFMG Certification, OR by a passing performance on the former Step 2 CS valid for ECFMG Certification.",
+      "citation": {
+        "source": "ECFMG, Examination Requirements",
+        "page": 313,
+        "quote": "To satisfy the clinical skills requirement and the communication skills requirement for ECFMG Certification, you must: Have satisfied the requirements of an ECFMG Pathway, which includes attaining a satisfactory score on the Occupational English Test (OET) Medicine, that is valid for ECFMG Certification, OR Have a passing performance on the former Step 2 Clinical Skills (CS) component of USMLE that is valid for ECFMG Certification."
+      }
+    },
+    {
+      "id": "doc7-mc-005",
+      "stem": "When was the USMLE Step 2 Clinical Skills (CS) exam discontinued?",
+      "options": [
+        "2015",
+        "2020",
+        "2022",
+        "It has not been discontinued"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the Important Note in Examination Requirements, Step 2 CS was discontinued by the USMLE program in 2020. A passing Step 2 CS that is still valid for ECFMG Certification continues to satisfy the clinical skills and communication skills requirements.",
+      "citation": {
+        "source": "ECFMG, Examination Requirements \u2014 Important Note",
+        "page": 314,
+        "quote": "Prior to its discontinuation by the USMLE program in 2020, Step 2 CS was the exam that satisfied the clinical skills and communication skills requirements for ECFMG Certification."
+      }
+    },
+    {
+      "id": "doc7-mc-006",
+      "stem": "What is the time limit for completing the examination requirements for ECFMG Certification?",
+      "options": [
+        "3 years from passing the first exam",
+        "5 years from passing the first exam",
+        "7 years from the date of the first exam passed (and ECFMG does not notify of upcoming deadlines)",
+        "10 years from passing the first exam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Time Limit for Completing Examination Requirements, ECFMG requires that IMGs satisfy all exam requirements within a 7-YEAR period from the date of the first exam passed. ECFMG does NOT notify applicants of upcoming deadlines \u2014 it is the applicant's responsibility to track progress.",
+      "citation": {
+        "source": "ECFMG, Time Limit for Completing Examination Requirements",
+        "page": 315,
+        "quote": "ECFMG requires that international medical graduates satisfy the examination requirements for ECFMG Certification within a seven-year period. This means that once you pass an exam, you will have seven years to meet the other examination requirements for ECFMG Certification. This seven-year period begins on the date of the first exam passed and ends exactly seven years from that date."
+      }
+    },
+    {
+      "id": "doc7-mc-007",
+      "stem": "An IMG passed Step 1 on April 1, 2017, and Step 2 CK on May 1, 2018. By April 1, 2024 she did not have an accepted Pathways application. What happens next?",
+      "options": [
+        "Both her Step 1 and Step 2 CK passing performances expire on April 1, 2024",
+        "Her Step 1 passing performance is no longer valid for ECFMG Certification; her earliest valid passing performance is now Step 2 CK (May 1, 2018), and she now has through May 1, 2025 to pass Step 1 and complete a Pathway",
+        "She must wait 7 years before reapplying",
+        "Her ECFMG record is permanently disqualified"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the example in Time Limit for Completing Examination Requirements, if 7 years pass without satisfying all requirements, the EARLIEST passing performance becomes invalid. The next-earliest passing performance now starts the 7-year clock. So Step 1 becomes invalid, Step 2 CK (May 1, 2018) becomes the earliest valid pass, and she has through May 1, 2025 to complete the remaining requirements.",
+      "citation": {
+        "source": "ECFMG, Time Limit for Completing Examination Requirements \u2014 Examples",
+        "page": 316,
+        "quote": "An international medical graduate passed Step 1 on April 1, 2017, and passed Step 2 CK on May 1, 2018. She had through April 1, 2024 (seven years from her Step 1 passing performance) to complete a Pathway, satisfying the remaining exam requirements for ECFMG Certification. She did not have an accepted Pathways application by April 1, 2024, so her passing performance on Step 1 is no longer valid for ECFMG Certification. Her earliest USMLE passing performance that is valid for ECFMG Certification is now the Step 2 CK passing performance on May 1, 2018. She now has through May 1, 2025 (seven years from her Step 2 CK passing performance) to pass Step 1 and complete a Pathway, satisfying the remaining exam requirements for ECFMG Certification."
+      }
+    },
+    {
+      "id": "doc7-mc-008",
+      "stem": "Which of the following former exams CANNOT be used to meet ECFMG Certification examination requirements?",
+      "options": [
+        "Step 1",
+        "Step 2 CK",
+        "Federation Licensing Examination (FLEX)",
+        "Step 2 CS (where the passing performance is still valid for ECFMG Certification)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Examination Requirements, the former examinations that cannot be used include FLEX, ECFMG Examination, VQE, FMGEMS, NBME Part I and Part II, and ECFMG CSA. Step 2 CS (where still valid) DOES still meet the clinical/communication skills requirement.",
+      "citation": {
+        "source": "ECFMG, Examination Requirements \u2014 Certain Former Exams Not Accepted",
+        "page": 315,
+        "quote": "Passing performance on the following former examinations cannot be used to meet the examination requirements for ECFMG Certification: ECFMG Examination; Federation Licensing Examination (FLEX); Visa Qualifying Examination (VQE); Foreign Medical Graduate Examination in the Medical Sciences (FMGEMS); NBME Part I and Part II; and ECFMG Clinical Skills Assessment (CSA)."
+      }
+    },
+    {
+      "id": "doc7-mc-009",
+      "stem": "How many USMLE/ECFMG Identification Numbers may an applicant have?",
+      "options": [
+        "One number per Step taken",
+        "Only one \u2014 and attempting to obtain a second after one has been assigned may result in a finding of irregular behavior",
+        "Up to three if name has been changed",
+        "A new number is issued each year"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the USMLE/ECFMG Identification Number section, each applicant is assigned only ONE USMLE Identification Number. The number cannot be changed. Obtaining or attempting to obtain a second number may result in a finding of irregular behavior.",
+      "citation": {
+        "source": "ECFMG, USMLE/ECFMG Identification Number",
+        "page": 303,
+        "quote": "You will only be assigned one USMLE Identification Number. Your USMLE Identification Number cannot be changed. Obtaining or attempting to obtain a USMLE/ECFMG Identification Number after one has been assigned to you may result in a finding of irregular behavior."
+      }
+    },
+    {
+      "id": "doc7-mc-010",
+      "stem": "What name must an applicant use as their name of record with ECFMG?",
+      "options": [
+        "Their name at birth",
+        "Their name exactly as it appears on their current, unexpired passport",
+        "Their preferred professional name",
+        "Their medical school's transcript name"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Your Name, the name of record must match the applicant's name exactly as it appears on their current, unexpired passport. The name of record will appear on the Standard ECFMG Certificate and on the exam scheduling permit.",
+      "citation": {
+        "source": "ECFMG, Your Name",
+        "page": 304,
+        "quote": "You must ensure that your name of record with us matches your name exactly as it appears on your current, unexpired passport."
+      }
+    },
+    {
+      "id": "doc7-mc-011",
+      "stem": "What is the Certification of Identification Form (Form 186), and how must it be completed?",
+      "options": [
+        "An online-only checkbox; no notarization needed",
+        "A notarized identification form that must be completed and notarized via NotaryCam as part of the Application for ECFMG Certification",
+        "A paper form mailed to ECFMG without notarization",
+        "An optional supplemental form"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Application for ECFMG Certification, Form 186 is the notarized identification form that must be completed and notarized via NotaryCam. The Application for ECFMG Certification consists of the on-line application AND the notarized Form 186.",
+      "citation": {
+        "source": "ECFMG, Application for ECFMG Certification",
+        "page": 313,
+        "quote": "The Application for ECFMG Certification consists of an on-line application and the Certification of Identification Form (Form 186) that must be completed and notarized via NotaryCam."
+      }
+    },
+    {
+      "id": "doc7-mc-012",
+      "stem": "What is the minimum medical education credit requirement to be eligible for ECFMG Certification?",
+      "options": [
+        "At least 2 credit years",
+        "At least 4 credit years from a World Directory\u2013listed medical school with an ECFMG note stating it meets ECFMG eligibility requirements",
+        "At least 6 credit years from any medical school",
+        "Only a final medical diploma is required (no minimum credit years)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Medical Education Credential Requirements, the applicant must have been awarded credit for at least 4 credit years by a medical school listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements. The applicant's graduation year must be included in the ECFMG note.",
+      "citation": {
+        "source": "ECFMG, Medical Education Credential Requirements",
+        "page": 338,
+        "quote": "To be eligible for ECFMG Certification, you must have been awarded credit for at least four credit years (academic years for which credit has been given toward completion of the medical curriculum) by a medical school that is listed in the World Directory with an ECFMG note stating it meets ECFMG eligibility requirements."
+      }
+    },
+    {
+      "id": "doc7-mc-013",
+      "stem": "Which of the following degrees is NOT eligible for ECFMG Certification?",
+      "options": [
+        "A standard MD degree from a school listed in the World Directory with ECFMG note",
+        "An MBBS degree from a qualifying school",
+        "Degrees only in stomatology, ayurvedic medicine, homeopathic medicine, or Traditional Chinese Medicine; or only specialized diplomas like Physician-Biophysicist or Licensed Medical Practitioner",
+        "Standard MBBCh degree from a qualifying school"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per the Important Notes in Medical Education Credential Requirements, graduates not eligible include those with degrees only in stomatology, ayurvedic medicine, or homeopathic medicine; only diplomas of Physician-Epidemiologist-Hygienist, Physician-Biochemist, Physician-Cyberneticist, Physician-Biophysicist, Licensed Medical Practitioner, or Assistant Medical Practitioner; and graduates of specialties other than Clinical Medicine (such as Traditional Chinese Medicine).",
+      "citation": {
+        "source": "ECFMG, Medical Education Credential Requirements \u2014 Important Notes",
+        "page": 338,
+        "quote": "Graduates not eligible for admission to the exams or for ECFMG Certification include, but are not limited to: Graduates with degrees only in stomatology, ayurvedic or homeopathic medicine; graduates awarded only the diploma of Physician-Epidemiologist-Hygienist, Physician-Biochemist, Physician-Cyberneticist, Physician-Biophysicist, Licensed Medical Practitioner, or Assistant Medical Practitioner; and graduates awarded degrees in specialties other than Clinical Medicine (such as in Traditional Chinese Medicine)."
+      }
+    },
+    {
+      "id": "doc7-mc-014",
+      "stem": "Which entity registers IMGs for USMLE Step 1 and Step 2 CK, and which entity scores all USMLE exams?",
+      "options": [
+        "FSMB registers; FSMB scores",
+        "ECFMG registers IMGs for Step 1/Step 2 CK; NBME scores all USMLE exams",
+        "NBME registers; Prometric scores",
+        "ACGME registers; ABMS scores"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Registration and Test Delivery Entities, ECFMG registers IMGs for Step 1 and Step 2 CK. ECFMG forwards registration to NBME, which issues the exam scheduling permits. NBME scores all USMLE exams. Prometric provides scheduling and test centers.",
+      "citation": {
+        "source": "ECFMG, Registration and Test Delivery Entities",
+        "page": 325,
+        "quote": "ECFMG registers international medical students/graduates for Step 1 and Step 2 CK\u2026 For eligible international medical students/graduates applying for Step 1/Step 2 Clinical Knowledge (CK), ECFMG forwards registration information to NBME, and NBME issues the exam scheduling permits\u2026 For all applicants, NBME is responsible for scoring USMLE exams and for issuing the score reports."
+      }
+    },
+    {
+      "id": "doc7-mc-015",
+      "stem": "Who registers IMGs for USMLE Step 3, and what is required to be eligible?",
+      "options": [
+        "ECFMG; no ECFMG Certification needed",
+        "FSMB registers all Step 3 applicants; IMGs must be CERTIFIED BY ECFMG (among other requirements) to be eligible",
+        "NBME; only passing Step 2 CK is required",
+        "ACGME; only program enrollment is required"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Registration and Test Delivery Entities, FSMB is the organization that registers all Step 3 applicants. To be eligible for Step 3, IMGs must be certified by ECFMG (among other requirements).",
+      "citation": {
+        "source": "ECFMG, Registration and Test Delivery Entities \u2014 Step 3",
+        "page": 325,
+        "quote": "The FSMB is the organization that registers all Step 3 applicants. To be eligible for Step 3, international medical graduates must be certified by ECFMG, among other requirements."
+      }
+    },
+    {
+      "id": "doc7-mc-016",
+      "stem": "What is the USMLE program's maximum number of times an examinee can take the same Step?",
+      "options": [
+        "3",
+        "4 (including incomplete attempts; attempts at former Step 2 CS count)",
+        "5",
+        "Unlimited"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Reexamination and Reapplication, the USMLE program limits to FOUR the total number of times an examinee can take the same Step. Examinees who have attempted a Step four or more times (including incomplete attempts) and have not passed are ineligible to apply for any Step in the USMLE sequence. Attempts at the former Step 2 CS count toward this limit.",
+      "citation": {
+        "source": "ECFMG, Reexamination and Reapplication \u2014 Number of Attempts Allowed",
+        "page": 336,
+        "quote": "The USMLE program limits to four the total number of times an examinee can take the same Step. Examinees who have attempted a Step four or more times, including incomplete attempts, and have not passed are ineligible to apply for any Step in the USMLE exam sequence. Attempts at the formerly administered Step 2 CS count toward the limit."
+      }
+    },
+    {
+      "id": "doc7-mc-017",
+      "stem": "What are the time-between-attempts rules for the same USMLE Step?",
+      "options": [
+        "No restrictions on retake timing",
+        "Maximum 3 attempts in a 12-month period; the 4th attempt must be at least 12 months after the 1st attempt AND at least 6 months after the most recent attempt; incomplete attempts count",
+        "Wait at least 6 months between any two attempts",
+        "Maximum 2 attempts per year"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Time Between Examination Attempts, an examinee may not take the same exam more than 3 times within a 12-month period. The 4th attempt must be at least 12 months after the 1st attempt AND at least 6 months after the most recent attempt. Incomplete attempts count.",
+      "citation": {
+        "source": "ECFMG, Reexamination and Reapplication \u2014 Time Between Examination Attempts",
+        "page": 337,
+        "quote": "You may not take the same examination more than three times within a 12-month period. Your fourth attempt must be at least 12 months after your first attempt at that exam and at least six months after your most recent attempt at that exam. This includes incomplete attempts."
+      }
+    },
+    {
+      "id": "doc7-mc-018",
+      "stem": "How does ECFMG verify medical education credentials, and from whom must verification be received?",
+      "options": [
+        "ECFMG accepts notarized copies submitted by the applicant",
+        "ECFMG verifies every IMG's final medical diploma DIRECTLY with the issuing medical school; verification of the diploma, final transcript, and (if required) transfer credit transcripts must be received directly from the issuing school(s) and accepted by ECFMG",
+        "Only a third-party credential evaluation is required",
+        "Verification is optional"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Verification of Credentials, ECFMG verifies every IMG's final medical diploma directly with the medical school officials who issued it. ECFMG also requests the medical school provide the final transcript. The medical education credential requirements are not fulfilled until verification is received DIRECTLY from the issuing school(s) and accepted by ECFMG.",
+      "citation": {
+        "source": "ECFMG, Verification of Credentials",
+        "page": 348,
+        "quote": "ECFMG verifies every international medical graduate's final medical diploma with the appropriate officials of the medical school that issued the diploma. At the same time, ECFMG requests the medical school to provide the final medical school transcript. Transcripts to document transferred credits are also subject to verification by ECFMG with the issuing school. You will not fulfill the ECFMG medical education credential requirements until verification of your final medical diploma, final medical school transcript, and, if required, transfer credit transcript(s) is received directly from the issuing school(s) and accepted by ECFMG."
+      }
+    },
+    {
+      "id": "doc7-mc-019",
+      "stem": "If an applicant submits a non-English credential to ECFMG and the school did not provide an acceptable English translation, what happens?",
+      "options": [
+        "ECFMG returns the document and asks the applicant to translate it",
+        "ECFMG will have the credential translated into English by an independent translation service, charge the applicant's financial account, and notify the applicant of the charge AFTER sending the document for translation",
+        "ECFMG rejects the application outright",
+        "The applicant pays in advance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the Important Note in English Translations, if a credential is not in English and an acceptable translation is not provided by the medical school, ECFMG will have it translated by an independent service. ECFMG will charge the applicant's financial account and notify them of the charge \u2014 but not before sending the document for translation.",
+      "citation": {
+        "source": "ECFMG, English Translations \u2014 Important Note",
+        "page": 348,
+        "quote": "If the credential provided by your medical school is not in English and an acceptable English translation is not provided by the medical school, ECFMG will have the credential translated into English by an independent translation service. ECFMG will charge your financial account for the translation and will subsequently notify you of the charge. ECFMG will not notify you before sending the document for translation."
+      }
+    },
+    {
+      "id": "doc7-mc-020",
+      "stem": "When does an ECFMG Certificate issued based on a Pathway expire?",
+      "options": [
+        "It never expires",
+        "Exactly 7 years from issuance",
+        "When the underlying Pathway expires \u2014 unless the applicant meets the requirements to have the certificate made valid indefinitely",
+        "Only when revoked by ECFMG"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per Expiration of the ECFMG Certificate Based on a Pathway, the certificate is subject to expiration when the underlying Pathway expires, unless the applicant meets the requirements to have the certificate made valid indefinitely.",
+      "citation": {
+        "source": "ECFMG, Expiration of the ECFMG Certificate Based on a Pathway",
+        "page": 302,
+        "quote": "If you meet the clinical skills requirement and the communication skills requirement for ECFMG Certification through a Pathway, your ECFMG Certificate is subject to expiration. Your certificate will expire when your Pathway expires, unless you meet the requirements to have your certificate made valid indefinitely (i.e., no longer subject to expiration)."
+      }
+    },
+    {
+      "id": "doc7-mc-021",
+      "stem": "Which is required to participate in the NRMP Main Residency Match through ECFMG?",
+      "options": [
+        "Any ECFMG application is sufficient",
+        "An accepted, unexpired Pathway is required to participate in the NRMP Main Residency Match (and to become ECFMG Certified)",
+        "Only Step 1 must be passed",
+        "Only Step 3 must be passed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the Important Note on Validity of Pathways, an accepted, unexpired Pathway is required to become ECFMG Certified AND to participate in the NRMP Main Residency Match.",
+      "citation": {
+        "source": "ECFMG, Examination Requirements \u2014 Important Note on Validity of Pathways",
+        "page": 314,
+        "quote": "An accepted, unexpired Pathway is required to become ECFMG Certified. An accepted, unexpired Pathway also is required to participate in the National Resident Matching Program\u00ae (NRMP\u00ae) Main Residency Match\u00ae (The Match\u00ae)."
+      }
+    },
+    {
+      "id": "doc7-mc-022",
+      "stem": "What is the Certification Verification Service (CVS)?",
+      "options": [
+        "A service that helps applicants verify their school's credentials",
+        "ECFMG's primary-source confirmation service for the ECFMG Certification status of IMGs, available to U.S. medical licensing authorities, residency program directors, hospitals, or other organizations with a legitimate interest",
+        "A third-party background-check vendor",
+        "An applicant-facing tool only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Confirming ECFMG Certification to Third Parties, CVS is ECFMG's primary-source confirmation service. ECFMG confirms certification status when a request is received from a U.S. medical licensing authority, residency program director, hospital, or other organization that \u2014 in ECFMG's judgment \u2014 has a legitimate interest.",
+      "citation": {
+        "source": "ECFMG, Confirming ECFMG Certification to Third Parties",
+        "page": 302,
+        "quote": "ECFMG offers the Certification Verification Service (CVS) to provide primary-source confirmation of the ECFMG Certification status of international medical graduates. ECFMG will confirm your certification status when a request is received from a U.S. medical licensing authority, residency program director, hospital, or other organization that, in the judgment of ECFMG, has a legitimate interest in such information."
+      }
+    },
+    {
+      "id": "doc7-mc-023",
+      "stem": "A medical school student takes a leave of absence after applying for a USMLE Step but does not inform ECFMG. What is the potential consequence?",
+      "options": [
+        "No consequence \u2014 the student's status is unchanged",
+        "A finding of irregular behavior and permanent annotation of the applicant's record; ECFMG may cancel the registration",
+        "Only a temporary administrative hold",
+        "Automatic refund of fees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per the section on International Medical School Students, students must inform ECFMG immediately in writing if they take a leave of absence after applying for an exam. Failure to do so may result in a finding of irregular behavior and permanent annotation of the record.",
+      "citation": {
+        "source": "ECFMG, Eligibility for Examination \u2014 International Medical School Students",
+        "page": 320,
+        "quote": "Applicants who take a leave of absence after submitting an application for examination to ECFMG must inform ECFMG immediately in writing of this leave. Failure to inform ECFMG that you may no longer be eligible to take the examination may result in a finding of irregular behavior and permanent annotation of your record."
+      }
+    },
+    {
+      "id": "doc7-mc-024",
+      "stem": "Approximately how long after meeting all certification requirements is a Standard ECFMG Certificate issued, and how is it delivered?",
+      "options": [
+        "1 week; by U.S. Postal Service",
+        "Approximately 2 weeks; sent by FedEx to the applicant's address of record",
+        "1 month; sent electronically only",
+        "6 weeks; picked up in person only"
+      ],
+      "correctIndex": 1,
+      "explanation": "Per Standard ECFMG Certificate, certificates are issued approximately 2 weeks after all requirements have been met, and are sent to the applicant's address of record by FedEx.",
+      "citation": {
+        "source": "ECFMG, Standard ECFMG Certificate",
+        "page": 302,
+        "quote": "Standard ECFMG Certificates are issued to applicants approximately two weeks after all of these requirements have been met. The date that the Standard ECFMG Certificate is issued is the date an international medical graduate is considered certified by ECFMG. Currently, ECFMG sends the Standard ECFMG Certificate to the applicant's address of record by FedEx."
+      }
+    },
+    {
+      "id": "doc7-mc-025",
+      "stem": "ECFMG instructs applicants about sending original documents. Which statement is correct?",
+      "options": [
+        "Originals are required for verification",
+        "Originals are accepted and returned after processing",
+        "Do NOT send original documents (they will not be returned); photocopies must be 216 mm x 279 mm (8\u00bd in x 11 in), and larger originals must be reduced to that size",
+        "Originals must be notarized before submission"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per the mail/courier service instructions, ECFMG specifically instructs applicants not to send original documents. Photocopies must be 8\u00bd x 11 inches (216 mm x 279 mm), and larger originals must be reduced to that size.",
+      "citation": {
+        "source": "ECFMG, Guide to On-line Services and Forms \u2014 Mail/courier service",
+        "page": 298,
+        "quote": "Do not send original documents. The photocopy of your credential or related document must be 216 mm x 279 mm (8\u00bd in x 11 in). If the document is larger than 216 mm x 279 mm (8\u00bd in x 11 in), you must send a reduced photocopy that is 216 mm x 279 mm (8\u00bd in x 11 in)."
       }
     }
   ]
